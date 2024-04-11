@@ -1,0 +1,570 @@
+---
+echo: TRUE
+title: 'Deputados Federais sobre manter ou não Chiquinho Brazão preso:'
+subtitle: análise dos discursos dos Deputados Federais na sessão de 10 de abril de 2024
+date: "`r Sys.Date()`"
+author:
+  - name: 
+      given: Jonathan Morais Barcellos
+      family: Ferreira
+    email: jonathanmbferreira@outlook.com
+    affiliation: Universidade Federal do Rio Grande
+code-overflow: wrap
+citation:
+  type: report
+  title: 'Deputados Federais sobre manter ou não Chiquinho Brazão preso: análise dos discursos dos Deputados Federais na sessão de 10 de abril de 2024'
+  url: https://johnmbf.github.io/discurso_caso_brazao
+  issued: 2024
+  language: pt-br
+  publisher: Grupo de Estudos e Pesquisas em Direito Constitucional e Violência
+  publisher-place: Rio Grande
+lang: pt
+license:
+  text: |
+    Este trabalho está protegido com uma licença CC BY-NA 4.0. Você pode copiar, distribuir e exibir o trabalho e fazer obras derivadas. Sob as seguintes condições: você deve dar crédito ao autor original, não pode usar este trabalho para fins comerciais e você não pode alterar, transformar ou criar em cima deste trabalho. Para qualquer reutilização ou distribuição, você deve deixar claro para outros os termos da licença deste trabalho. Qualquer uma destas condições pode ser renunciada, desde que você obtenha permissão do autor. Nada nesta licença prejudica ou restringe os direitos morais do autor. Mais informações sobre a licença, acesse https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR.
+  type: "CC BY-NC"
+  url: "https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR"
+csl: ARQ/abnt.csl
+toc: true
+toc-depth: 2
+appendix-cite-as: display
+code-fold: true
+code-line-numbers: false
+code-block-bg: '#ededed'
+execute: 
+  warning: false
+  error: false
+df-print: paged
+citations-hover: true
+footnotes-hover: true
+cap-location: top
+reference-location: margin
+citation-location: margin
+code-annotations: hover
+theme: cosmo
+lightbox: true
+title-block-banner: '#d6deb9'
+keep_md: yes
+editor_options: 
+  chunk_output_type: console
+format: html
+code-folding: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache = TRUE, warning = FALSE, error = FALSE, message = FALSE)
+
+library(ggplot2)
+```
+
+# Coletar os discursos
+
+O primeiro passo foi coletar os discursos. Para isso, foi utilizado o pacote `rvest` para fazer o scraping dos discursos da sessão da Câmara dos Deputados do dia 10 de abril de 2024. O código abaixo mostra como os discursos foram coletados e organizados em um data frame. Como se trata de uma sessão recente, o discurso ainda não está disponível na API, mas no site da Câmara dos Deputados na seção de ["discursos em tempo real"](https://www.camara.leg.br/internet/sitaqweb/discursodireto.asp).
+
+```{r}
+html <- rvest::read_html('https://escriba.camara.leg.br/escriba-servicosweb/html/72401') # <1>
+
+texto <- html |> # <2>
+  xml2::xml_find_all("//table[@id='tabelaQuartos']") |> # <2>
+  xml2::xml_children() |> # <2>
+  xml2::xml_find_all("//div[@class='principalStyle']") # <2>
+
+for (i in 1:length(texto)) {
+  nome <- texto[[i]] |> # <3>
+    xml2::xml_child() |> # <3>
+    xml2::xml_attr('name') # <3>
+  
+  discurso <- texto[[i]] |> # <4>
+    xml2::xml_text() |> # <4>
+    stringr::str_squish() # <4>
+  
+  dados <- data.frame(id = nome, discurso = discurso) # <5>
+  
+  if (i == 1) { # <5>
+    df <- dados # <5>
+  } else { # <5> 
+    df <- rbind(df, dados) # <5>
+  } # <5>
+   
+}
+```
+
+1. A função `rvest::read_html()` é utilizada para baixar o conteúdo da página web.
+2. A função `xml2::xml_find_all()` é utilizada para encontrar os elementos HTML que contêm os discursos. No caso da Câmara dos Deputados, os discursos estão dentro de uma tabela com o id `tabelaQuartos`, e cada discurso está dentro de um `div` com a classe `principalStyle`.
+3. A função `xml2::xml_child()` é utilizada para encontrar o id do discurso. O id do deputado está dentro de um atributo chamado `name`.
+4. A função `xml2::xml_text()` é utilizada para encontrar o texto do discurso.
+5. Os dados são armazenados em um data frame. Se for o primeiro discurso, o data frame é criado. Caso contrário, os dados são adicionados ao data frame existente.
+
+Em um segundo momento foi necessário limpar os discursos e extrair o nome do deputado que fez o discurso. O código abaixo mostra como isso foi feito. Todo discurso do deputado começa com "O SR." ou "A SRA." seguido do nome do deputado. No entanto, o nome do deputado pode estar em diferentes formatos, como "O SR. FULANO", "A SRA. FULANA", "O SR. DEPUTADO FULANO", "A SRA. DEPUTADA FULANA", entre outros. Para extrair o nome do deputado, foi utilizada uma expressão regular que captura o texto que vem após "O SR." ou "A SRA." e antes de um parêntese. O código abaixo mostra como os discursos foram limpos e o nome do deputado foi extraído. O Sr. Cleber Lopes é o advogado do deputado Chiquinho Brazão e seus discursos foram removidos da análise.
+
+```{r}
+dados <- df |>
+  dplyr::mutate(nome = stringr::str_extract(discurso, "(O|A) S(R|RA)[^()]+(?=\\()|O SR. CLEBER LOPES")) |> # <1>
+  tidyr::fill(nome) |> # <2>
+  dplyr::filter(nome != "O SR. CLEBER LOPES") |> # <3>
+  dplyr::mutate(nome = nome |> stringr::str_remove("O SR. |A SRA. "), # <4>
+                nome = nome |> stringr::str_trim()) # <4>
+
+dados <- dados |> dplyr::mutate(
+    nome = dplyr::case_when( # <5>
+      stringr::str_detect(dados$discurso, 'Gilberto Nascimento') ~ "GILBERTO NASCIMENTO", # <5>
+      stringr::str_detect(dados$discurso, 'Pompeo de Mattos') ~ "POMPEO DE MATTOS", # <5>
+      stringr::str_detect(dados$discurso, 'Arthur Lira') ~ "ARTHUR LIRA", # <5>
+      nome == "PRESIDENTE" ~ NA, # <5>
+      TRUE ~ nome)) # <5>
+
+dados <- dados |> tidyr::fill(nome) # <6>
+
+dados <- dados |> dplyr::mutate(discurso = discurso |> stringr::str_remove_all("(O|A) S(R|RA)[^()]+(?=\\()"), # <7>
+                                discurso = discurso |> stringr::str_remove_all("\\(.*?\\)"), # <7>
+                                discurso = discurso |> stringr::str_trim()) # <7>
+```
+
+1. A função `dplyr::mutate()` é utilizada para criar uma nova variável chamada `nome` que contém o nome do deputado. A expressão regular `"(O|A) S(R|RA)[^()]+(?=\\()|O SR. CLEBER LOPES"` é utilizada para extrair o nome do deputado do discurso. A expressão regular captura o texto que vem após "O SR." ou "A SRA." e antes de um parêntese.
+2. A função `tidyr::fill()` é utilizada para preencher os valores ausentes na coluna `nome`.
+3. A função `dplyr::filter()` é utilizada para remover os discursos do advogado do Chiquinho Brazão.
+4. A função `dplyr::mutate()` é utilizada para remover o prefixo "O SR. " ou "A SRA. " dos nomes dos deputados e remover espaços em branco extras.
+5. A função `dplyr::case_when()` é utilizada para trocar o "PRESIDENTE" pelo nome do presidente referente ao discurso. Dessa forma, a condição é verificada no texto do discurso e, se for verdadeira, o nome do presidente é atribuído à variável `nome`. Caso contrário, o nome do deputado é mantido.
+6. A função `tidyr::fill()` é utilizada novamente para preencher os valores ausentes na coluna `nome`.
+7. A função `dplyr::mutate()` é utilizada para remover o prefixo "O SR. " ou "A SRA. " e o nome do deputado do discurso. A expressão regular `"(O|A) S(R|RA)[^()]+(?=\\())"` é utilizada para remover o nome do deputado do discurso. A expressão regular `"(O|A) S(R|RA)[^()]+(?=\\())"` captura o texto que vem após "O SR." ou "A SRA." e antes de um parêntese. A expressão regular `"\\(.*?\\)"` é utilizada para remover o texto entre parênteses. Dessa forma a parte inicial dos discursos dos Deputados é removida.
+
+Se você for observar a tabela antes da parte 5 da execução do código, verá que o nome do presidente não está presente. Isso ocorre porque o nome do presidente não é mencionado no discurso, mas é uma informação relevante para a análise. Por isso, foi necessário adicionar o nome do presidente ao data frame utilizando de condições. Verifica-se no texto do discurso de o nome do presidente está presente e se sim, retorna o nome do presidente respectivo. A sessão foi presidida por três Deputados Federais em momentos distintos. 
+
+O próximo passo vou buscar informações sobre os deputados. Para isso, foi utilizada a API da Câmara dos Deputados para obter informações sobre os deputados, como partido e estado.
+
+```{r}
+url <- 'https://dadosabertos.camara.leg.br/api/v2/deputados'
+deputado <- httr::GET(url) # <1>
+deputado <- httr::content(deputado) # <2>
+deputado <- deputado[["dados"]] |> dplyr::bind_rows() # <3>
+deputado$nome <- deputado$nome |> stringr::str_to_upper() # <4>
+```
+
+1. A função `httr::GET()` é utilizada para fazer uma requisição GET à API da Câmara dos Deputados para obter informações sobre os deputados.
+2. A função `httr::content()` é utilizada para extrair o conteúdo da resposta da requisição. A resposta é convertida em uma lista.
+3. A função `dplyr::bind_rows()` é utilizada para combinar as listas de deputados em um único data frame. A lista de deputados está dentro do elemento `dados`.
+4. A função `stringr::str_to_upper()` é utilizada para converter os nomes dos deputados para letras maiúsculas. Isso é feito para facilitar a comparação dos nomes com os discursos.
+
+Em seguida, os dados dos deputados são combinados com os discursos:
+
+```{r}
+partidos <- deputado |> dplyr::select(nome, siglaPartido, siglaUf) # <1>
+
+dados <- dados |> dplyr::left_join(partidos, by = c("nome" = "nome")) # <2>
+```
+
+1. A função `dplyr::select()` é utilizada para selecionar as colunas `nome`, `siglaPartido` e `siglaUf` do data frame `deputado`.
+2. A função `dplyr::left_join()` é utilizada para combinar os dados dos deputados com os discursos. A combinação é feita com base no nome do deputado.
+
+Como depois eu preciso que os nomes dos deputados sejam identificadores de variáveis, foi necessário limpar os nomes dos deputados, substituindo o espaço em branco entre o nome e o sobrenome por um `_`.
+
+```{r}
+dados <- dados |> 
+  dplyr::mutate( 
+    nome = stringr::str_squish(nome), # <1>
+    nome = stringr::str_remove_all(nome, "\\."), # <2>
+    nome = stringr::str_replace_all(nome, '\\W', '_')) # <3>
+```
+
+1. A função `stringr::str_squish()` é utilizada para remover espaços em branco extras do nome do deputado.
+2. A função `stringr::str_remove_all()` é utilizada para remover todos os pontos do nome do deputado.
+3. A função `stringr::str_replace_all()` é utilizada para substituir todos os caracteres não alfanuméricos por `_` no nome do deputado. Assim, o nome do deputado pode ser usado como um identificador de variável.
+
+Por fim, temos a seguinte tabela com os discursos dos deputados^[Você pode baixar os dados em formato [RDS](DADOS/dados_discursos.rds) e [CSV](DADOS/dados_discursos.csv)]:
+
+```{r echo = FALSE, eval=FALSE}
+saveRDS(dados,'DADOS/dados_discursos.rds')
+readr::write_csv(dados, 'DADOS/dados_discursos.csv')
+```
+
+```{r echo = FALSE}
+#| column: screen
+
+dados |> DT::datatable(
+  rownames = FALSE,
+  options = list(
+    'dom' = 'p', 
+    'language' = list('url' = 'https://cdn.datatables.net/plug-ins/1.10.25/i18n/Portuguese-Brasil.json'),
+    'rowReorder' = FALSE,
+    'ordering' = FALSE),
+  style = 'bootstrap5'
+) |> DT::formatStyle(1:10, `font-size` = '10px')
+```
+
+# Analisar os discursos
+
+A análise dos discursos foi feita tanto com funções do pacote `quanteda` quanto no IRaMuTeQ, Primeiro, criei um objeto do tipo `corpus` para poder testar a legibilidade dos textos. A legibilidade foi medida pela Classificação de Pontos de Bormuth^[embora a fórmula seja avaliada com relação a lista de palavras comuns de Dale-Chall, a ausência de correspondência entre as palavras em português e a lista em inglês não causou prejuízo a análise de legibilidade].
+
+```{r}
+dados_corpus <- quanteda::corpus(dados, text_field = 'discurso') # <1>
+
+dados_read <- quanteda.textstats::textstat_readability(dados_corpus, measure = 'Bormuth.GP') # <2>
+```
+
+1. A função `quanteda::corpus()` é utilizada para criar um objeto do tipo `corpus` a partir dos dados dos discursos. O campo `discurso` é utilizado como texto.
+2. A função `quanteda.textstats::textstat_readability()` é utilizada para calcular a legibilidade dos discursos. A medida de legibilidade utilizada é a Classificação de Pontos de Bormuth.
+
+```{r echo = FALSE, eval = FALSE}
+readr::write_csv(dados_read, 'DADOS/dados_read.csv')
+```
+
+```{r}
+legiveis <- dados_read |> # <1>
+  dplyr::mutate(id = document |> stringr::str_remove_all('[:alpha:]')) |> # <1>
+  dplyr::filter(Bormuth.GP > 0) # <1>
+
+dados_legiveis <- dados[c(legiveis$id),] # <2>
+```
+
+1. A função `dplyr::mutate()` é utilizada para criar uma nova variável chamada `id` que contém o id do discurso. A expressão regular `document |> stringr::str_remove_all('[:alpha:]')` é utilizada para extrair o id do discurso do campo `document`.
+2. A função `dplyr::filter()` é utilizada para selecionar os discursos que têm uma pontuação de legibilidade maior que zero.
+
+A tabela com a legibilidade dos textos pode ser baixada em [CSV](DADOS/dados_read.csv).
+
+O próximo passo é transformar o discursos em tokens.
+
+```{r}
+corpus_legivel <- quanteda::corpus(dados_legiveis, text_field = 'discurso') 
+
+dados_tokens <- quanteda::tokens( # <1>
+  corpus_legivel, # <1>
+  remove_punct = TRUE, # <1>
+  remove_symbols = TRUE, # <1>
+  remove_numbers = TRUE, # <1>
+  remove_url = TRUE, # <1>
+  remove_separators = TRUE, # <1>
+  split_hyphens = TRUE, # <1>
+  split_tags = TRUE, # <1>
+)
+
+dados_tokens <- quanteda::tokens_tolower(dados_tokens)
+```
+
+1. A função `quanteda::tokens()` é utilizada para transformar os discursos em tokens. Os argumentos `remove_punct`, `remove_symbols`, `remove_numbers`, `remove_url`, `remove_separators`, `split_hyphens` e `split_tags` são utilizados para remover pontuação, símbolos, números, URLs, separadores, hífens e tags dos tokens.
+
+No código abaixo é demonstrado a forma de criação de um dicionário para juntar palavras. Por exemplo, quando a palavra Câmara dos Deputados aparece, queremos que ela signifique uma coisa só, então precisamos juntar as palavras. O código abaixo mostra como isso foi feito.
+
+```{r eval = FALSE}
+tokens_ngrams <- quanteda::tokens_ngrams(dados_tokens, n = 5, concatenator = ' ') |> paste() |>  table() |> as.data.frame() |> write.csv('DICIONARIO/tokens5.csv', row.names = FALSE) # <1>
+
+dicionario <- readr::read_delim('DICIONARIO/dic.txt', delim = '\t', col_names = 'palavra') # <2>
+
+dados_tokens <- quanteda::tokens_compound(dados_tokens, pattern = quanteda::phrase(dicionario$palavra))  # <3>
+
+tokens_ngrams <- quanteda::tokens_ngrams(dados_tokens, n = 4, concatenator = ' ') |> paste() |>  table() |> as.data.frame() |> write.csv('DICIONARIO/tokens4.csv', row.names = FALSE) # <1>
+
+dicionario <- readr::read_delim('DICIONARIO/dic.txt', delim = '\t', col_names = 'palavra') # <2>
+
+dados_tokens <- quanteda::tokens_compound(dados_tokens, pattern = quanteda::phrase(dicionario$palavra)) # <3>
+
+tokens_ngrams <- quanteda::tokens_ngrams(dados_tokens, n = 3, concatenator = ' ') |> paste() |>  table() |> as.data.frame() |> write.csv('DICIONARIO/tokens3.csv', row.names = FALSE) # <1>
+
+dicionario <- readr::read_delim('DICIONARIO/dic.txt', delim = '\t', col_names = 'palavra') # <2>
+
+dados_tokens <- quanteda::tokens_compound(dados_tokens, pattern = quanteda::phrase(dicionario$palavra)) # <3>
+
+tokens_ngrams <- quanteda::tokens_ngrams(dados_tokens, n = 2, concatenator = ' ') |> paste() |>  table() |> as.data.frame() |> write.csv('DICIONARIO/tokens2.csv', row.names = FALSE) # <1>
+```
+
+1. A função `quanteda::tokens_ngrams()` é utilizada para criar n-gramas dos tokens. Os n-gramas são combinações de n tokens consecutivos. Os argumentos `n` e `concatenator` são utilizados para especificar o tamanho dos n-gramas e o separador entre os tokens, respectivamente. A função `paste()` é utilizada para concatenar os tokens. A função `table()` é utilizada para contar a frequência dos n-gramas. A função `as.data.frame()` é utilizada para converter a tabela em um data frame. A função `write.csv()` é utilizada para salvar os n-gramas em um arquivo CSV.
+2. A função `readr::read_delim()` é utilizada para ler o dicionário de palavras. O argumento `delim` é utilizado para especificar o delimitador do arquivo. O argumento `col_names` é utilizado para especificar o nome da coluna.
+3. A função `quanteda::tokens_compound()` é utilizada para juntar palavras do dicionário. O argumento `pattern` é utilizado para especificar o padrão de palavras a serem juntadas.
+
+E aqui o dicionário é aplicado sobre os tokens:
+
+```{r}
+dicionario <- readr::read_delim('DICIONARIO/dic.txt', delim = '\t', col_names = 'palavra')
+
+dados_tokens <- quanteda::tokens_compound(dados_tokens, pattern = quanteda::phrase(dicionario$palavra))
+```
+
+## Palavras mais frequentes:
+
+```{r echo = FALSE}
+dados_dfm <- quanteda::dfm(dados_tokens)
+dados_freq <- quanteda.textstats::textstat_frequency(dados_dfm, n = 20)
+dados_freq |> knitr::kable()
+```
+
+Observe que palavras com nenhum ou quase nenhum significado são as mais frequentes. São palavras que não agregam valor ao texto, como "o", "a", "de", "que", "e", "da", "em", "um", "uma", "com", "no", "na", "para", "os", "as", "se", "por", "dos", "como", "ou". Essas palavras são chamadas de "stopwords" e são removidas da análise. Também removeremos os partidos e os nomes dos deputados.
+
+```{r}
+partidos <- dados$siglaPartido |>
+  tibble::tibble() |>
+  dplyr::distinct() |>
+  dplyr::rename('word' = 1) |>
+  dplyr::mutate(word = stringr::str_to_lower(word))
+
+deputados <- deputado$nome |> stringr::str_split('\\W') |> unlist() |> stringr::str_to_lower()
+deputados <- deputados[-c(191,192)] # retira o Chiquinho Brazão
+deputados <- deputados |>
+  tibble::tibble() |>
+  dplyr::distinct() |>
+  dplyr::rename('word' = 1) |>
+  dplyr::mutate(word = stringr::str_to_lower(word))
+
+dados_tokens <- quanteda::tokens_remove(dados_tokens, pattern = c(quanteda::stopwords('pt'), partidos$word, deputados$word))
+```
+
+Agora ao refazer a análise de frequência:
+
+```{r echo = FALSE}
+dados_dfm <- quanteda::dfm(dados_tokens)
+dados_freq <- quanteda.textstats::textstat_frequency(dados_dfm, n = 20)
+dados_freq |> knitr::kable()
+```
+
+As *stopwords* não estão mais presentes. Mas observe que deputado e deputados foram tratados como diferentes, mas na verdade significam a mesma coisa. Isso acontece frequentemente com declinações e pode ser resolvida com estatização das palavras. 
+
+```{r}
+dados_tokens_stm <- quanteda::tokens_wordstem(dados_tokens, language = 'portuguese')
+```
+
+Refazedo a análise de frequência:
+
+```{r echo = FALSE}
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_freq <- quanteda.textstats::textstat_frequency(dados_dfm, n = 20)
+dados_freq |> knitr::kable()
+```
+
+Para visualizar a frequência das palavras, vou criar um gráfico lolipop:
+
+```{r echo = FALSE}
+dados_freq |>
+  ggplot() +
+  aes(x = reorder(feature, frequency), y = frequency) +
+  geom_point() +
+  geom_segment( aes(x=feature, xend=feature, y=0, yend=frequency)) +
+  scale_y_continuous(expand = c(0,0.5)) +
+  coord_flip() +
+  theme(
+    panel.background = element_blank(),
+    axis.title = element_blank(),
+    panel.grid = element_blank(),
+    axis.ticks = element_blank()
+  )
+```
+
+Ou nuvem de palavras:
+
+```{r echo = FALSE}
+dados_dfm |>
+  quanteda.textplots::textplot_wordcloud(min_count = 10, color = 'black')
+```
+
+No entanto, essas informaçãoes estão dizendo nada ou quase nada. Pois há ainda *stopwords* específicas do discurso parlamentar. Por exemplo, quase todo o deputado por cordialidade chama ao outro de Sr. ou Sr., comunica-se com o presidente e utiliza a palavra deputado constantemente. Portanto, são palavras que sempre irão aparecer nos discursos, inflando as análises com informações desnecessárias^[Eu estou criando um dicionário de palavras para trabalhar com decisões judiciais e o GEPDCV, tão logo seja possível, criaremos para discursos parlamentares].
+
+```{r}
+dados_tokens <- quanteda::tokens_remove(dados_tokens, pattern = c('sr', 'sra', 'presidente', 'deputado', 'deputada', 'deputados', 'deputadas', 'é', 'v.ex', 'v.exa', 'lá', 'aqui', 'hoje', 'casa'))
+dados_tokens_stm <- quanteda::tokens_wordstem(dados_tokens, language = 'portuguese')
+```
+
+```{r echo = FALSE}
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_freq <- quanteda.textstats::textstat_frequency(dados_dfm, n = 20)
+dados_freq |> knitr::kable()
+```
+
+```{r echo = FALSE}
+dados_freq |>
+  ggplot() +
+  aes(x = reorder(feature, frequency), y = frequency) +
+  geom_point() +
+  geom_segment( aes(x=feature, xend=feature, y=0, yend=frequency)) +
+  scale_y_continuous(expand = c(0,0.5)) +
+  coord_flip() +
+  theme(
+    panel.background = element_blank(),
+    axis.title = element_blank(),
+    panel.grid = element_blank(),
+    axis.ticks = element_blank()
+  )
+```
+
+## Comparando partidos
+
+Podemos também comparar as palavras utilizadas por partidos e não utilizadas. No gráfico abaixo podemos observar que na sessão dia dia 10 de abril, o discurso dos Deputados Federais do Partido dos Trabalhadores estavam mais inclinados ao lançamento do Programa Minha Casa Minha Vida Rural e Entidade.
+
+```{r echo=FALSE}
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_key <- quanteda.textstats::textstat_keyness(dados_dfm, target = dados_dfm$siglaPartido == 'PT')
+quanteda.textplots::textplot_keyness(dados_key) + 
+  theme_minimal() +
+  labs(title = 'Partido dos Trabalhadores')
+```
+
+Por outro lado, o Partido Liberal se concentrou no relatório que votava para manter a prisão do Deputado Federal Chiquinho Brazão:
+
+```{r echo=FALSE} 
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_key <- quanteda.textstats::textstat_keyness(dados_dfm, target = dados_dfm$siglaPartido == 'PL')
+quanteda.textplots::textplot_keyness(dados_key) + 
+  theme_minimal() +
+  labs(title = 'Partido Liberal')
+```
+
+Da mesma forma que o Partido Liberal, o partido da vereadora Marielle Franco concentrou seu discurso na manutenção da prisão do Chiquinho Brazão:
+
+```{r echo=FALSE}
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_key <- quanteda.textstats::textstat_keyness(dados_dfm, target = dados_dfm$siglaPartido == 'PSOL')
+quanteda.textplots::textplot_keyness(dados_key) + 
+  theme_minimal() +
+  labs(title = 'Partido Socialismo e Liberdade')
+```
+
+Ainda, podemos fazer uma comparação de similaridade entre os partidos e entre os deputados.
+
+Primeiro, vamos tratar da comparação entre partidos. Observei nos gráficos assima que há uma distanciamento entre o PT e o PL e PSOL, e uma aproximação entre o PL e O PSOL. Vamos verificar isso com a análise de similaridade.
+
+```{r echo=FALSE}
+partidos_dfm <- quanteda::dfm_group(dados_dfm, groups = siglaPartido)
+partidos_dist <- as.dist(quanteda.textstats::textstat_dist(partidos_dfm))
+partidos_clust <- hclust(partidos_dist)
+ggdendro::ggdendrogram(partidos_clust)
+```
+
+O Dendrograma nos mostra que o discurso dos Deputados do PT estão distantes do discurso dos Deputados do PL e PSOL. Mas é possível observar que o discurso dos Deputados do PT estão mais próximos do PL do que do PSOL, e distantes dos demais partidos ditos de esquerda, como o PCdoB. Isso não indica que o significado do discurso do PT seja próximo ao do PL, mas que o PT utilizou do dia 10 de abril para discutir tema diferente dos demais partidos.
+
+A tabela abaixo mostra os discursos dos Deputados do PT:
+
+```{r echo = FALSE}
+dados_legiveis[dados_legiveis$siglaPartido == 'PT',] |> DT::datatable(
+  rownames = FALSE,
+  options = list(
+    'dom' = 'p', 
+    'language' = list('url' = 'https://cdn.datatables.net/plug-ins/1.10.25/i18n/Portuguese-Brasil.json'),
+    'rowReorder' = FALSE,
+    'ordering' = FALSE),
+  style = 'bootstrap5'
+) |> DT::formatStyle(1:10, `font-size` = '10px')
+```
+
+A leitura dos discursos permite identificar o por quê dos Partidos dos Trabalhadores ficarem tão distantes do Partido Socialismo e Liberdade no dia 10 de abril. Os Deputados Federais do PT utilizaram do dia para enaltecer o lançamento da política pública habitacional Minha Casa, Minha Vida - Rural e Entidades. Outros assuntos também tangenciaram os discursos, como as greves nas Universidades e Institutos Federais e a gestão da Caixa Econômica Federal. A Deputada Erika Kokay foi quem falou pelo PT sobre a prisão do Deputado Federal Chiquinho Brazão. Vamos fazer a análise do discurso da Deputada:
+
+```{r echo=FALSE} 
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_key <- quanteda.textstats::textstat_keyness(dados_dfm, target = dados_dfm$nome == 'ERIKA_KOKAY')
+quanteda.textplots::textplot_keyness(dados_key) + 
+  theme_minimal() +
+  labs(title = 'Deputada Federal Erika Kokay')
+```
+
+Na análise de similitude entre os Deputados, ela aparece junto aos Deputados Ivan Valente, Tarcisio Motta e Chico Alencar, todos do PSOL:
+
+```{r}
+#| column: screen
+#| layout-ncol: 3
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_key <- quanteda.textstats::textstat_keyness(dados_dfm, target = dados_dfm$nome == 'IVAN_VALENTE')
+quanteda.textplots::textplot_keyness(dados_key) + 
+  theme_minimal() +
+  labs(title = 'Deputado Federal Ivan Valente')
+
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_key <- quanteda.textstats::textstat_keyness(dados_dfm, target = dados_dfm$nome == 'TARCÍSIO_MOTTA')
+quanteda.textplots::textplot_keyness(dados_key) + 
+  theme_minimal() +
+  labs(title = 'Deputado Federal Tarcisio Motta')
+
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_key <- quanteda.textstats::textstat_keyness(dados_dfm, target = dados_dfm$nome == 'CHICO_ALENCAR')
+quanteda.textplots::textplot_keyness(dados_key) + 
+  theme_minimal() +
+  labs(title = 'Deputado Federal Chico Alencar')
+```
+
+O gráfico abaixo mostra a distância entre os Deputados:
+
+```{r echo=FALSE}
+#| column: screen
+deputados_dfm <- quanteda::dfm_group(dados_dfm, groups = nome)
+deputados_dist <- as.dist(quanteda.textstats::textstat_dist(deputados_dfm))
+deputados_clust <- hclust(deputados_dist)
+ggdendro::ggdendrogram(deputados_clust) +
+  theme(text = element_text(size = 8))
+```
+
+# IRaMuTeQ
+
+Passamos os discursos para o IRaMuTeQ a fim de realizar a Classificação Hierárquica Descendete (Método de Reinert) sobre os discursos.
+
+```{r eval = FALSE}
+iramuteq <- sapply(dados_tokens, paste, collapse = " ") |> as.data.frame() |> tibble::rownames_to_column()
+names(iramuteq) <- c('cod_dec', 'tratado')
+
+iramuteq <-
+  iramuteq |>
+  dplyr::mutate(
+    codigo = paste0(
+      "\n****",
+      " *dec_",
+      cod_dec,
+      " *partido_",
+      dados_legiveis$siglaPartido,
+      " *uf_",
+      dados_legiveis$siglaUf,
+      " *deputado_",
+      dados_legiveis$nome
+    )
+  ) |>
+  dplyr::relocate(codigo, tratado)
+
+readr::write_delim(iramuteq, "marielle.txt", "\n", col_names = FALSE, quote = 'none')
+```
+
+A CHD foi exitosa: conseguimos computar 851 textos com aproveitamento de 91,66%.
+
+Observe o Dendrograma abaixo:
+
+```{r}
+knitr::include_graphics('iramuteq/marielle_alceste_1/dendrogramme_1.png')
+```
+
+O Dendrograma ilustra as palavras separadas por classe de acordo com as suas similitudes e dissimilitudes a partir da sua coocorrência por seguimento de texto. Obtemos ao fim 5 classes.
+
+A Classe de nº 5, por exemplo, é composta por palavras que indicam questões instrumentais da Câmara, como pedir a palavra, conceder mais temo de fala, e etc. Observe o seguimento de texto "enquanto s exa vai tribuna palavra microfone aparte"^[texto 431] ou "microfone aparte palavra honrado líder"^[texto 503]. São partes das falas dos Presidentes.
+
+As outras classes possuem aspectos mais materiais e, como já tinhamos observado nas análises anteriores, os discursos sobre a prisão do Deputado Chiquinho Brazão foram um grupo distinto. A classe 2, 3 e 4 indicam que os Deputados estavam debatendo políticas públicas. A Classe 3 e a Classe 2 (que estão mais próximas entre si do que da Classe 4), são palavras de discursos de Deputados do Partido dos Trabalhadores. Como vimos, os discursos se concentraram em divulgar as políticas públicas do Governo, entre elas o lançamento do programa Minha Casa, Minha Vida - Rural e Entidades.
+
+A Classe 3, que também representa os discursos dos Deputados do Partido dos Trabalhadores, tem como principais palavras "público", "servidor" e "governo". Os seguimentos de textos principais mostram que os Deputados estavam discutindo a greve nas Universidade e Institutos Federais e o reajuste do funcionalismo público federal - com destaque para a Deputada Federal Natália Bonavides.
+
+```{r echo = FALSE}
+#| column: margin
+dados_dfm <- quanteda::dfm(dados_tokens_stm)
+dados_key <- quanteda.textstats::textstat_keyness(dados_dfm, target = dados_dfm$nome == 'NATÁLIA_BONAVIDES')
+quanteda.textplots::textplot_keyness(dados_key) + 
+  theme_minimal() +
+  labs(title = 'Deputada Federal Natália Bonavides')
+```
+
+Por fim, a Classe 1^[Os principais seguimentos de texto da Classe 1 podem ser acessados [aqui](classe_1.html)] é identificada trata da prisão do Deputado Chiquinho Brazão. Participam dessa Classe majoritariamente o Partido Socialismo e Liberdade, o Partido Progressistas e o Partido Liberal. Deputados como Darci de de Matos, Erika Hilton, Erika Kokay, Capitão Alden, Marcelo Calero, Marcio Jerry e Rogério Correia são os que mais aparecem.
+
+Os Deputados do PL e do PP buscarar dar sua interpretação à imunidade parlamentar frente à decisão do Supremo Tribunal Federal, destacando a necessidade do flagrante delito e do crime inafiançável. Por outro lado, os Deputados do PSOL e PCdoB não chegam a debater o mérito da decisão do Supremo,  mas sim indicam a necessidade do Deputado não ser impune e que a sua prisão é necessária diante de não só a gravidade dos fatos, mas dos atos de obstrução à justiça.
+
+Interessante observar que alguns Deputados, inclusive, utilizaram da imunidade parlamentar para proferir palavras desonrosas contra o Ministro Alexandre de Moraes: o Deputado Júnio Amaral do PL chamou o Ministro de Ditador: "Em 2020, nós abrimos um precedente aqui muito perigoso com Daniel Silveira. Evidentemente, eu votei contra a prisão do Parlamentar, que até hoje está sendo injustiçado por decisões desse ditador chamado Alexandre de Moraes. Agora, a Câmara dos Deputados mais uma vez vai se curvar à decisão desse ditador? Eu voto pelo devido processo legal. Trata-se de coerência. Nós sabemos quem gosta de proteger bandido". O Deputado Delegado Marcelo Freitas (União) expôs que o Ministro estaria rasgando a Constituição.
+
+Por fim, o gráfico abaixo apresenta a distribuição das variáveis em um plano cartesiano agrupadas por classe
+
+```{r echo=FALSE}
+knitr::include_graphics('iramuteq/marielle_alceste_1/AFC2DEL.png')
+```
+
+# Síntese
+
+Essa breve análise dos discursos foi iniciada a fim de desenvolver as habilidades no uso de funções para análise de textos. Utilizei do caso do dia 10 de abril pois, além de ter sido um dia significativo, apresentava estrutura propícia a desenvolver tanto a raspagem de dados, como a manipulação.
+
+Da análise dos discursos, observei que:
+
+1. O Partido dos Trabalhadores utilizou do dia 10 de abril para divulgar as políticas públicas que estavam sendo aprovadas pelo Governo Federal, dentre elas o lançamento do programa Minha Casa, Minha Vida - Rural e Entidades. Além de discutir problema do funcionalismo público federal, inclusive a greve das Universidades e Institutos Federais.
+2. Diante disso, o PT se distanciou lexicograficamente dos demais partidos, embora tenha conseguido para si duas classes quase inteiras. 
+3. O Partido Socialismo e Liberdade e o Partido Liberal disputaram o sentido sobre a prisão do Deputado Chiquinho Brazão na Constituição. Aproximando-se não pelo significado do conteúdo, mas pelo uso das palavras.
+
+# Dados {.appendix}
+
+Os dados estão disponíveis no repositório no Gitbub.
+
+
+
+

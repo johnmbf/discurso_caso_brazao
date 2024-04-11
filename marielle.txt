@@ -1,0 +1,3404 @@
+
+**** *dec_text1 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+lista presença registra comparecimento senhoras senhores
+text1
+
+**** *dec_text2 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+sob proteção deus nome povo brasileiro iniciamos trabalhos
+text2
+
+**** *dec_text3 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+termos parágrafo único art 5º ato mesa nº fica dispensada leitura ata sessão anterior
+text3
+
+**** *dec_text4 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos passar breves comunicações
+text4
+
+**** *dec_text5 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+fase breves comunicações momento dispõem mínimo minutos fazer pronunciamentos
+text5
+
+**** *dec_text6 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos começar rio_grande_do_norte rio_grande_do_norte vamos ouvir
+text6
+
+**** *dec_text7 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+sempre honra podermos estar juntos
+text7
+
+**** *dec_text8 *partido_PL *uf_RN *deputado_GENERAL_GIRÃO
+gostaria pedir inicialmente voz eco programa voz_do_brasil
+text8
+
+**** *dec_text9 *partido_PL *uf_RN *deputado_GENERAL_GIRÃO
+vou falar sobre segurança pública sido item preocupação brasileiros duas décadas item sempre segurança povo preocupado segurança sabemos nesses governos segurança sempre situação caótica rio_grande_do_norte diferente
+text9
+
+**** *dec_text10 *partido_PL *uf_RN *deputado_GENERAL_GIRÃO
+fala vai ser sobre situação fronteira caso absurdo ocorreu cáceres estado mato_grosso crime cometido cidade porto espiridião fronteira aconteceu prisão polícia fronteira prendeu traficantes quilos droga quilos maconha cocaína simplesmente juiz plantão liberou caras vejam absurdo audiência custódia juiz liberou caras caras liberados soltos
+text10
+
+**** *dec_text11 *partido_PL *uf_RN *deputado_GENERAL_GIRÃO
+sorte população mato_grosso sorte diapasão dia seguinte juiz plantão decidiu revogação dessa soltura determinou prisão traficantes sorte polícia mato_grosso conseguiu pegar dois prendê los haviam sido soltos
+text11
+
+**** *dec_text12 *partido_PL *uf_RN *deputado_GENERAL_GIRÃO
+governador senhor parabéns senhor fez fala dizendo leis deste país frouxas judiciário falhando governador lei diz ser feita prisão preso droga ficar preso ser solto justifica desculpe juiz plantão soltura traficantes justifica droga caso prisão direito soltura direito fiança caras soltos
+text12
+
+**** *dec_text13 *partido_PL *uf_RN *deputado_GENERAL_GIRÃO
+governador fala cobrou congresso endurecimento penas sim projeto lei comissão segurança pública combate crime organizado prevê prisão dessas pessoas ampliação penas porque usa droga consome vive venda droga realmente apodrecer cadeia assim ser
+text13
+
+**** *dec_text14 *partido_PL *uf_RN *deputado_GENERAL_GIRÃO
+quero dizer ainda caso idêntico aconteceu rio_grande_do_norte uns anos naquela oportunidade casal preso caminhonete carregada drogas quilos solto juiz estadual durante audiência custódia ministério público recorreu dia seguinte desembargador determinou prisão pombinhos voado longe
+text14
+
+**** *dec_text15 *partido_PL *uf_RN *deputado_GENERAL_GIRÃO
+amigos audiência custódia cumprir norma cara preso flagrante droga ter direito ser solto audiência custódia ter lei especificando juiz entender soltar preso drogas possível excesso lei preciso lei específica nesse sentido vamos criar lei porque soltar traficante drogas
+text15
+
+**** *dec_text16 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k rio_grande_do_norte
+text16
+
+**** *dec_text17 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+rio_grande_do_norte então vamos paraíba
+text17
+
+**** *dec_text18 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+paraíba fez grande trabalho região elegeu deputado_federal representa bem estado paraíba congresso_nacional
+text18
+
+**** *dec_text19 *partido_PT *uf_PB *deputado_LUIZ_COUTO
+dois assuntos tratar primeiro sobre problema depressão consequências
+text19
+
+**** *dec_text20 *partido_PT *uf_PB *deputado_LUIZ_COUTO
+desde conta quantidade enorme pessoas depressão poder judiciário estado paraíba meio associação esposas magistrados magistradas feito trabalho verificado cada dia cresce número pessoas depressão condição levar morte aí aparecem solidão desemprego rejeição traumas construção masculinidade estresse elementos causadores depressão
+text20
+
+**** *dec_text21 *partido_PT *uf_PB *deputado_LUIZ_COUTO
+nesse sentido queria parabenizar associação esposas magistrados magistradas paraíba trabalho realizando
+text21
+
+**** *dec_text22 *partido_PT *uf_PB *deputado_LUIZ_COUTO
+segundo lugar quero tratar outro tema ação governo irã desrespeito bahá'ís anos comunidade bahá'í irã alvo sistemática política persecutória estabelecida estado iraniano apesar ser maior minoria religiosa muçulmana naquele país
+text22
+
+**** *dec_text23 *partido_PT *uf_PB *deputado_LUIZ_COUTO
+julgamentos sentenças prisão confisco terras propriedades discurso ódio negação direito educação direitos funerários sepulturas desrespeitadas novas sepulturas bahá'ís falecidos terreno vala comum destruídas autoridades iranianas teerã desrespeito registro repúdio ação autoridades iranianas deixo apoio comunidade bahá'í tanto irã todo
+text23
+
+**** *dec_text24 *partido_PT *uf_PB *deputado_LUIZ_COUTO
+peço dada devida publicidade deste pronunciamento meios comunicação desta programa voz_do_brasil
+text24
+
+**** *dec_text25 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k paraíba
+text25
+
+**** *dec_text26 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora paraíba vamos são_paulo
+text26
+
+**** *dec_text27 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+havia solicitado minuto tribuna vamos ouvir seguida chegamos rio_grande_do_sul vamos ouvir s.exa minuto
+text27
+
+**** *dec_text28 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text28
+
+**** *dec_text29 *partido_PSB *uf_SP *deputado_TABATA_AMARAL
+venho falar sobre algo grave vergonhoso paulistanos prefeitura são_paulo ontem principais manchetes país motivo piores possíveis falando operação fim linha deflagrada ontem inúmeros órgãos retrata maior operação policial história contra infiltração crime organizado poder público dizendo duas empresas ônibus transwolff upbus sendo acusadas nada nada menos fazer lavagem dinheiro vem tráfico drogas roubos praticados pcc duas principais empresas atuam transporte público são_paulo situação grave
+text29
+
+**** *dec_text30 *partido_PSB *uf_SP *deputado_TABATA_AMARAL
+deixo alguns questionamentos serem respondidos mim população são_paulo prefeito primeiro duas empresas acusadas ligação pcc sendo responsáveis transporte mil pessoas ano passado empresas respondem acusações tão graves receberam milhões reais quase bilhão reais prefeitura
+text30
+
+**** *dec_text31 *partido_PSB *uf_SP *deputado_TABATA_AMARAL
+vou além eis mim ponto grave prefeito são_paulo escolheu dedo dessas empresas novamente acusada ligação crime organizado gerir principal projeto zona sul cidade sei todos sabem prefeito vem defendendo toda força transporte barcos represa billings vejam transparência licitação nenhuma razão pública escolheu justamente dessas empresas ganhar quis fazer contrato prefeitura são_paulo
+text31
+
+**** *dec_text32 *partido_PSB *uf_SP *deputado_TABATA_AMARAL
+apresentando congresso projeto lei tratar desse tipo mercado ilícitos possamos rastrear empresas duas impedir continuem assumindo contratos públicos
+text32
+
+**** *dec_text33 *partido_PSB *uf_SP *deputado_TABATA_AMARAL
+fiz pedido órgãos controle são_paulo impeçam empresa acusada ligação pcc assuma transporte aquático represa billings
+text33
+
+**** *dec_text34 *partido_PSB *uf_SP *deputado_TABATA_AMARAL
+peço todos continuem posicionando acompanhando caso crime abafado todos responsáveis independente tamanho político cargo ocupam responsabilizados punidos
+text34
+
+**** *dec_text35 *partido_PSB *uf_SP *deputado_TABATA_AMARAL
+aguentamos ver são_paulo tanto dinheiro público tantos serviços tão essenciais mão máfias denúncia tão grave vem apontando enquanto tipo poder impossível pensarmos vida melhor população
+text35
+
+**** *dec_text36 *partido_PSB *uf_SP *deputado_TABATA_AMARAL
+entristece envergonha vir trazer notícia tão ruim cidade são_paulo cidade tão grandiosa importante país entretanto tipo denúncia ser levado sério ser abafado podemos parar todos responsáveis punidos
+text36
+
+**** *dec_text37 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k cidade são_paulo
+text37
+
+**** *dec_text38 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+são_paulo então vamos rio_de_janeiro antes ocupar tribuna vou passar rio_grande_do_sul ouvir minuto
+text38
+
+**** *dec_text39 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text39
+
+**** *dec_text40 *partido_PP *uf_RS *deputado_AFONSO_HAMM
+venho tribuna estarrecido descaso empresa ceee equatorial responsabilidade fornecer energia elétrica rio_grande_do_sul
+text40
+
+**** *dec_text41 *partido_PP *uf_RS *deputado_AFONSO_HAMM
+neste momento dias algumas localidades rurais muitas interior rio_grande_do_sul energia elétrica especialmente campanha gaúcha região sul estado lavras sul pedras altas dom pedrito arroio grande cerrito piratini pelotas
+text41
+
+**** *dec_text42 *partido_PP *uf_RS *deputado_AFONSO_HAMM
+mortes inclusive passo alexandrina bagé cidade faleceu trabalhador rural impressionante descaso
+text42
+
+**** *dec_text43 *partido_PP *uf_RS *deputado_AFONSO_HAMM
+queria dizer aprovamos audiência pública importante comissão agricultura convocando representante ministério minas energia governador estado representante ceee equatorial diretor geral aneel procurador justiça estado saltz diretor executivo procon prefeito representar população tantos absurdo região estar dias energia prejudicando produtor rural produção produtor tabaco realmente descaso absurdo precisaria tempo falar desse assunto tribuna
+text43
+
+**** *dec_text44 *partido_PP *uf_RS *deputado_AFONSO_HAMM
+precisamos providências ninguém ouvido ações justiça parte próprios prefeitos posicionamento consumidores porque absurdo população ficar dias energia elétrica então esperança tomem providências partir desta audiência pública aprovada comissão agricultura
+text44
+
+**** *dec_text45 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+rio_grande_do_sul agora vamos grande rio_de_janeiro subindo serra ouvir
+text45
+
+**** *dec_text46 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+honra ter sessão presidida
+text46
+
+**** *dec_text47 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+vários assuntos predominância nacional acabamos tendo oportunidade falar velocidade queremos sobre município rio_de_janeiro estado rio_de_janeiro decisão prefeito paes sufocar avenida rio_de_janeiro faz parte br além ser elo bairros adjacentes rio_de_janeiro fazer ligação sul país rio_grande_do_norte temeridade
+text47
+
+**** *dec_text48 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+avenida construída população rio_de_janeiro girava torno milhão pessoas cidade rio_de_janeiro milhões habitantes túnel rebouças faz ligação zona norte zona sul chegando lagoa construído ponte rio niterói metrô rio_de_janeiro
+text48
+
+**** *dec_text49 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+tempo grandes obras rio_de_janeiro exceção daquele rabicho metrô fez barulho ali zona sul copacabana barra tijuca ter chegado final recreio bandeirantes anos usando terminal alvorada elo ligação aeroporto zona norte zona sul zona oeste
+text49
+
+**** *dec_text50 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+rio_de_janeiro administrado anos grupo político decisão prefeito paes ocupar duas pistas otimizando brt causando transtorno imenso transporte rio_de_janeiro simboliza ineficiência incompetência amadorismo oba oba desse grupo lidera rio_de_janeiro anos rio_de_janeiro precisa ter infraestrutura condizente própria população quatro vezes maior década
+text50
+
+**** *dec_text51 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+avenida jeito jeito favelas cresceram bairros humildes multiplicaram déficit habitacional cidade rio_de_janeiro imenso paquetá sepetiba prefeito preocupa ordenamento público crianças ensino básico têm mãe vivendo escolas município dirigidas militantes políticos educadores sonhamos
+text51
+
+**** *dec_text52 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+então avenida solução metrô suspenso ocupe espaço faça caminhões ônibus carros circulam cidade opção
+text52
+
+**** *dec_text53 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+segurança barricadas avenida território município ocupado milícias tráfico prefeito pede acha tudo bem estado rio_de_janeiro polícia militar efetivo menor crime organizado república federativa preocupa elon musk
+text53
+
+**** *dec_text54 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+problema seríssimo segurança interna desenvolvimento habitacional pouco investimento infraestrutura
+text54
+
+**** *dec_text55 *partido_PL *uf_RJ *deputado_LUIZ_LIMA
+rio_de_janeiro pede mãos eleitor mudar rumo cidade
+text55
+
+**** *dec_text56 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k rio_de_janeiro
+text56
+
+**** *dec_text57 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+acompanhando lista vamos chamar espírito_santo estado vizinho aonde portanto chega rápido
+text57
+
+**** *dec_text58 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+srs parlamentares venho falar sobre conquista mandato conquista causa criação pássaros saiu publicada espírito_santo portaria conjunta seag seama nº r abril libera torneios exposições espírito_santo
+text58
+
+**** *dec_text59 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+portaria ser modelo cada estado federação ainda liberou torneios exposições devido gripe aviária algumas questões estaduais portaria ser modelo todos estados brasileiros conquista junto governador renato casagrande junto secretário agricultura enio bergoli junto secretário meio ambiente rigoni conquista espírito_santo
+text59
+
+**** *dec_text60 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+conquista ibama liberou transferências demanda anos ibama nacional conseguimos liberar sispass sistema cadastramento passeriformes fazer transferência espírito_santo além transferências fazer torneios exposições
+text60
+
+**** *dec_text61 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+criar preservar preservar espécies preservar genética muitas criações pássaros mil criadores diversas espécies fauna brasileira possibilidade transferência atividades torneios exposições cadeia produtiva preservação espécies vai crescer cada momento
+text61
+
+**** *dec_text62 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+pauta defendemos vezes desagrada alguns nesta todo mandato trabalhando fortemente avançar cada vez nesta código fauna discussão importante preservação criação pássaros iremos enterrar projeto lei nº protocolado nesta agora dia 1º abril acaba criação pássaros vamos trabalhar arquivar projeto manter criação pássaros ação câmara_dos_deputados pois pauta defendemos outros trabalharemos fortemente possamos enterrar clamor todos criadores pássaros país
+text62
+
+**** *dec_text63 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+peço pronunciamento divulgado meios comunicação desta
+text63
+
+**** *dec_text64 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+obrigado espírito_santo
+text64
+
+**** *dec_text65 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora espírito_santo vamos estado alagoas ouvir
+text65
+
+**** *dec_text66 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+logo seguida vamos outro lado vamos santa_catarina
+text66
+
+**** *dec_text67 *partido_PT *uf_AL *deputado_PAULÃO
+colegas parlamentares queria usar tribuna notícia exitosa importante povo brasileiro
+text67
+
+**** *dec_text68 *partido_PT *uf_AL *deputado_PAULÃO
+diante compromisso moradia principalmente moradia popular pois criou programa desde primeiro mandato amplia programa exitoso mil moradias minha_casa_minha_vida rural paralisado governo anterior compromisso moradia povo mil moradias minha_casa_minha_vida entidades investimento quase bilhões reais
+text68
+
+**** *dec_text69 *partido_PT *uf_AL *deputado_PAULÃO
+estado alagoas unidades habitacionais minha_casa_minha_vida rural espalhadas municípios unidades habitacionais minha_casa_minha_vida entidades três municípios notícia exitosa realizando sonho moradia popular população carente bancos privados infelizmente têm linha crédito
+text69
+
+**** *dec_text70 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+outro assunto podemos calar verdade havendo operação abafa proteger deputado_federal rio_de_janeiro forma hedionda autores intelectuais crime ex vereadora marielle mulher luta corajosa verdade partidos conservadores aí quero fazer cobrança conterrâneo possível operação abafa vá penalizar envolvido forma intelectual integrantes família crimes hediondos recente história
+text70
+
+**** *dec_text71 *partido_PT *uf_AL *deputado_PAULÃO
+envergonho fazer parte desta percebo silêncio alguns principalmente bancada conservadora corajosos relação bandido pequeno porte conselheiro tribunal contas amofinam acovardam
+text71
+
+**** *dec_text72 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+quero fazer parte dessa história quero cobrar traga crime hediondo praticado brazão quero colocar digital cassá lo pois condições representar
+text72
+
+**** *dec_text73 *partido_PT *uf_AL *deputado_PAULÃO
+gostaria pronunciamento divulgado meios comunicação programa voz_do_brasil
+text73
+
+**** *dec_text74 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+atendo pedido divulgado pronunciamento todos órgãos comunicação desta
+text74
+
+**** *dec_text75 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora alagoas vamos outro lado vamos santa_catarina ouvir
+text75
+
+**** *dec_text76 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+traz tribuna nesta tarde quarta feira algo aguardávamos tempo falando aprovação projeto lei complementar nº pauta comissão trabalho
+text76
+
+**** *dec_text77 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+quero parabenizar autor projeto todos autores apensados projeto inclusive alguns passaram plenário senado
+text77
+
+**** *dec_text78 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+atitude nobre comissão desta através comissão agradeço muitíssimo juntamente equipe legislativa partido equipe deu todo suporte anos história nesta injustiças praticada reforma previdência naquela oportunidade votamos equivocadamente retiramos aposentadoria especial menos trabalhadores deste país categorias contemplei categorias todos trabalhadores expostos agentes nocivos exemplo mineiros subsolo ceramistas químicos eletricitários vigilantes tantas outras categorias têm áreas trabalho agentes nocivos têm ambiente trabalho insalubre
+text78
+
+**** *dec_text79 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+digo comparar trabalhador escritório ar condicionado mesa computador trabalhador mina subsolo diferente ceramista enfrenta calor enfrenta outros agentes
+text79
+
+**** *dec_text80 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+quero dizer momento nobre momento emocionante certeza trabalhadores aguardavam aprovação unanimidade comissão trabalho projeto segue outras comissões
+text80
+
+**** *dec_text81 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+vim tribuna vou encerrar pedir muita sensibilidade sensível trabalhadores país traga plenário plp plenário possa fazer avaliação votar assim vamos dar resposta rápido possível trabalhadores deste país principalmente aposentadoria especial antes emenda constitucional nº
+text81
+
+**** *dec_text82 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+peço encarecidamente traga matéria plenário parabenizo trabalhadores passo importante dia comissão trabalho câmara_dos_deputados deram vamos continuar nessa luta
+text82
+
+**** *dec_text83 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+peço aprovação plp divulgada programa voz_do_brasil bem todos canais comunicação desta
+text83
+
+**** *dec_text84 *partido_PSDB *uf_SC *deputado_GEOVANIA_DE_SÁ
+parabéns trabalhadores
+text84
+
+**** *dec_text85 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos estado minas_gerais ouvir autor piso enfermagem
+text85
+
+**** *dec_text86 *partido_AVANTE *uf_MG *deputado_BRUNO_FARIAS
+colegas desta subo tribuna apresentar projeto lei nº estabelece parâmetros mínimos dimensionar quantitativo profissionais diferentes categorias enfermagem serviços locais realizadas atividades enfermagem
+text86
+
+**** *dec_text87 *partido_AVANTE *uf_MG *deputado_BRUNO_FARIAS
+feito parceria cofen coren quero quero mencionar grande manoel betânia todos presidentes corens deste
+text87
+
+**** *dec_text88 *partido_AVANTE *uf_MG *deputado_BRUNO_FARIAS
+podemos aceitar falta respeito passando enfermagem neste país piso nacional enfermagem sendo desrespeitado várias instituições deste país
+text88
+
+**** *dec_text89 *partido_AVANTE *uf_MG *deputado_BRUNO_FARIAS
+além apresentar projeto dimensionamento apresentei projeto horas outros projetos apresentando vamos apresentar neste parlamento
+text89
+
+**** *dec_text90 *partido_AVANTE *uf_MG *deputado_BRUNO_FARIAS
+gostaria dirigir todos colegas parlamentares desta srs líderes pedir voto ajuda gostaria pedir pautasse projetos autoria vão defender cuidar enfermagem enfermagem cuida pessoas enfermagem ajuda salvar população brasileira
+text90
+
+**** *dec_text91 *partido_AVANTE *uf_MG *deputado_BRUNO_FARIAS
+cinco projetos nesta tramitando horas dimensionamento apresentando reajuste anual transforma auxiliar técnico enfermagem outros
+text91
+
+**** *dec_text92 *partido_AVANTE *uf_MG *deputado_BRUNO_FARIAS
+peço apoio voto colegas parlamentares líderes partidos possamos fazer justiça colegas enfermeiros técnicos auxiliares deste cuidam pessoas precisam ser cuidados
+text92
+
+**** *dec_text93 *partido_AVANTE *uf_MG *deputado_BRUNO_FARIAS
+peço registrada fala programa voz_do_brasil todos colegas parlamentares sensibilizem quatros projetos importantes tratam enfermagem deste país
+text93
+
+**** *dec_text94 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k minas_gerais atendo pedido pronunciamento divulgado todos meios comunicação desta
+text94
+
+**** *dec_text95 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+minas_gerais vamos paraná ouvir
+text95
+
+**** *dec_text96 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+enquanto s.exa dirige tribuna vamos fazer rápida passagem minas_gerais ouvir
+text96
+
+**** *dec_text97 *partido_UNIÃO *uf_MG *deputado_DELEGADO_MARCELO_FREITAS
+senhoras senhores gostaria comunicar todos votarei contra manutenção prisão chiquinho brazão farei farei consciência tranquila obedecer constituição_federal sido rasgada diretamente ministro alexandre_de_moraes supremo_tribunal_federal
+text97
+
+**** *dec_text98 *partido_UNIÃO *uf_MG *deputado_DELEGADO_MARCELO_FREITAS
+compreendemos prisão chiquinho brazão decretada autoridade incompetente havia fato situação flagrancial possamos manter chiquinho brazão preso matéria extremamente complexa pressão popular votarei consciência povo respeitada especialmente poder judiciário especialmente supremo_tribunal_federal
+text98
+
+**** *dec_text99 *partido_UNIÃO *uf_MG *deputado_DELEGADO_MARCELO_FREITAS
+peço colegas muita atenção exatamente acontecido carreira respondo absolutamente nenhum processo nunca denunciado investigado entendo prerrogativas desta povo devem ser preservadas especialmente contra decisões abusivas ministro alexandre_de_moraes supremo_tribunal_federal
+text99
+
+**** *dec_text100 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora minas_gerais vamos paraná ouvir
+text100
+
+**** *dec_text101 *partido_PT *uf_PR *deputado_TADEU_VENERI
+srs sras última quarta feira audiência pública sobre questão caixa_econômica transferir subsidiária apostas loterias possibilidade passar administrar bets jogos eletrônicos acontecendo partir desse último período
+text101
+
+**** *dec_text102 *partido_PT *uf_PR *deputado_TADEU_VENERI
+pois bem ontem presença representantes caixa conversaram tanto comigo quanto trouxeram algumas explicações algumas justificativas fazer transferência informaram inclusive subsidiária poderia ter nenhum tipo participação externa governo porque perderia condições manter loteria vez loteria concessão caixa_econômica terceiros
+text102
+
+**** *dec_text103 *partido_PT *uf_PR *deputado_TADEU_VENERI
+entanto surpreendidos dia decisão caixa_econômica enquanto fazíamos debate havíamos aprovado inclusive vinda caixa_econômica possa explicar caixa_econômica criar subsidiária administrar algo caso bets chegar bilhões reais neste momento bilhões reais bilhões b bola ambiente regulado caso cerca bilhões bilhões loterias
+text103
+
+**** *dec_text104 *partido_PT *uf_PR *deputado_TADEU_VENERI
+ontem ficamos perguntando perguntamos novamente queremos ouvir representante comissão fiscalização financeira controle caixa instituição centenária criar subsidiária sabemos subsidiária ser vendida qualquer momento venda passa alegação colocar venda subsidiária parcela capital privado outros recursos caixa_econômica governo_federal automaticamente perde loteria mantém bets falando algo bilhões reais algo bilhões reais preocupação aconteça
+text104
+
+**** *dec_text105 *partido_PT *uf_PR *deputado_TADEU_VENERI
+funcionários competentes funcionários desenvolveram tecnologia vamos fazer prejulgamento nenhum preocupante caixa_econômica ter colocado tipo decisão ainda fazendo debate debate recente segunda feira conselho administração
+text105
+
+**** *dec_text106 *partido_PT *uf_PR *deputado_TADEU_VENERI
+governo_federal através ministério fazenda três assentos nesse conselho representante caixa_econômica poderemos ter claro votação diferenciada autorize inclusive criação subsidiária entanto criada subsidiária obrigação fazer fiscalização eficiente porque falamos jogos azar jogos movimentam centenas bilhões reais inclusive podem vir tanto país cassino quanto dentro falando todo tipo processo acontecer
+text106
+
+**** *dec_text107 *partido_PT *uf_PR *deputado_TADEU_VENERI
+preocupação estando caixa casos semelhantes àqueles vimos jogo bicho crime organizado lavagem dinheiro série situações tarde poderão trazer prejuízo grande caixa_econômica trabalhadores todos brasileiros
+text107
+
+**** *dec_text108 *partido_PT *uf_PR *deputado_TADEU_VENERI
+ficamos surpresos aguardamos agora saber razão fazer forma açodada reunião falando dias atrás primeiras informações agora queremos saber quais razões fazer forma açodada reunião conselho
+text108
+
+**** *dec_text109 *partido_PT *uf_PR *deputado_TADEU_VENERI
+concluir espero conselho conclua decisão próxima semana dia possamos ter sempre fala serenidade tranquilidade espaço necessário discutir questão ser banco público capacidade ouvir população caixa governo podem tomar decisão ouvir população última análise donos caixa
+text109
+
+**** *dec_text110 *partido_PT *uf_PR *deputado_TADEU_VENERI
+solicito pronunciamento divulgado todos órgãos imprensa meios comunicação
+text110
+
+**** *dec_text111 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k paraná atendo pedido pronunciamento divulgado todos órgãos comunicação desta
+text111
+
+**** *dec_text112 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora paraná vamos rondônia ouvir
+text112
+
+**** *dec_text113 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text113
+
+**** *dec_text114 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+bom retornar tribuna dias dengue sofrido bem graças deus guerreiro voltou guerreiro voltou
+text114
+
+**** *dec_text115 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+amigos dois assuntos trazem agora retorno dpvat taxa vai retornar povo brasileiro povo amazonas quer pagar taxa paga estradas inclusive estados cobram pedágio agora vem cobrança são_paulo vai pagar dpvat deus céu haveria necessidade
+text115
+
+**** *dec_text116 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+governo cortado dpvat devido grandes volumes corrupção existiam agora vai acontecer corrupção vai voltar cidadão vai ser taxado novamente votei contra dpvat admissível povo pague taxa
+text116
+
+**** *dec_text117 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+agora quero falar vou antecipar voto decisão vai ser manter brazão preso
+text117
+
+**** *dec_text118 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+vou antecipar voto tempo atrás decidido preso decidiu federais votaram ser preso muitos arrependidos certeza povo vai votar outro ser preso quê
+text118
+
+**** *dec_text119 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+gente reza constituição olhe olhe apresentando constituição brasileira leis maiores
+text119
+
+**** *dec_text120 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+reza constituição reza seguinte art senadores invioláveis civil penalmente quaisquer quaisquer opiniões palavras votos quanto dúvida agora 2º diz seguinte desde expedição diploma membros congresso_nacional poderão ser presos salvo flagrante crime inafiançável
+text120
+
+**** *dec_text121 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+diz constituição brasileira
+text121
+
+**** *dec_text122 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+portanto senhores seguindo lei seguindo lei brazão ser preso deve ser preso entender preso ilegalmente segundo constituição
+text122
+
+**** *dec_text123 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+vou concluir agora excelência julgo deste plenário deve ser solto rápido possível stf constituição reza certeza vamos comprovar brazão permanecer preso segundo constituição responda processo ser preso frente decisão judicial
+text123
+
+**** *dec_text124 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+solicito voz divulgada programa voz_do_brasil meios comunicação
+text124
+
+**** *dec_text125 *partido_PL *uf_RO *deputado_CORONEL_CHRISÓSTOMO
+assim concluo seguindo reza constituição ser preso ser sido flagrante delito crime inafiançável crime ocorreu anos portanto brazão ser preso
+text125
+
+**** *dec_text126 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+rondônia vamos ouvir outro mato_grosso
+text126
+
+**** *dec_text127 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+enquanto vai tribuna vamos passar rapidamente minas_gerais minuto ouvir
+text127
+
+**** *dec_text128 *partido_PT *uf_MG *deputado_DANDARA
+muita dor coração profundo sentimento revolta indignação plenário câmara_dos_deputados usando camiseta pede justiça vitória alyce entregue ontem
+text128
+
+**** *dec_text129 *partido_PT *uf_MG *deputado_DANDARA
+jovem anos perdeu vida pura negligência médica retornava universidade onde cursava história aluna dedicada cotista periferia primeira família entrar universidade passou mal dentro ônibus motorista imediatamente mudou rota porta unidade atendimento integrado uai bairro tibery uberlândia vitória ficou minutos agonizando dentro ônibus nenhuma equipe deslocou hospital atendê la alegando certo protocolo
+text129
+
+**** *dec_text130 *partido_PT *uf_MG *deputado_DANDARA
+gestão saúde uberlândia mudar vida pessoas precisam ser prioridade
+text130
+
+**** *dec_text131 *partido_PT *uf_MG *deputado_DANDARA
+manifestar apoio famílias amigos vitória dia vai acontecer missa sétimo dia caminhada justiça vitória alyce chega tombarem corpos precisamos viver juventude negra precisa viver vitória alyce jovem negra dedicada estudante história vida ceifada
+text131
+
+**** *dec_text132 *partido_PT *uf_MG *deputado_DANDARA
+peço autorize realização minuto silêncio neste plenário respeito memória dessa grande lutadora infelizmente perdeu vida
+text132
+
+**** *dec_text133 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+parlamentar tribuna vou pedir tendo vista pedido relativo lamentável triste morte talvez negligência aguarde façamos minuto silêncio vitória alyce
+text133
+
+**** *dec_text134 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+sentimentos toda família vitória
+text134
+
+**** *dec_text135 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+fatos continuem acontecendo neste país profundamente lamentável tantos jovens infelizmente perdido vida dessa forma vezes violência vezes neste caso simplesmente negligência alguns agentes públicos sentimento cuidado socorrer vitória
+text135
+
+**** *dec_text136 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+deus ilumine família todos sofrem neste momento
+text136
+
+**** *dec_text137 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos agora estado mato_grosso ouvir
+text137
+
+**** *dec_text138 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+gostaria referendar atitude juiz juiz titular vara justiça cidade cáceres fronteira estado mato_grosso bolívia revogou liberdade dois criminosos presos gefron grupo especial fronteira postos liberdade juiz plantonista dia antes
+text138
+
+**** *dec_text139 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+quero parabenizar equipes polícia_federal gefron
+text139
+
+**** *dec_text140 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+sempre estarei falando sobre porque operei fronteira soldado defendi país lutei segurança pública naquele pedaço chão país
+text140
+
+**** *dec_text141 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+claro decisões entendimentos poder judiciário influenciam sim diretamente segurança pública país conselho nacional justiça aponta expansão comando após decisão supremo_tribunal_federal referente estado rio_de_janeiro vou ler trecho relatório final conselho nacional justiça referente adpf ação descumprimento prefeito fundamental nº conhecida adpf favelas
+text141
+
+**** *dec_text142 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+existe vácuo poder principalmente poder paralelo poder crime áreas dominadas crime nesses locais crime lei criminosos poder moderador poder absoluto falam ser feito deve deve ser feito vive morre
+text142
+
+**** *dec_text143 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+facções perderam territórios certeza outros territórios
+text143
+
+**** *dec_text144 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+então estaremos sempre nesta tribuna cobrar responsabilidade poderes responsabilidade responsabilidade poder legislativo certeza precisa revisar arcabouço penal brasileiro responsabilidade poder judiciário através decisões acaba influenciando diretamente negativamente segurança pública país responsabilidade poder executivo sim trabalhar políticas públicas vão encontro desse tema buscar atacar estrutura atacar financeiro
+text144
+
+**** *dec_text145 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+fica daqui registrado alerta mal pior nesse quesito avanço nenhum durante todo ano passado ser viver cortinas fumaça assuntos outros agregaram nada segurança cidadão menos favorecido precisamos providências três poderes precisam convergência lutar contra crime fazemos vamos fundo poço
+text145
+
+**** *dec_text146 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+peço autorize divulgação desta fala meios comunicação oficial desta
+text146
+
+**** *dec_text147 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k mato_grosso atendendo pedido divulgado todos órgãos comunicação desta pronunciamento
+text147
+
+**** *dec_text148 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos sair mato_grosso ir amazonas ouvir
+text148
+
+**** *dec_text149 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+logo amazonas vamos maranhão ouviremos
+text149
+
+**** *dec_text150 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+bem representa estado são_paulo querido estado são_paulo colegas venho tribuna desta porque imensidão área muitas vezes decisões corretas visões distorcidas legislação pune economia brasileiro vista países desiguais mundo
+text150
+
+**** *dec_text151 *partido_PSD *uf_AM *deputado_SIDNEY_LEITE
+sinal matéria publicada grande imprensa frente somente índia quesitos miséria pobreza fome ponto vista quantitativo
+text151
+
+**** *dec_text152 *partido_PSD *uf_AM *deputado_SIDNEY_LEITE
+estado amazonas toda biodiversidade rico minério sinal estados têm maior potencial gás firme mina potássio compatível agricultura agropecuária órgãos ambientais federais transferiram governo estado atribuição prover licenciamento licenciamento dado
+text152
+
+**** *dec_text153 *partido_PSD *uf_AM *deputado_SIDNEY_LEITE
+capacidade contribuir milhões mil toneladas potássio deixarão ser importados vai gerar emprego renda estado amazonas toda cadeia produtiva forma direta instalação dessa planta necessários algo torno homens operá la quantitativo ainda maior toda cadeia logística chegar principalmente rondônia mato_grosso vamos envolver potencial mil pessoas vão trabalhar toda cadeia produtiva potássio investimento inicial mina ser explorada bilhões reais vai gerar desenvolvimento naquela região ponto vista logística vem contribuindo forma significativa escoamento grãos grãos produzidos exportados arco norte
+text153
+
+**** *dec_text154 *partido_PSD *uf_AM *deputado_SIDNEY_LEITE
+agora conquista traz bem diminui dependência importação importa necessidade potássio
+text154
+
+**** *dec_text155 *partido_PSD *uf_AM *deputado_SIDNEY_LEITE
+defendo possamos explorar riquezas evitando impactos ambientais sociais possível fazer tecnologia devemos caminhar nessa direção inclusive explorar gás importamos utilizamos riqueza gás somente exploração petróleo podemos gerar riquezas divisas país
+text155
+
+**** *dec_text156 *partido_PSD *uf_AM *deputado_SIDNEY_LEITE
+dito solicito fala divulgada canais comunicação desta
+text156
+
+**** *dec_text157 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k amazonas atendendo pedido divulgado todos órgãos comunicação desta pronunciamento
+text157
+
+**** *dec_text158 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora amazonas vamos maranhão antes vamos dar passadinha paraná ouvir importante anúncio fazer importantes visitas acompanham nesta tarde
+text158
+
+**** *dec_text159 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text159
+
+**** *dec_text160 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+obrigada gentileza sempre amigo
+text160
+
+**** *dec_text161 *partido_PSD *uf_PR *deputado_LUISA_CANZIANI
+gostaria registrar carinho muita deferência presença duas grandes lideranças femininas estado paraná têm feito vida missão luta educação cris representa secretaria educação estado paraná jéssica chefia núcleo regional educação região norte estado paraná londrina ambas trabalham incansavelmente educação estado
+text161
+
+**** *dec_text162 *partido_PSD *uf_PR *deputado_LUISA_CANZIANI
+quero fazer referência dizer sempre bem vindas contem conosco luta educação cada vez oportunidades todos
+text162
+
+**** *dec_text163 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+cris jéssica quero primeiro parabenizá las grande trabalho estado paraná faz área educação levem abraço querido governador ratinho quero parabenizá las terem grande representante parabéns felizes povo brasileiro
+text163
+
+**** *dec_text164 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+desse anúncio importante sobre visitantes estado paraná agora sim vamos maranhão
+text164
+
+**** *dec_text165 *partido_PSB *uf_MA *deputado_DUARTE_JR
+boa tarde todos todas
+text165
+
+**** *dec_text166 *partido_PSB *uf_MA *deputado_DUARTE_JR
+venho tribuna nesta tarde destacar resultado importante prol saúde país aprovamos comissão trabalho desta projeto lei nº garante piso salarial fisioterapeutas terapeutas ocupacionais categoria importante ser esquecida
+text166
+
+**** *dec_text167 *partido_PSB *uf_MA *deputado_DUARTE_JR
+profissionais saúde querem aplausos querem piso salarial respeitado acordo constituição_federal art 7º iii entendemos refere salário mínimo salário deve compreender infelizmente profissionais saúde fisioterapeutas terapeutas ocupacionais diferente devem fazer vários plantões tentar garantir mínimo existencial necessário sobrevivência existem planos saúde pagam apenas reais consulta reais atendimento realizado importantes profissionais
+text167
+
+**** *dec_text168 *partido_PSB *uf_MA *deputado_DUARTE_JR
+daqui comemoro resultado obtido nesta aprovação projeto comissão trabalho agora projeto segue duas comissões comissão finanças tributação membro faço pedido ser relator deste importante projeto seguida comissão_de_constituição_e_justiça cidadania membro possamos aprová lo brevemente possível vale destacar aprovação nessas duas comissões seguirá presidência república sanção
+text168
+
+**** *dec_text169 *partido_PSB *uf_MA *deputado_DUARTE_JR
+antes alguém levante qualquer tipo dúvida sobre possibilidade pagamento desse piso trago dados técnicos cálculos realizados possa ser realizado pagamento
+text169
+
+**** *dec_text170 *partido_PSB *uf_MA *deputado_DUARTE_JR
+acordo dados extraídos gastos valor piso representará apenas gasto quase insignificante garantir pagamento piso fisioterapeutas terapeutas ocupacionais basta aporte dinheiro possível pagar basta boa vontade precisa demonstrar
+text170
+
+**** *dec_text171 *partido_PSB *uf_MA *deputado_DUARTE_JR
+vamos lutar final piso salarial aprovado profissionais pagamento prática fisioterapeutas terapeutas ocupacionais maior valorização
+text171
+
+**** *dec_text172 *partido_PSB *uf_MA *deputado_DUARTE_JR
+fim peço comunicado informação ser importante utilidade pública compartilhado todos canais comunicação desta
+text172
+
+**** *dec_text173 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k maranhão atendendo pedido pronunciamento divulgado todos órgãos comunicação desta
+text173
+
+**** *dec_text174 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos rio_grande_do_sul
+text174
+
+**** *dec_text175 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+porém vejo ali ávido falar minuto porque logicamente tempo minutos apresentar importante
+text175
+
+**** *dec_text176 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+amigo irmão feliz porque povo enche alegria beleza silvana comigo parlamento
+text176
+
+**** *dec_text177 *partido_MDB *uf_RJ *deputado_OTONI_DE_PAULA
+silvana esposa casados anos abençoados filhos ester israel
+text177
+
+**** *dec_text178 *partido_MDB *uf_RJ *deputado_OTONI_DE_PAULA
+silvana nordestina paraibana conheci rio_de_janeiro apaixonei cantava jesus cristo mudou viver dizia mudou graças deus silvana acompanhando
+text178
+
+**** *dec_text179 *partido_MDB *uf_RJ *deputado_OTONI_DE_PAULA
+deus abençoe famílias deus abençoe todos investem família
+text179
+
+**** *dec_text180 *partido_MDB *uf_RJ *deputado_OTONI_DE_PAULA
+sempre valerá pena lutar família nenhum sucesso homem vale sacrifício lar
+text180
+
+**** *dec_text181 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+obrigado
+text181
+
+**** *dec_text182 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+conheço desde jovem enquanto completam anos casados vou completar anos
+text182
+
+**** *dec_text183 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+completar anos casado ocorrerá breve convidados são_paulo
+text183
+
+**** *dec_text184 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+silvana parabéns entender grande ministério vida representar povo estado rio_de_janeiro
+text184
+
+**** *dec_text185 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos agora rio_grande_do_sul
+text185
+
+**** *dec_text186 *partido_PSB *uf_RS *deputado_HEITOR_SCHUCH
+colegas estimado povo brasileiro quero fazer desta tribuna espaço mostrar indignação insatisfação repúdio resolução conselho monetário nacional melhor três resoluções conselho monetário nacional liquidam proagro seguro agricultura familiar produzir tranquilidade
+text186
+
+**** *dec_text187 *partido_PSB *uf_RS *deputado_HEITOR_SCHUCH
+ouviu falar últimos tempos estado rio_grande_do_sul três safras prejudicadas seca enfrentou enchentes catástrofes mortes aí precisamos seguro agrícola enquanto agricultores enquanto empreendedores rurais regras mudam meio jogo dá aceitar
+text187
+
+**** *dec_text188 *partido_PSB *uf_RS *deputado_HEITOR_SCHUCH
+trouxe alguns números ilustrar falando feitos mil contratos mil agricultores contrataram seguro pagaram parte ter cobertura milhões mil hectares falando rio_grande_do_sul precisamos ampliar números outros estados têm mesma política
+text188
+
+**** *dec_text189 *partido_PSB *uf_RS *deputado_HEITOR_SCHUCH
+proagro proagro principais instrumentos mitigação riscos escolhidos agricultores proteger lavouras
+text189
+
+**** *dec_text190 *partido_PSB *uf_RS *deputado_HEITOR_SCHUCH
+quero reiterar falamos proagro talvez governo pouco caro porque havido muitas intempéries porque barato barato enquanto pudermos produzir alimento vai mesa povo brasileiro agricultor brasileiro fizer amanhã talvez importar alimentos aí sim vamos pagar preço além conta
+text190
+
+**** *dec_text191 *partido_PSB *uf_RS *deputado_HEITOR_SCHUCH
+quero reiterar manifestação recebida contag confederação nacional trabalhadores agricultura aristides fetag joel resoluções excluem milhares agricultores proagro garantia safra
+text191
+
+**** *dec_text192 *partido_PSB *uf_RS *deputado_HEITOR_SCHUCH
+nesse cenário preciso deixar claro brasileiros campo resoluções causam prejuízo campo governo fez através conselho monetário nacional coopera produção alimentos saudáveis reduzir limite enquadramento reduzir limites garantia vão contramão desenvolvimento rural política pública conselho monetário nacional precisa revogar forma urgente imediata agricultura possa continuar produzindo
+text192
+
+**** *dec_text193 *partido_PSB *uf_RS *deputado_HEITOR_SCHUCH
+pedimos realização audiência pública comissão agricultura pecuária abastecimento desenvolvimento rural desta discutir assunto audiência ministro fazenda junto movimentos campo agricultura agronegócio familiar debatamos assunto suspendamos resoluções conselho monetário nacional
+text193
+
+**** *dec_text194 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k rio_grande_do_sul
+text194
+
+**** *dec_text195 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora rio_grande_do_sul vamos rio_de_janeiro ouvir
+text195
+
+**** *dec_text196 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+enquanto dirige tribuna vamos ouvir minuto
+text196
+
+**** *dec_text197 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+realmente país cortinas fumaça inúmeras situações acontecendo país nada fala
+text197
+
+**** *dec_text198 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+presidente_da_república disse chateado mulher acusou agressão
+text198
+
+**** *dec_text199 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+ibama paralisado faz meses queimadas aumentaram fevereiro
+text199
+
+**** *dec_text200 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+atinge recorde histórico mortes dengue
+text200
+
+**** *dec_text201 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+déficit recorde contas públicas fevereiro chegou bilhões reais
+text201
+
+**** *dec_text202 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+assumiu posto pior mercado ações mundo
+text202
+
+**** *dec_text203 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+poupa irã resolução organização nações unidas sobre investigação crimes contra direitos humanos
+text203
+
+**** *dec_text204 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+espião russo descoberto embaixada brasília recrutando informantes
+text204
+
+**** *dec_text205 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+servidores públicos federais entram greve inteiro
+text205
+
+**** *dec_text206 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+ministro governo atual gestão citado delação sobre fraude saúde estado bahia
+text206
+
+**** *dec_text207 *partido_UNIÃO *uf_MT *deputado_CORONEL_ASSIS
+realmente vivendo grande crise país
+text207
+
+**** *dec_text208 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+fala mato_grosso agora sim vamos rio_de_janeiro ouvir
+text208
+
+**** *dec_text209 *partido_PT *uf_RJ *deputado_REIMONT
+vou continuar falando crise crise anunciada palácio planalto
+text209
+
+**** *dec_text210 *partido_PT *uf_RJ *deputado_REIMONT
+amantes agouro aves agouro conseguem ver nenhuma movimentação governo positiva notícia reuniu representantes movimentos sociais bom lembrar passado reunia cercadinho imprensa governo lotou segundo andar palácio planalto representantes movimentos sociais anunciar duas novas modalidades programa minha_casa_minha_vida modalidade entidades organizada movimentos sociais envolve autogestão construção mutirão falando mil unidades mil unidades custo bilhões reais outra modalidade rural prevê construção mil unidades valor bilhões milhões reais
+text210
+
+**** *dec_text211 *partido_PT *uf_RJ *deputado_REIMONT
+estado rio_de_janeiro conforme anúncio unidades inscritas àqueles acham governo passado fez alguma coisa país quero dizer estado governo implantou sequer digo usando linguajar estado bateu prego nada zero zero zero fez disseminar fake news disseminar chamamos negacionismo negando vacina povo levando povo morte
+text211
+
+**** *dec_text212 *partido_PT *uf_RJ *deputado_REIMONT
+fez anúncio queria falar porque importante
+text212
+
+**** *dec_text213 *partido_PT *uf_RJ *deputado_REIMONT
+oposição coloquem menos mão consciência compreendam déficit habitacional sendo enfrentado governo inclusive campo oposição criticam pra caramba governo entendem medida importante
+text213
+
+**** *dec_text214 *partido_PT *uf_RJ *deputado_REIMONT
+nestes últimos segundos restam quero lembrar comissão trabalho falou sobre votado piso salarial profissionais fisioterapia terapia ocupacional mando abraço coffito conselho fisioterapia terapia ocupacional inteiro mando abraço especial crefito rio_de_janeiro trabalhadores fisioterapia terapia ocupacional ressaltando relevância luta saúde brasileira todo povo brasileiro porque fisioterapia salva vidas importante todos
+text214
+
+**** *dec_text215 *partido_PT *uf_RJ *deputado_REIMONT
+fim quero dizer enfrentar peito aberto avanços extrema direita agora alardeados elon musk diz vai desrespeitar leis brasileiras muitos aceitando fazemos leis aplaudimos prometem desrespeitá las vergonha ouvir alguns dizerem
+text215
+
+**** *dec_text216 *partido_PT *uf_RJ *deputado_REIMONT
+elon musk faça repúdio exemplo arábia saudita faça lembrança apartheid áfrica sul onde proveniente
+text216
+
+**** *dec_text217 *partido_PT *uf_RJ *deputado_REIMONT
+todos todas paz bem
+text217
+
+**** *dec_text218 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+rio_de_janeiro vamos agora tocantins ouvirmos frente parlamentar evangélica palavra
+text218
+
+**** *dec_text219 *partido_PL *uf_TO *deputado_ELI_BORGES
+gosto ouvir diz neste parlamento gosto alto nível propagandas governo ano passado exemplo anunciado maior plano safra bilhões reais banco viu dinheiro chegou agora anunciada resolução existe modelo agronegócio bancos operam basicamente estabelece resolução prática novidade estado produtores soja alcançados chuva mês dezembro outros convivem agora excesso chuva pacote sabem fazer pagar contas banco
+text219
+
+**** *dec_text220 *partido_PL *uf_TO *deputado_ELI_BORGES
+agronegócio verba chamada custeio resolução alcançou verba bons clientes sustentam economia brasileira puxam economia brasileira agronegócio crise porque conseguem pagar banco considerados resolução grave preciso fazer trabalho inclusão todos precisam renegociar dívidas perder crédito continuem produzindo gerando divisas
+text220
+
+**** *dec_text221 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+tocantins vamos agora mato_grosso_do_sul palavra
+text221
+
+**** *dec_text222 *partido_PP *uf_MS *deputado_DR_LUIZ_OVANDO
+satisfação grande estar vê lo frente trabalhos desta
+text222
+
+**** *dec_text223 *partido_PP *uf_MS *deputado_DR_LUIZ_OVANDO
+após algum tempo volto tribuna motivado exatamente desafios colocados nação brasileira principalmente
+text223
+
+**** *dec_text224 *partido_PP *uf_MS *deputado_DR_LUIZ_OVANDO
+visto constante atropelar leis supremo_tribunal_federal infelizmente art sido esquecido lamentável repercutido sobretudo liberdade pessoas medo medo determinados ministros supremo_tribunal_federal
+text224
+
+**** *dec_text225 *partido_PP *uf_MS *deputado_DR_LUIZ_OVANDO
+agora vemos alguém estrangeiro colocar posição defesa interesses assumindo inclusive papel senado deveria forma intocável assumir defender interesses povo brasileiro infelizmente sido feito
+text225
+
+**** *dec_text226 *partido_PP *uf_MS *deputado_DR_LUIZ_OVANDO
+dentro alguns minutos talvez horas votarmos sobre liberação daquele preso determinação ministro supremo_tribunal_federal quero esclarecer forma contundente colocados posição juiz povo brasileiro representados elegeram colocados zelar legislativo vamos fazer destacando principalmente art diz respeito prerrogativas legislativas
+text226
+
+**** *dec_text227 *partido_PP *uf_MS *deputado_DR_LUIZ_OVANDO
+quero deixar claro fundamental federais votemos liberdade congresso caso contrário infelizmente última oportunidade decidir modular ações determinados poderes têm extrapolado prerrogativas
+text227
+
+**** *dec_text228 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos bahia ouvir
+text228
+
+**** *dec_text229 *partido_MDB *uf_BA *deputado_RICARDO_MAIA
+srs parlamentares último final semana aconteceram fortes chuvas sertão baiano fazendo açude cocorobó transbordasse causou inundações município canudos conselheiro levou irrigações rio vaza barris provocou cidade jeremoabo inundação via anos
+text229
+
+**** *dec_text230 *partido_MDB *uf_BA *deputado_RICARDO_MAIA
+levamos ministro waldez góes solicitação atendimento dois municípios precisam urgentemente intervenção governo estadual governo_federal poderem voltar normalidade vida muitos prejuízos agricultura pequeno agricultor quanto sustentabilidade economia
+text230
+
+**** *dec_text231 *partido_MDB *uf_BA *deputado_RICARDO_MAIA
+abordo agora outro tema dia muita felicidade povo retomada minha_casa_minha_vida rural minha_casa_minha_vida entidades vezes mora confortável fácil usar tribuna sendo parlamentar difícil saber atendimento necessidade país durante muitos muitos anos ficou estacionado casas minha_casa_minha_vida rural pessoas precisam dessas unidades habitacionais inácio assinou vários contratos relativos casas todo país especialmente bahia torrão sertão meio minha_casa_minha_vida levamos unidades habitacionais cidade heliópolis sendo rurais cidade fátima casas meio rural sede município ribeira pombal unidades habitacionais rurais atendido município elísio medrado tucano prefeito contemplada cem unidades habitacionais desse programa
+text231
+
+**** *dec_text232 *partido_MDB *uf_BA *deputado_RICARDO_MAIA
+contexto felicidade faz ser parlamentar momento histórico votou desde lado momento assinatura desses contratos proporcionam dignidade povo
+text232
+
+**** *dec_text233 *partido_MDB *uf_BA *deputado_RICARDO_MAIA
+mídias tribuna fala ministro ministro governador estado bahia anos apresentou intenções votos pesquisa convenceu grupo político formatou candidatura elegeu governador fez excelente trabalho quatro cantos estado desenvolvendo área saúde conseguiu reeleger votos válidos muita honra baianos baianas ministro governador anos levou desenvolvimento estado frutos colhidos governador jerônimo fez entrega diversas escolas modernizadas fato governador cuidou povo baiano
+text233
+
+**** *dec_text234 *partido_MDB *uf_BA *deputado_RICARDO_MAIA
+senhora porém tentando livrar cadeia citou delação premiada nome homens importantes país fez momento homem lado inácio gestão formatando governança desenvolver
+text234
+
+**** *dec_text235 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+bahia vamos novamente rio_de_janeiro palavra minuto
+text235
+
+**** *dec_text236 *partido_PT *uf_RJ *deputado_REIMONT
+quero registrar presença irmão visitando nesta
+text236
+
+**** *dec_text237 *partido_PT *uf_RJ *deputado_REIMONT
+empregado caixa_econômica daqueles lutado povo minas_gerais caixa_econômica mantenha cem cento pública
+text237
+
+**** *dec_text238 *partido_PT *uf_RJ *deputado_REIMONT
+grande tarefa vivemos momento governo caixa_econômica quase quase quase quase entregue fizemos então luta continuamos fazendo luta favor caixa tudo esperamos inclusive loterias permaneçam caixa sabemos importância
+text238
+
+**** *dec_text239 *partido_PT *uf_RJ *deputado_REIMONT
+registro então presença parlamento agradeço visita
+text239
+
+**** *dec_text240 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+quero dar boas vindas ilustre visitante nesta tarde parabenizá lo ter grande representante nesta representa tão bem rio_de_janeiro
+text240
+
+**** *dec_text241 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos rio_grande_do_norte palavra
+text241
+
+**** *dec_text242 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+gostaria manifestar apoio luta sindicatos servidores sinsenat sindjustiça travando resolver injustiça sendo praticada contra toda geração servidores públicos dedicaram vidas prestar serviço público qualidade
+text242
+
+**** *dec_text243 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+refiro stf decidiu servidores ingressaram serviço público antes mesmos direitos daqueles ingressaram após mesmos direitos aposentadoria regras progressão provocará caos serviço público porque todo país existe possibilidade crise quebra inclusive expectativa toda geração servidores
+text243
+
+**** *dec_text244 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+estado exemplo consequência dessa decisão tribunal contas estabeleceu prazo servidores antigos pudessem aposentar decisão suspensa stf através liminar imaginem situação insegurança persiste dia vida servidores afinal trata apenas liminar
+text244
+
+**** *dec_text245 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+natal caso servidores antigos precisem aposentar vai ocorrer vez servidores municipais mil servidores estaduais vão deixar serviço público pessoas anos perfil maioria pessoas atingidas perdessem parte importantíssima renda idade inclusive difícil realocação profissional ademais poderia parar importantes serviços públicos porque impossível repor quantidade servidores vez haveria ainda impacto econômico cidades cidade natal relevante parte trabalhadores empregada serviço público
+text245
+
+**** *dec_text246 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+suspensão daquela decisão liminar injustiça persiste persiste insegurança parte daqueles direitos sendo preservada somente liminar questão aposentadoria direitos progressão funcional sendo retirados desses servidores dedicaram vidas serviço público
+text246
+
+**** *dec_text247 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+então peço apoio mesa presentes aprovemos breve possível pecs tratam sobre tema pec fim garantirmos servidores vejam minguar renda assegurarmos continuidade prestação serviço público
+text247
+
+**** *dec_text248 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+agora gostaria manifestar total apoio luta servidoras servidores instituições federais ensino mobilizando fazer disse precisava ser feito anunciou fim trabalho equipe transição final disse país preciso população fizesse cobrança inclusive reiterado entrevista deu início deste mês cobrar ajudar governo achar caminhos então governo liderado sindicalista partido trabalhadores sabe bem importância greve conquista direitos
+text248
+
+**** *dec_text249 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+quero registrar apoio reconhecimento legitimidade greves ocorrendo institutos federais ensino ifrn universidades federais ufrn porque organização trabalhadores trabalhadoras fazer exemplo maior categoria servidores executivo tae técnico administrativos educação deixe ser carreira desvalorizada serviço público organização trabalhadores trabalhadoras vai poder fazer inclusive pressão determinados setores congresso controle orçamento revertida assim acabarmos sufocamento orçamentário instituições federais ensino
+text249
+
+**** *dec_text250 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+manifesto então todo apoio trabalhadores trabalhadoras instituições federais ensino
+text250
+
+**** *dec_text251 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+contem mandato nessa luta justa legítima
+text251
+
+**** *dec_text252 *partido_PT *uf_RN *deputado_NATÁLIA_BONAVIDES
+peço pronunciamento divulgado programa voz_do_brasil
+text252
+
+**** *dec_text253 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k rio_grande_do_norte pedido atendido pronunciamento divulgado todos órgãos comunicação desta
+text253
+
+**** *dec_text254 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+inscrito oitavo nono lugar plenário usar palavra
+text254
+
+**** *dec_text255 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+fará uso palavra bahia vamos passar minas_gerais estado vizinho vamos passar ceará ouvirmos ceará olhando perguntado daqui pouco vai falar
+text255
+
+**** *dec_text256 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text256
+
+**** *dec_text257 *partido_MDB *uf_RJ *deputado_OTONI_DE_PAULA
+senhoras senhores rio_de_janeiro tornou quarta pior cidade mundo tempo médio gasto transporte público entanto vimos ontem importância prefeito paes dá mobilidade urbana transporte público cidade convocado municipal audiência pública presidida vereador michel fim avaliado caos tornou avenida erro falta cálculo prefeitura quanto impactos aconteceriam após inauguração transbrasil prefeito paes simplesmente compareceu audiência pública sequer enviou representante ausência prefeito cidade levanta claro questionamento sobre comprometimento evidente necessidade população transporte público qualidade mobilidade qualidade
+text257
+
+**** *dec_text258 *partido_MDB *uf_RJ *deputado_OTONI_DE_PAULA
+política gente serviço imprescindível representantes verdadeiramente comprometidos servir coletividade buscar soluções vão beneficiar conjunto sociedade próprios interesses infelizmente mobilidade urbana parece ser prioridade atual gestão
+text258
+
+**** *dec_text259 *partido_MDB *uf_RJ *deputado_OTONI_DE_PAULA
+srs venho alertando desta tribuna sobre impacto mudanças climáticas rio_de_janeiro especial cidade rio_de_janeiro especialmente ainda vida população vulnerável tragédias tragédias anunciadas cidade rio_de_janeiro cada chuva sabemos mudanças clima afetam desproporcionalmente muitos sobretudo população menos favorecida frequentemente localizadas áreas vulneráveis áreas carentes falta infraestrutura populações sofrem infelizmente compromisso atual prefeito política ambiental portanto acusar chuvas única saída justificar caos
+text259
+
+**** *dec_text260 *partido_MDB *uf_RJ *deputado_OTONI_DE_PAULA
+últimos anos apresentado nesta legislativa propostas sentido termos leis estabeleçam compromissos clima compromissos política ambiental favela sofrendo pobre sofrendo infelizmente nada sendo feito melhorar condições
+text260
+
+**** *dec_text261 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k rio_de_janeiro
+text261
+
+**** *dec_text262 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos ouvir ceará
+text262
+
+**** *dec_text263 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+enquanto dirige tribuna palavra espírito_santo
+text263
+
+**** *dec_text264 *partido_PL *uf_ES *deputado_GILVAN_DA_FEDERAL
+vez haverá momento histórico câmara_dos_deputados mostraremos vamos respeitar constituição atropelá la mostraremos vamos acovardar vez diante decisão ilegal ministro supremo_tribunal_federal
+text264
+
+**** *dec_text265 *partido_PL *uf_ES *deputado_GILVAN_DA_FEDERAL
+brazão todos sabem sendo acusado ser mandante assassinato vereadora marielle constituição bem clara art 2º nenhum ser preso senão flagrante delito nenhum senador ser preso senão flagrante delito então mandado prisão preventiva existe senador
+text265
+
+**** *dec_text266 *partido_PL *uf_ES *deputado_GILVAN_DA_FEDERAL
+julgando mérito responsável assassinato vereadora marielle condenado punido dentro devido processo legal apodreça cadeia nesse caso votarei cassação iremos votar formalidade prisão legal ilegal constituição bem clara nenhum ser preso senão flagrante delito crime inafiançável
+text266
+
+**** *dec_text267 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos ceará
+text267
+
+**** *dec_text268 *partido_PDT *uf_CE *deputado_IDILVAN_ALENCAR
+fala diz respeito educação superior deste país especialmente universidades federais institutos federais
+text268
+
+**** *dec_text269 *partido_PDT *uf_CE *deputado_IDILVAN_ALENCAR
+todos conhecem luta desde contra restrições orçamentárias rua protestei lutei exerço mandato coerente ser situação agora posso ficar calado então favor servidor dinheiro institutos federais universidades ser situação oposição
+text269
+
+**** *dec_text270 *partido_PDT *uf_CE *deputado_IDILVAN_ALENCAR
+venho falar sobre recomposição orçamentária suficiente fala diz respeito servidores maior patrimônio dessas instituições então apoio fala movimento ufc ufca unilab forma especial taes técnico administrativos educação suma importância invisíveis sob ponto valorização financeira acumulam perdas superiores longo últimos anos cada investem concurso saindo sobrecarregados dados próprio governo mostram adoecendo então preciso dar importância tema
+text270
+
+**** *dec_text271 *partido_PDT *uf_CE *deputado_IDILVAN_ALENCAR
+participativo debate orçamento participativo proposta votada ministro educação valorizar taes aconteceu passados meses esperança proposta realizada ainda grupo vamos ministério gestão inovação cobrar mesa negociação valorização
+text271
+
+**** *dec_text272 *partido_PDT *uf_CE *deputado_IDILVAN_ALENCAR
+então fica apelo ministério educação ministério gestão inovação parlamento valorizar taes neste momento estudantes prejudicados quê conta movimento justo ordeiro quero dizer mandato parlamentar sim disposição servidores docentes universidades federais institutos federais valorizá los
+text272
+
+**** *dec_text273 *partido_PDT *uf_CE *deputado_IDILVAN_ALENCAR
+queria pronunciamento divulgado programa voz_do_brasil
+text273
+
+**** *dec_text274 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k atendendo pedido pronunciamento divulgado todos órgãos comunicação desta
+text274
+
+**** *dec_text275 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos ouvir 25º inscrito precisamos ir vamos ouvir daqui pouco chegamos bahia piauí cima
+text275
+
+**** *dec_text276 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text276
+
+**** *dec_text277 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+votação importante nesta trata saber irá libertar deixar sair prisão preso porque sendo acusado ser mandantes assassinato marielle anderson assassinatos hediondos antidemocráticos deste país anos investigação sobre
+text277
+
+**** *dec_text278 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+além chiquinho brazão irmão brazão rivaldo todos presos obstrução justiça réus serem mandantes
+text278
+
+**** *dec_text279 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+assassinou denunciou vizinho jair relação ultradireita assassinato parece óbvia porque nesta relação milicianos opositores marielle queria prevalecesse rio_de_janeiro existência dessas milícias muitas vezes confundem polícias muitas vezes confundem mercadores mentirosos fé
+text279
+
+**** *dec_text280 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+rio_de_janeiro portanto virou deste emaranhado ultradireitista infelizmente infelicitado estado rio_de_janeiro todo
+text280
+
+**** *dec_text281 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+agora ultradireita quer votar saidinha brazão falaram bandido forma alguma sair natal ver família brazão sair tentar continuar obstruindo justiça quer saber mandou matar marielle aí deixam brazão sair saidinha brazão
+text281
+
+**** *dec_text282 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+querem votar anistia tentou dar golpe existe projeto lei anistia quer dizer bandido bom bandido solto bandido cometendo outros crimes bandido absolutamente claro
+text282
+
+**** *dec_text283 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+vi agora dando desculpa questão constituição vai ter desculpa dar porque comissão_de_constituição_e_justiça acabou provar aprovar justa manter prisão chiquinho brazão agora vai dizer ccj razão pois aprovado exatamente agora neste momento parecer comissão manutenção prisão
+text283
+
+**** *dec_text284 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+querem votar verdade absolvição tentativa retirar culpa alguém ligação grande milícias quais própria família chegou dar medalhas
+text284
+
+**** *dec_text285 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+relação promíscua milícia política prevalecer plenário desta plenário ser limpo claro existe relação possível política milícia ficar solto continuar obstruindo justiça quero ver vai dar votação vierem estarão condizentes absolvição chiquinho brazão estarão tramando contra punição daqueles mandaram assassinar marielle
+text285
+
+**** *dec_text286 *partido_PT *uf_MG *deputado_ROGÉRIO_CORREIA
+calar calo medo desse pessoal nome constituição quer fazer prevaleça crime hediondo cometido contra mulher negra vereadora morro favela faça justiça nesta fez supremo unanimidade
+text286
+
+**** *dec_text287 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k minas_gerais
+text287
+
+**** *dec_text288 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos continuar minas_gerais
+text288
+
+**** *dec_text289 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+daqui pouquinho chamo
+text289
+
+**** *dec_text290 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+colegas dia importante povo brasileiro porque aprovamos senado criação política estratégica política nacional agricultura urbana periurbana matéria sido apreciada nesta senado agora vai plenário senado dá destinação correta justa terrenos ociosos urbanos periurbanos muitas áreas motivo insegurança problemas tornam solução
+text290
+
+**** *dec_text291 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+outro ponto importante minha_casa_minha_vida entidades leleco vai ficar lado vai falar leleco eleito assessor atrás
+text291
+
+**** *dec_text292 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+assessores base eleitos assessores eleitos assessor eleito votado outro aí sido eleito veio assessoria porque eleito respeitamos leleco assumiu assessoria temática assessoria base assessoria temática linha moradia ajudou estruturação entidades porque havia programa nacional povo organizado usufruir dessas políticas desse programa
+text292
+
+**** *dec_text293 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+então quero agradecer reconhecer luta leleco projeto denominado juntos servir fusão mandato mandato estadual mesma equipe conselho político deliberativo assembleia geral deliberativa
+text293
+
+**** *dec_text294 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+então minas_gerais lança casas rurais urbanas importantes minas_gerais todas entidades âmbito país mil casas rurais mil urbanas então rurais importante termos atenção rural dar perspectiva juventude ter acesso acesso moradia acesso energia elétrica acesso internet
+text294
+
+**** *dec_text295 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+caixa_econômica sempre parceira
+text295
+
+**** *dec_text296 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+então grande conquista povo brasileiro esquecidos
+text296
+
+**** *dec_text297 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+lançamento mostra grande sensibilidade
+text297
+
+**** *dec_text298 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+caras v.exas imaginam dimensão pac minha_casa_minha_vida geração emprego renda dúvida ano vem época dessas índice desemprego estará embaixo porque todas ações além beneficiário direto política programa geram emprego renda desde extração areia eletricista carpinteiro pedreiro
+text298
+
+**** *dec_text299 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+parabéns equipe registamos gratidão nome juventude rural nome periferia nome entidades protagonistas dessa política estratégica
+text299
+
+**** *dec_text300 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+parabéns leleco gratidão
+text300
+
+**** *dec_text301 *partido_PT *uf_MG *deputado_PADRE_JOÃO
+peço pronunciamento divulgado programa voz_do_brasil
+text301
+
+**** *dec_text302 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k atendendo pedido pronunciamento divulgado todos órgãos comunicação desta
+text302
+
+**** *dec_text303 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora minas_gerais vamos pernambuco pernambuco vamos ouvir vamos ouvir
+text303
+
+**** *dec_text304 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+querido desculpe chamar querido sei querido todos todos amamos daqui pouquinho logo seguida concederei palavra sei sétimo naquele momento daqui pouquinho chegamos piauí
+text304
+
+**** *dec_text305 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos então tribuna pernambuco
+text305
+
+**** *dec_text306 *partido_PP *uf_PE *deputado_CLARISSA_TÉRCIO
+boa tarde todos presentes nesta
+text306
+
+**** *dec_text307 *partido_PP *uf_PE *deputado_CLARISSA_TÉRCIO
+subo tribuna falar guarda municipal cidade jaboatão guararapes cuida segurança povo patrimônio
+text307
+
+**** *dec_text308 *partido_PP *uf_PE *deputado_CLARISSA_TÉRCIO
+instalações sede comando geral guarda municipal fiz imagens tornei públicas revelando sucateamento condições insalubres trabalho falta equipamentos proteção valor gratificação risco vida congelado falta valorização total toda corporação infelizmente situação total abandono falo todos maioria desses servidores desses agentes
+text308
+
+**** *dec_text309 *partido_PP *uf_PE *deputado_CLARISSA_TÉRCIO
+jaboatão população pouco mil pessoas apenas agentes guardas municipais cuidar povo acordo lei nº trata efetivo guardas municipais deveríamos ter povo jaboatão guararapes merece
+text309
+
+**** *dec_text310 *partido_PP *uf_PE *deputado_CLARISSA_TÉRCIO
+podemos conceber guarda municipal faça bom trabalho trabalho integrado polícia militar pernambuco nível sucateamento tamanho desse efetivo preciso integrar preciso facilitar trabalho guarda guarda equipada guarda armada capacitada coibir toda violência criminalidade têm tomado conta cidade jaboatão
+text310
+
+**** *dec_text311 *partido_PP *uf_PE *deputado_CLARISSA_TÉRCIO
+precisamos ontem precisamos urgentemente desse fortalecimento criação rota jaboatão guarda municipal tropa elite cidade chamarmos combater criminalidade assim fortalecimento podermos dizer todos cidadãos jaboatão cidadão bem poderá ter esperança viver cidade paz andar ruas tranquilidade bandido criminoso arrumar malas partir jaboatão porque vamos atrás dado recado peça sair porque criaremos guarda municipal polícia jaboatão deixaremos situação continuar jeito
+text311
+
+**** *dec_text312 *partido_PP *uf_PE *deputado_CLARISSA_TÉRCIO
+enfrenta criminalidade batermos frente criminosos dominarão ainda país dominarão ainda cidade podemos iremos permitir aconteça aconteça jaboatão porque povo bem precisa país decente viver
+text312
+
+**** *dec_text313 *partido_PP *uf_PE *deputado_CLARISSA_TÉRCIO
+deus abençoe jaboatão guararapes
+text313
+
+**** *dec_text314 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k pernambuco
+text314
+
+**** *dec_text315 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos então agora bahia são_paulo peço minutinho palavra bahia
+text315
+
+**** *dec_text316 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora chamando lista outro daqui então chamaremos assim diante o.k
+text316
+
+**** *dec_text317 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+seguida querido palavra
+text317
+
+**** *dec_text318 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text318
+
+**** *dec_text319 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+faço dois registros rápidos primeiramente deixo todo apoio greve técnicos administrativos universidades federais reivindicação justa muitos anos atraso análise plano carreira necessidade recuperar salários minimamente decentes pois carreira menos bem paga
+text319
+
+**** *dec_text320 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+então estaremos agora 16h30min ministra esther dweck esperamos soluções possam ser apresentadas
+text320
+
+**** *dec_text321 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+segundo lugar toda possibilidade reafirmar aceitação cresceu diante olhos população mantendo prisão infelizmente profundamente envolvido caso ampla divulgação internacional infelizmente apenas posição ministro supremo unânime então realidade difícil denegar manutenção desta prisão penso deveria mantê la efetivamente acompanhamento processo judicial esclarecerá sociedade brasileira verdade fatos
+text321
+
+**** *dec_text322 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+gostaria falar neste minuto meio ainda tolerância algo relacionado problema grave histórico cidade salvador solidarizo dias consequências chuvas apesar todo trabalho feito governo estado contendo encostas vítimas ponto vista perda vidas vendo cidade alagada ruas alagadas obras inacabadas mal planejadas impactando cidade salvador terceira maior cidade população
+text322
+
+**** *dec_text323 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+segundo lugar estado bahia sofrendo chuvas geral solidarizo inclusive ações governo estado busca solução
+text323
+
+**** *dec_text324 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+salvador problema grave regularização fundiária terrenos especialmente bairros centrais centro antigo cidade fazendas passado ainda capitanias hereditárias terrenos considerados foreiros boa parte população paga terreno usa constrói dona próprio terreno algo sério
+text324
+
+**** *dec_text325 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+prefeitura lançou reurb lançou população baixa renda lançou população acima cinco salários mínimos incrivelmente existem vagas população acima cinco salários mínimos população baixa renda enfim movimento grande mil famílias cadastradas regularização fundiária infelizmente mil vagas abertas regularização artigos draconianos cômputo formatação deste requerimento
+text325
+
+**** *dec_text326 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+infelizmente declara atendimento legitimado todos elementos técnicos pendências acarretará sobre requerente indeferimento pedido análise caso tela todas custas processuais recairão sobre requerente inclusive possíveis ações judiciais futuras algo draconiano intimida paga foro famílias tradicionais seculares intimida entrar
+text326
+
+**** *dec_text327 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+quero solicitar viva voz divulgue pronunciamento jornal programa voz_do_brasil todos órgãos comunicação
+text327
+
+**** *dec_text328 *partido_PCdoB *uf_BA *deputado_ALICE_PORTUGAL
+prefeito receba ong centro cívico organiza famílias prol regularização fundiária disponho ajudar nessa negociação possível salvador continuar legislação colonial preciso regularizar terrenos foreiros garantir famílias soteropolitanas dez bairros donas onde moram residem constroem alugam
+text328
+
+**** *dec_text329 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k bahia
+text329
+
+**** *dec_text330 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos são_paulo
+text330
+
+**** *dec_text331 *partido_PT *uf_SP *deputado_NILTO_TATTO
+venho tribuna compartilhar colegas parlamentares apresentei projeto lei nº título silvestre pet
+text331
+
+**** *dec_text332 *partido_PT *uf_SP *deputado_NILTO_TATTO
+precisamos fazer debate sério nesta vez todas discutirmos tomarmos alguma atitude ponto vista legislação proibir criação animais silvestres comercialização
+text332
+
+**** *dec_text333 *partido_PT *uf_SP *deputado_NILTO_TATTO
+vou dar exemplo caso cidade são_paulo pesquisa realizada mostrou animais traficados mesmas espécies animais têm autorização comercialização ter ideia todos sabem quantos animais silvestres capturados menos exemplo aves morrem antes chegar destino final
+text333
+
+**** *dec_text334 *partido_PT *uf_SP *deputado_NILTO_TATTO
+tomarmos cuidado vamos continuar fazendo matança animais silvestres pet cachorro gato levaram milhares milhares anos serem domesticados assim ocorre outras espécies então natural preso papagaio macaco cobra jaguatirica anta capivara animal doméstico dentro
+text334
+
+**** *dec_text335 *partido_PT *uf_SP *deputado_NILTO_TATTO
+todos sabem criado inclusive cativeiro tempo animal deixa ser silvestre ter reações enquanto animal silvestre
+text335
+
+**** *dec_text336 *partido_PT *uf_SP *deputado_NILTO_TATTO
+própria proteção biodiversidade contribuirmos inclusive redução mortandade animais silvestres precisamos discutir seriamente
+text336
+
+**** *dec_text337 *partido_PT *uf_SP *deputado_NILTO_TATTO
+falando daqueles porventura têm animal silvestre cuidam carinho desse animal precisamos acabar política incentiva pessoas terem animal silvestre pet fundamental avançarmos termos legislação aprovação desse projeto lei proibir criação comercialização animais silvestres pets
+text337
+
+**** *dec_text338 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k são_paulo
+text338
+
+**** *dec_text339 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos ouvir
+text339
+
+**** *dec_text340 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+antes porém concedo palavra minuto
+text340
+
+**** *dec_text341 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+primeiro quero cumprimentar preside trabalhos honra falar microfone desta tendo
+text341
+
+**** *dec_text342 *partido_MDB *uf_MA *deputado_CLEBER_VERDE
+quero cumprimentar ministro jader lançamento minha_casa_minha_vida rural minha_casa_minha_vida entidades
+text342
+
+**** *dec_text343 *partido_MDB *uf_MA *deputado_CLEBER_VERDE
+maranhão estados maior déficit habitacional trabalho muita articulação governo buscamos fazer maranhão contemplado pois bem unidades habitacionais contempladas programa minha_casa_minha_vida rural atender população maranhense favorecerá habitação si movimentação economia geração empregos levarmos dignidade maranhenses
+text343
+
+**** *dec_text344 *partido_MDB *uf_MA *deputado_CLEBER_VERDE
+fica registrado compromisso continuar trabalhando maranhão
+text344
+
+**** *dec_text345 *partido_MDB *uf_MA *deputado_CLEBER_VERDE
+peço veiculação deste pronunciamento programa voz_do_brasil
+text345
+
+**** *dec_text346 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k atendendo pedido pronunciamento divulgado todos órgãos comunicação desta
+text346
+
+**** *dec_text347 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+ouvirmos agora vamos ouvir minas_gerais
+text347
+
+**** *dec_text348 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+colegas parlamentares ano denunciado nesta tribuna crise passa setor leiteiro
+text348
+
+**** *dec_text349 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+setor leiteiro presente municípios composto maioria pequenos médios produtores crise alonga lamentavelmente vemos governo_federal tomar atitude sentido acudir pessoas
+text349
+
+**** *dec_text350 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+agora coisas indo além semana passada recesso branco oportunidade visitar várias cidades querida região sul minas cidades têm atividade principal agropecuária constatei crise segmento caminha segmento carne segmento milho segmento soja assim vemos nenhuma ação efetiva governo acudir agronegócio aliás agronegócio mantém pib deste país escutamos anúncio projeto disso projeto daquilo nada sai papel importante governo passe olhar cuidado agronegócio principalmente pequenos médios produtores aguentando
+text350
+
+**** *dec_text351 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+agora anunciaram vão permitir refinanciamento investimentos ora sujeito dando conta pagar dinheiro pegou fazer safra dirá fazer investimentos dá percebe claramente governo desgovernado desgovernado
+text351
+
+**** *dec_text352 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+parlamentares obrigação acudir povo principalmente mineiros estado maior número produtores
+text352
+
+**** *dec_text353 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+nessa cadeia milhão pessoas envolvidas todo sistema milhões pessoas envolvidas parece muita importância parece importante vir toda hora dizer governo fez governo fez papel gostaria tudo dizem governo fez cá saísse papel preciso resolva base parlamentares sendo cobrados todo momento cobram solução caneta
+text353
+
+**** *dec_text354 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+quero dizer àquela população rural pedindo governo olhe forma resiliente continuemos trabalhando produzindo comida pôr mesa população
+text354
+
+**** *dec_text355 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+costumo dizer todas profissões extremamente importantes precisamos todos dias vez produtor rural merece olhar especial
+text355
+
+**** *dec_text356 *partido_UNIÃO *uf_MG *deputado_RAFAEL_SIMOES
+termino pedindo fala divulgada programa voz_do_brasil esperamos governo fato olhar carinhoso produtores rurais
+text356
+
+**** *dec_text357 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k minas_gerais atendendo pedido pronunciamento divulgado todos órgãos comunicação desta
+text357
+
+**** *dec_text358 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos ouvir sequência
+text358
+
+**** *dec_text359 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+antes vou fazer pedido colegas experientes desta almoço agora então vamos chamar dois vamos chamá lo vamos priorizá lo nessa idade fique almoço almoce momento certo s.exa poderá vir tribuna
+text359
+
+**** *dec_text360 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos ouvir ser vamos fazer assim então
+text360
+
+**** *dec_text361 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text361
+
+**** *dec_text362 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+srs vez oportunidade dizer efetivamente respeita constituição_federal aliás todos empossados federais juramos defender constituição_federal
+text362
+
+**** *dec_text363 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+enquanto comunistas pessoal extrema esquerda falam tempo todo liberdade democracia dizem pessoal direita extremista golpista todo momento repetimos sempre respeitamos constituição_federal ficam usando palavras efeito fazer discurso bonito sobre liberdade democracia hora votar votam respeito democracia
+text363
+
+**** *dec_text364 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+constituição_federal clara art 2º diz parlamentar vez diplomado poderá ser preso salvo flagrante crime inafiançável abrir mão dessa prerrogativa dar carta branca stf especial faça quiser conosco
+text364
+
+**** *dec_text365 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+contra todo tipo criminoso ora julgado julgado conforme legislação penal
+text365
+
+**** *dec_text366 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+dependesse mim haveria pena morte vagabundo haveria pena morte criminoso estuprador depende mim devo obedecer ritualmente constituição_federal
+text366
+
+**** *dec_text367 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+vamos defender constituição_federal vamos torcer vote respeitando constituição_federal próximos perseguidos
+text367
+
+**** *dec_text368 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+claro art inciso x constituição_federal cabe parlamentares fiscalizar atos poder executivo stf diz parlamentar fiscalizar atos poder executivo ser feito via comissão parlamentar fiscalizar individualmente atos poder executivo entendem arrepio lei
+text368
+
+**** *dec_text369 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+votarmos manutenção prisão deputado_federal devida obediência rito processo legislativo efetivamente mantivermos prisão iremos encontro constituição_federal daremos cheque branco stf faça quiser
+text369
+
+**** *dec_text370 *partido_PL *uf_BA *deputado_CAPITÃO_ALDEN
+analisaremos caso desse cometeu crime hediondo forma violenta causou morte vereadora repudiamos ato violência queremos condenado necessário cumprido devido processo legal
+text370
+
+**** *dec_text371 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+enquanto vai tribuna palavra minuto
+text371
+
+**** *dec_text372 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+seguida vamos ouvir
+text372
+
+**** *dec_text373 *partido_REPUBLICANOS *uf_PB *deputado_RANIERY_PAULINO
+abril dia engenharia quero cumprimentar conselho engenharia agronomia confea marchese conselheiro joel krüger
+text373
+
+**** *dec_text374 *partido_REPUBLICANOS *uf_PB *deputado_RANIERY_PAULINO
+quero destacar projeto autoria projeto lei nº dispõe sobre instituição programa nacional engenheiros destinado promover atuação técnica profissionais engenharia desenvolvimento políticas públicas projetos infraestrutura execução convênios firmados municípios quero registrar iniciativa sugestão engenheiro civil espírito_santo
+text374
+
+**** *dec_text375 *partido_REPUBLICANOS *uf_PB *deputado_RANIERY_PAULINO
+precisamos melhorar cada vez atuação técnica nesses convênios racionalizar otimizar serviços públicos
+text375
+
+**** *dec_text376 *partido_REPUBLICANOS *uf_PB *deputado_RANIERY_PAULINO
+renovo respeito engenheiros especialmente estado paraíba
+text376
+
+**** *dec_text377 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos agora rio_de_janeiro logo vai almoçar almoçar vamos ouvir rio_de_janeiro
+text377
+
+**** *dec_text378 *partido_PSOL *uf_RJ *deputado_CHICO_ALENCAR
+daqui pouco vão chamar fisiológico disse duas três vezes preciso almoçar urgentemente preciso aliás todo mundo precisa exceção neste país
+text378
+
+**** *dec_text379 *partido_PSOL *uf_RJ *deputado_CHICO_ALENCAR
+comissão_de_constituição_e_justiça cidadania debruçou sobre tema espinhoso durante horas seguidas desde horas manhã afinal aprovar parecer avalizando prisão chiquinho brazão espírito vingança vontade fazer justiça compete previsto estatuto imunidade parlamentar qualquer prisão parlamentar ser comunicada horas comissão_de_constituição_e_justiça dar parecer matéria vir plenário deve acontecer ainda espero quórum robusto porque ouvi rádio corredor dizendo talvez esvaziassem quórum significaria esvaziar próprio poder legislativo
+text379
+
+**** *dec_text380 *partido_PSOL *uf_RJ *deputado_CHICO_ALENCAR
+parecer mantém prisão aprovado intensos debates entendimento muita razão porque parte bancada rio_de_janeiro conviveu marielle violência inaudita atingiu todos machuca porque entendemos necessário aprofundamento investigações dois atingiram patamar prisão desses acusados mandantes
+text380
+
+**** *dec_text381 *partido_PSOL *uf_RJ *deputado_CHICO_ALENCAR
+conselheiro tribunal contas estado brazão deputado_federal chiquinho brazão rivaldo chefiou polícia civil presos partir investigações detalhadas relatório polícia_federal páginas decisão decreto prisão monocrática ministro relator alexandre_de_moraes remeteu decisão primeira turma supremo_tribunal_federal composta ministra cármen ministro fux ministro dino outros ministros cujos nomes ocorrem agora cansaço
+text381
+
+**** *dec_text382 *partido_PSOL *uf_RJ *deputado_CHICO_ALENCAR
+aprovado agora espero aprovado significa valorizar parlamento constituição democracia torno disso devemos pensar qualquer situação dessa acusação contra parlamentar amplo direito defesa aconteceu ccj possamos avançar estabilidade instituições democráticas constituição garante
+text382
+
+**** *dec_text383 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k rio_de_janeiro
+text383
+
+**** *dec_text384 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos continuar rio_de_janeiro homem cultura rio_de_janeiro
+text384
+
+**** *dec_text385 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+enquanto organiza tribuna colega mesa palavra minuto
+text385
+
+**** *dec_text386 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+obrigado
+text386
+
+**** *dec_text387 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+tomo liberdade registrar presença duas ilustres personalidades estado
+text387
+
+**** *dec_text388 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+povo gaúcho bem representado prefeito azeredo querida arroio ratos aliás prefeito vez duas vezes três vezes grandes mandatos faz gestão orgulho grande
+text388
+
+**** *dec_text389 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+junto lindner secretário esportes suplente vereador jovem revelação política arroio ratos cidade ajudado emendas recursos verbas melhorar vida qualidade vida povo saúde educação infraestrutura prefeito azeredo testemunha disso faz grande trabalho sabe brasília dão ô tapera campo porteira porta tramela caminhado juntos
+text389
+
+**** *dec_text390 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+bem vindo prefeito bem vindo amigo lindner vereador trabalho reconhecido arroio ratos região vale caí vale carvão rio grande inteiro agora neste brasilzão deus bem vindos brasília obrigado carinho juntos trabalhando povo bom generoso querida arroio ratos
+text390
+
+**** *dec_text391 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+parabéns prefeito sinta bem nesta administração abençoada cidade rio_grande_do_sul parabéns representação senhores têm querido exemplo homem público gaúcho ser seguido felizes
+text391
+
+**** *dec_text392 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+vamos agora rio_de_janeiro tribuna
+text392
+
+**** *dec_text393 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+palavra
+text393
+
+**** *dec_text394 *partido_PSD *uf_RJ *deputado_MARCELO_CALERO
+queria lembrar vamos saber efetivamente dá respeito vamos saber quer fato combater crime organizado milícias contrário quer dar poder criminosos vamos deliberar sobre prisão chiquinho brazão
+text394
+
+**** *dec_text395 *partido_PSD *uf_RJ *deputado_MARCELO_CALERO
+vamos lembrar prisão resultado ampla investigação feita polícia_federal originou relatório páginas vamos lembrar prisão desse senhor referendada todos ministros supremo_tribunal_federal conseguir unanimidade dias fácil inclusive ministros indicados
+text395
+
+**** *dec_text396 *partido_PSD *uf_RJ *deputado_MARCELO_CALERO
+vemos alguns querendo fazer dessa questão disputa direita esquerda disputa poder legislativo poder judiciário inacreditável turma adora dizer bandido bom bandido morto adora dizer endurecer regras penais movimentando nesta liberar sujeito suspeito crimes maior repercussão história política maior
+text396
+
+**** *dec_text397 *partido_PSD *uf_RJ *deputado_MARCELO_CALERO
+favor venham desculpas técnicas além tudo falsas soubemos investigações trata sim crime flagrante permanente porque sujeito usando próprias estruturas estado brasileiro particular polícia civil rio_de_janeiro acobertar crimes conluio então chefe polícia civil obstrução justiça
+text397
+
+**** *dec_text398 *partido_PSD *uf_RJ *deputado_MARCELO_CALERO
+precisamos entender mensagem quer passar vai haver corporativismo hora dessa vamos mostrar sociedade
+text398
+
+**** *dec_text399 *partido_PSD *uf_RJ *deputado_MARCELO_CALERO
+mando recado àqueles articulando virem plenário votar acovardem mostrem população verdadeira relação têm bandidagem registrem votos gostam vociferar gritar hora vamos ver arregam
+text399
+
+**** *dec_text400 *partido_PSD *uf_RJ *deputado_MARCELO_CALERO
+quero lembrar ccj indicou voto liberar brazão partido horas expulsou brazão queria entender coerência
+text400
+
+**** *dec_text401 *partido_PSD *uf_RJ *deputado_MARCELO_CALERO
+precisamos entender seguinte sujeito liberado vai conviver conosco olhem perigo representa pessoal dorme serviço suspeito assassinato vai conviver conosco plenário mensagem vai passar câmara_dos_deputados dez maiores economias mundo maiores democracias planeta queremos mostrar mundo libertamos bandidos
+text401
+
+**** *dec_text402 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k rio_de_janeiro
+text402
+
+**** *dec_text403 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora vamos piauí piauí vamos ouvir
+text403
+
+**** *dec_text404 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+logo seguida vamos voltar paraná ouvir logo palavra
+text404
+
+**** *dec_text405 *partido_PT *uf_PI *deputado_FLÁVIO_NOGUEIRA
+sras srs antecedeu rio_de_janeiro lembrou bem frase usada oposição diz bandido bom bandido morto frase antiga dita policial estado guanabara criou esquadrão morte vejam bem tipo filosofia têm certos políticos direita congresso_nacional
+text405
+
+**** *dec_text406 *partido_PT *uf_PI *deputado_FLÁVIO_NOGUEIRA
+serve exemplo atuação ministério justiça através polícia_federal prisão dois fugitivos penitenciária mossoró quatro pessoas envolvidas fuga basear nessa teoria bandido bom bandido morto polícia_federal matado logo dois simulado estariam rifle apontado arma policiais ocorresse perderíamos toda engrenagem crime dois fugitivos têm contar vão decifrar polícia_federal extensão crime organizado presente cidade rio_de_janeiro estado rio_de_janeiro todos rincões estado brasileiro
+text406
+
+**** *dec_text407 *partido_PT *uf_PI *deputado_FLÁVIO_NOGUEIRA
+ministério justiça fazendo preciso inteligência desmantelará organização diminuir criminalidade necessário porque boa imagem passando mundo
+text407
+
+**** *dec_text408 *partido_PT *uf_PI *deputado_FLÁVIO_NOGUEIRA
+então quero parabenizar sim polícia_federal ministério justiça procedimento adotado prisão daqueles elementos criminosos presídio mossoró têm informar polícia_federal
+text408
+
+**** *dec_text409 *partido_PT *uf_PI *deputado_FLÁVIO_NOGUEIRA
+peço pronunciamento noticiado programa voz_do_brasil
+text409
+
+**** *dec_text410 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k atendendo pedido pronunciamento divulgado todos órgãos comunicação desta
+text410
+
+**** *dec_text411 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+agora piauí vamos paraná onde ouviremos enquanto s.exa dirige tribuna vamos ouvir minuto
+text411
+
+**** *dec_text412 *partido_PL *uf_MG *deputado_JUNIO_AMARAL
+preciso apenas minuto
+text412
+
+**** *dec_text413 *partido_PL *uf_MG *deputado_JUNIO_AMARAL
+devido processo legal termo esquerda usa convém pergunta sincera queria entender raciocínio constituição tornando cada vez pedaço papel servir referência convém
+text413
+
+**** *dec_text414 *partido_PL *uf_MG *deputado_JUNIO_AMARAL
+abrimos precedente perigoso evidentemente votei contra prisão parlamentar sendo injustiçado decisões desse ditador chamado alexandre_de_moraes agora câmara_dos_deputados vez vai curvar decisão desse ditador voto devido processo legal trata coerência sabemos gosta proteger bandido
+text414
+
+**** *dec_text415 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+após s.exa vamos agora paraná ouvir
+text415
+
+**** *dec_text416 *partido_PT *uf_PR *deputado_WELTER
+srs muita alegria satisfação venho falar anúncio programa extraordinário atende direito moradia direito constitucional anúncio possível porque povo votou presidente_da_república olha lado social lado povo menos favorecido
+text416
+
+**** *dec_text417 *partido_PT *uf_PR *deputado_WELTER
+anunciado minha_casa_minha_vida área rural entidades coisa maravilhosa todos entes federados habilitados têm fazer tanto sítio cidades entidades executam projetos mil unidades república meio rural mil entidades executarem estado construídas habitações meio rural entidades têm número próximo
+text417
+
+**** *dec_text418 *partido_PT *uf_PR *deputado_WELTER
+então governo olha gente precisa faixa povo trabalhador menor renda
+text418
+
+**** *dec_text419 *partido_PT *uf_PR *deputado_WELTER
+falha memória verificarei detalhe programa haverá bilhões reais minha_casa_minha_vida rural mil unidades habitação minha_casa_minha_vida entidades programados bilhões reais programa fantástico gera emprego gera dignidade família gera segurança pais mães famílias têm menor renda
+text419
+
+**** *dec_text420 *partido_PT *uf_PR *deputado_WELTER
+governo voltou olha pobre coloca orçamento trata daquele programa diz pobre orçamento rico imposto incomoda parte oposição
+text420
+
+**** *dec_text421 *partido_PT *uf_PR *deputado_WELTER
+programas deram certo vão dar certo começam ser operacionalizados ano passado executada parte agora ano vai ser executado
+text421
+
+**** *dec_text422 *partido_PT *uf_PR *deputado_WELTER
+queria fazer outro comunicado importantíssimo achei bonita frase vi ontem frente congresso inclusão atitude coisa bonita ali prédios congresso_nacional inclusão atitude conscientização mundial autismo
+text422
+
+**** *dec_text423 *partido_PT *uf_PR *deputado_WELTER
+nesse sentido queria fazer pedido acordo lei nº elevadores privativos nessa lei previsto queria incluído símbolo privativo parlamentares prioridades assim atenderíamos questão inclusão acordo lei existe importante inclusive trabalhadora gabinete deficiência locomoção mostraria inclusão cumprimento desta lei nº
+text423
+
+**** *dec_text424 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+o.k paraná
+text424
+
+**** *dec_text425 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+vou passar presidência trabalhos querido amigo vai substituir nesta hora antes quero muita alegria apresentar amigo mocellin igreja resgatar guaratinguetá grande trabalho social grande trabalho evangelização integração famílias enfim daqueles plantam boas sementes jesus cristo sociedade faz acompanhar dione deilton
+text425
+
+**** *dec_text426 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+portanto todos boas vindas sintam bem povo brasileiro peço orações apresentem congresso_nacional deus
+text426
+
+**** *dec_text427 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+convido neste momento assumir presidência logo seguida ouviremos
+text427
+
+**** *dec_text428 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+obrigado honra seguir missão presidência sessão câmara_dos_deputados
+text428
+
+**** *dec_text429 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+série inscritos herdo eminente líder honra substituir
+text429
+
+**** *dec_text430 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+próximo inscrito
+text430
+
+**** *dec_text431 *partido_PSD *uf_SP *deputado_GILBERTO_NASCIMENTO
+enquanto s.exa vai tribuna palavra microfone aparte
+text431
+
+**** *dec_text432 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado neste momento
+text432
+
+**** *dec_text433 *partido_PL *uf_SP *deputado_JEFFERSON_CAMPOS
+faço registro presença vereador cidade cáceres mato_grosso vem brasília buscar recursos município ver representatividade política nesta honra presença vereador
+text433
+
+**** *dec_text434 *partido_PL *uf_SP *deputado_JEFFERSON_CAMPOS
+obrigado deferência neste momento sempre honra ser presidido
+text434
+
+**** *dec_text435 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado acolhemos convidado aliás bem representado parlamento_federal lenda legenda bem representa povo paulista nesta
+text435
+
+**** *dec_text436 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+permita ainda chamar
+text436
+
+**** *dec_text437 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+vou conceder palavra
+text437
+
+**** *dec_text438 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+minuto
+text438
+
+**** *dec_text439 *partido_PSD *uf_PR *deputado_REINHOLD_STEPHANES
+acusação seríssima esposa agora ex esposa luís cláudio agressões físicas psicológicas
+text439
+
+**** *dec_text440 *partido_PSD *uf_PR *deputado_REINHOLD_STEPHANES
+havia frase usavam ninguém larga mão ninguém dessa vez porque deram mãos interessante mudas ninguém critica absurdo agressões físicas psicológicas durante anos
+text440
+
+**** *dec_text441 *partido_PSD *uf_PR *deputado_REINHOLD_STEPHANES
+vê nenhum artista querendo salvar amazônia desde lei rouanet ganhou bilhões acabou interesse preservar amazônia parte artistas brasileiros
+text441
+
+**** *dec_text442 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text442
+
+**** *dec_text443 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+tribuna santa_catarina
+text443
+
+**** *dec_text444 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+caros colegas desta venho tribuna trazer tema extrema importância país especial estado santa_catarina falo questão polícia rodoviária
+text444
+
+**** *dec_text445 *partido_MDB *uf_SC *deputado_COBALCHINI
+santa_catarina segundo estado acidentes acontecem acidentes minas_gerais maior malha viária santa_catarina menores extensão rodovias federais santa_catarina mil quilômetros minas_gerais mil quilômetros quatro vezes santa_catarina
+text445
+
+**** *dec_text446 *partido_MDB *uf_SC *deputado_COBALCHINI
+estado existe maior quantidade acidentes policiais inteiro santa_catarina acontecem acidentes cada policial minas maior extensão rodovias ocorrem acidentes policial sabe vemos santa_catarina postos polícia rodoviária policiais
+text446
+
+**** *dec_text447 *partido_MDB *uf_SC *deputado_COBALCHINI
+inversão prioridades policiais rodoviários importantíssimos segurança rodovias combate crimes fiscalização drogas acidentes precisam apoio governo policial falta sim segurança rodovias
+text447
+
+**** *dec_text448 *partido_MDB *uf_SC *deputado_COBALCHINI
+então quero rogar especial atenção governo_federal principalmente ministério justiça vejam situação sensibilidade coloquem policiais proteger gente rodovias dá continuar desta forma
+text448
+
+**** *dec_text449 *partido_MDB *uf_SC *deputado_COBALCHINI
+falo santa_catarina imagino situação inteiro parecida culpo apenas governo neste momento questão histórica pouca atenção apenas polícia rodoviária estadual todos passam ruas rodovias encontram postos vazios obviamente todos passam todos catarinenses brasileiros segurança grande deficiência
+text449
+
+**** *dec_text450 *partido_MDB *uf_SC *deputado_COBALCHINI
+peço faça veicular pronunciamento programa voz_do_brasil
+text450
+
+**** *dec_text451 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado solicitação mesa acata divulgação programa voz_do_brasil meios comunicação social
+text451
+
+**** *dec_text452 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+fizemos alguns ajustes honrado líder pudesse ocupar tribuna porque outra missão quero pedir generosidade porque compromisso conceder minuto
+text452
+
+**** *dec_text453 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra minuto falará tribuna são_paulo decano
+text453
+
+**** *dec_text454 *partido_REPUBLICANOS *uf_ES *deputado_MESSIAS_DONATO
+quero agradecer generosidade
+text454
+
+**** *dec_text455 *partido_REPUBLICANOS *uf_ES *deputado_MESSIAS_DONATO
+governo irá lançar programa atrair evangélicos realmente pensa vai conseguir mentir cristãos tudo ruim governo feito governo pró aborto governo pró drogas governo contra estado israel aliado hamas ditaduras
+text455
+
+**** *dec_text456 *partido_REPUBLICANOS *uf_ES *deputado_MESSIAS_DONATO
+enfim desespero batendo porta governo derretendo
+text456
+
+**** *dec_text457 *partido_REPUBLICANOS *uf_ES *deputado_MESSIAS_DONATO
+péssima notícia dar irá colar conseguirá novamente ludibriar enganar povo evangélico deste país
+text457
+
+**** *dec_text458 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text458
+
+**** *dec_text459 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+tribuna eminente líder palavra
+text459
+
+**** *dec_text460 *partido_PSOL *uf_SP *deputado_IVAN_VALENTE
+sras srs comissão_de_constituição_e_justiça acaba aprovar votos continuidade prisão chiquinho brazão irmão chefe polícia rio_de_janeiro mandante assassinato marielle franco anderson
+text460
+
+**** *dec_text461 *partido_PSOL *uf_SP *deputado_IVAN_VALENTE
+bem menos ainda votos contra argumento jurídico desses votos fraco diziam flagrante delito peguem processo vão ver crime continuado ronnie lessa contratado élcio aconteceu anos vários delegados polícia manipularam tergiversaram esconderam plantaram testemunhas impedir investigação finalmente polícia_federal rasgou pano apareceram mandantes ronnie lessa fez delação premiada impossível agora tarde vá reafirmar ccjc votou porque escândalo vergonha internacional destruição parlamento brasileiro
+text461
+
+**** *dec_text462 *partido_PSOL *uf_SP *deputado_IVAN_VALENTE
+demonstração podemos atacar extirpar milícia rio_de_janeiro milícia todo mundo sabe amiga jair senador programa tv cultura roda viva falou assim nada ver milícia nóbrega plantados dentro gabinete ronnie lessa vizinho precisa dizer nada
+text462
+
+**** *dec_text463 *partido_PSOL *uf_SP *deputado_IVAN_VALENTE
+tentaram tergiversar jogando contra supremo_tribunal_federal quê dizer ministro alexandre_de_moraes contrataram ricaço dono tesla interferir soberania nacional violar judiciário brasileiro fazer propaganda preciso dizer neste caso ministro alexandre_de_moraes inclusive decidiu decidiu colegiado segundo indicado sorteado neste caso chiquinho brazão
+text463
+
+**** *dec_text464 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+agora acontecendo seguinte muita disputa vai ser sucessor cria covardia vez julgar caso assassinato brincando parlamento brasileiro
+text464
+
+**** *dec_text465 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+sugerido votasse líder dia expulsado chiquinho brazão vejam eleitoral atrair extrema direita querem formar maioria continuar gestão descalabro acompanhados extrema direita brasileira
+text465
+
+**** *dec_text466 *partido_PSOL *uf_SP *deputado_IVAN_VALENTE
+aceitamos demonização instituições queremos quebrar espinha dorsal milícias
+text466
+
+**** *dec_text467 *partido_PSOL *uf_SP *deputado_IVAN_VALENTE
+marielle vive porque ideais continuarão vivendo solidarizamo familiares anderson marielle neste momento dizemos faz justiça
+text467
+
+**** *dec_text468 *partido_PSOL *uf_SP *deputado_IVAN_VALENTE
+então entendemos chegado momento dar resposta sociedade civil botar dedinho digitar votar soltura bandido assassino frio vai pagar conta eleitores brasileiros povo brasileiro
+text468
+
+**** *dec_text469 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição piauí eminente líder povo piauiense
+text469
+
+**** *dec_text470 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra tempo regimental
+text470
+
+**** *dec_text471 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+colegas recebemos comissão saúde visita ministra nísia momento interessante importante pudemos receber ótimas notícias acerca entregas governo população área saúde
+text471
+
+**** *dec_text472 *partido_PT *uf_PI *deputado_MERLONG_SOLANO
+destaco apenas alguns pontos porque tempo falar tudo
+text472
+
+**** *dec_text473 *partido_PT *uf_PI *deputado_MERLONG_SOLANO
+médicos programa leva atenção básica saúde atenção profissional qualificado todas pequenas cidades periferia médicos chegou dezembro agora chamando vamos marchar aproximadamente médicos médicos levando atendimento primeira população país área atenção primária
+text473
+
+**** *dec_text474 *partido_PT *uf_PI *deputado_MERLONG_SOLANO
+falo sobre cobertura vacinal passamos anos governo passado vendo todo tipo atentado sendo cometido contra programa nacional imunizações resultou queda cobertura vacinal ano trabalho principais vacinas conseguimos aumentar cobertura vacinal ação concreta protege saúde milhões brasileiros agora busca ativa área vacina estratégia vacinação escolas programa imunizações irá escolas todo vacinar crianças precisam ser protegidas sim
+text474
+
+**** *dec_text475 *partido_PT *uf_PI *deputado_MERLONG_SOLANO
+farmácia popular ampliou presença cidades assim número medicamentos gratuitos número medicamentos descontos chegam programa dá dignidade àquela família hora doença precisa comprar medicamento precisa acessar medicamento
+text475
+
+**** *dec_text476 *partido_PT *uf_PI *deputado_MERLONG_SOLANO
+programa saúde família vem governos anteriores aumentou ano equipes
+text476
+
+**** *dec_text477 *partido_PT *uf_PI *deputado_MERLONG_SOLANO
+concluir rápido levantamento cito decisão lançar bilhões reais investimentos elaboração desenvolvimento complexo industrial área saúde porque país ficar dependendo importação quase tudo termos insumos medicamentos equipamentos área saúde indústria expertise capacidade produzir programa desenvolvimento complexo econômico industrial saúde anuncia investimentos bilhões reais
+text477
+
+**** *dec_text478 *partido_PT *uf_PI *deputado_MERLONG_SOLANO
+peço pronunciamento divulgado redes comunicação
+text478
+
+**** *dec_text479 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text479
+
+**** *dec_text480 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próximo orador inscrito sergipe
+text480
+
+**** *dec_text481 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+eminente líder governo pede palavra dar preferência líder
+text481
+
+**** *dec_text482 *partido_PT *uf_CE *deputado_JOSÉ_GUIMARÃES
+quero registrar pedir divulgado pronunciamento pretendia fazer sessão deverá ser direcionada assunto todo mundo sabendo trata queria registrar neste pronunciamento necessidade termos pronunciamento congresso_nacional discuta questão fake news
+text482
+
+**** *dec_text483 *partido_PT *uf_CE *deputado_JOSÉ_GUIMARÃES
+todo mundo sabe projeto lei tramita relator ontem reunião líderes solicitei matéria discutida
+text483
+
+**** *dec_text484 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+levantou possibilidade constituição grupo trabalho reformular recompor assunto deve ser votado nesta
+text484
+
+**** *dec_text485 *partido_PT *uf_CE *deputado_JOSÉ_GUIMARÃES
+podemos assistir assistimos vem cara social bilionário agride ataca fica
+text485
+
+**** *dec_text486 *partido_PT *uf_CE *deputado_JOSÉ_GUIMARÃES
+pronunciamento sentido considerar trata assunto diz respeito democracia soberania precisa regulamentar antes eleições
+text486
+
+**** *dec_text487 *partido_PT *uf_CE *deputado_JOSÉ_GUIMARÃES
+gostaria solicitar registro deste pronunciamento anais
+text487
+
+**** *dec_text488 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text488
+
+**** *dec_text489 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+mesa recebe manifestação acolhe pedido dar lido pronunciamento
+text489
+
+**** *dec_text490 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+reforço importância votarmos matéria sobre fake news censura respeito dizer pensa falar sabe contar vê desde ofenda gravemente outras pessoas respeito ofereço respeito mereço faltando internet
+text490
+
+**** *dec_text491 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+internet virou salve puder ninguém lei onde tudo onde faz quer pessoalmente diz outra diz internet disser torna briga fervorosa então posso dizer pessoalmente posso escrever internet sustento frente digo posso dizê lo distância
+text491
+
+**** *dec_text492 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+razão aliás escutei manifestação vídeo gravou semana quero parabenizá lo vídeo importante concordo grau número gênero
+text492
+
+**** *dec_text493 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+tribuna eminente líder sergipe
+text493
+
+**** *dec_text494 *partido_PT *uf_SE *deputado_JOÃO_DANIEL
+quero parabenizar líder fez comentário acerca necessidade defendemos liberdade total imprensa redes sociais porém ressaltou coisa ter liberdade outra coisa cometer crime
+text494
+
+**** *dec_text495 *partido_PT *uf_SE *deputado_JOÃO_DANIEL
+tal dono x magnata elon musk atingiu país instituições soberania trata covarde criminoso explorador nenhum respeito sobre devem sim ser tomadas todas providências
+text495
+
+**** *dec_text496 *partido_PT *uf_SE *deputado_JOÃO_DANIEL
+registro repúdio tipo ação criminosa faz parte arrogância imperialista machista desse tipo gente lamentavelmente galera fascista brasileira segue rodeia cópia desse tipo atitude
+text496
+
+**** *dec_text497 *partido_PT *uf_SE *deputado_JOÃO_DANIEL
+outro assunto quero divulgar programa voz_do_brasil demais meios comunicação trata grande missão cumpre neste momento dia cumpre compromisso retomar maior programa geração emprego renda dignidade famílias brasileiras programa minha_casa_minha_vida rural programa minha_casa_minha_vida entidades habitações urbanas
+text497
+
+**** *dec_text498 *partido_PT *uf_SE *deputado_JOÃO_DANIEL
+quero parabenizar todos movimentos campo contag via campesina mtst bem todos movimentos urbanos moradia nacional moradia popular cmp mtd todos movimentos lutam dignidade organizam vida famílias
+text498
+
+**** *dec_text499 *partido_PT *uf_SE *deputado_JOÃO_DANIEL
+começa grande esperança realidade governo
+text499
+
+**** *dec_text500 *partido_PT *uf_SE *deputado_JOÃO_DANIEL
+quero saudar nome todos ministros ministro cidades caixa_econômica retomada deste programa vai gerar emprego renda dignidade famílias têm parabéns parabéns povo brasileiro começo maiores importantes programas participação popular
+text500
+
+**** *dec_text501 *partido_PT *uf_SE *deputado_JOÃO_DANIEL
+peço divulgado discurso programa voz_do_brasil demais meios comunicação desta
+text501
+
+**** *dec_text502 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+mesa acata solicitação divulgação discurso programa voz_do_brasil meios comunicação social parlamento_federal
+text502
+
+**** *dec_text503 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra minuto eminente rio_grande_do_sul
+text503
+
+**** *dec_text504 *partido_PT *uf_RS *deputado_BOHN_GASS
+solicito divulgado programa voz_do_brasil pronunciamento passo fazer sobre grande ato realizado manhã palácio planalto
+text504
+
+**** *dec_text505 *partido_PT *uf_RS *deputado_BOHN_GASS
+queremos permanência homem mulher jovem campo pompeu preciso dar condições condição básica moradia
+text505
+
+**** *dec_text506 *partido_PT *uf_RS *deputado_BOHN_GASS
+programa minha_casa_minha_vida rural programa minha_casa_minha_vida entidades vão construir rio_grande_do_sul mil habitações rurais urbanas repito mil unidades diretamente rural entidades podem ser áreas urbanas total mil unidades rurais mil entidades mil unidades habitação
+text506
+
+**** *dec_text507 *partido_PT *uf_RS *deputado_BOHN_GASS
+importante sempre pensar dignidade famílias passarão ter moradia qualificada devemos lembrar vai requerer pedreiro servente indústria comércio venda equipamentos então vai ajudar economia deste país
+text507
+
+**** *dec_text508 *partido_PT *uf_RS *deputado_BOHN_GASS
+portanto parabéns programa minha_casa_minha_vida rural minha_casa_minha_vida entidades anunciados manhã
+text508
+
+**** *dec_text509 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado parabéns trata programa importante governo brasileiros
+text509
+
+**** *dec_text510 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+permitam conceder palavra santa_catarina tempo minuto
+text510
+
+**** *dec_text511 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+eminente líder palavra
+text511
+
+**** *dec_text512 *partido_PL *uf_SC *deputado_DANIEL_FREITAS
+basicamente venho tribuna fazer saudação especial
+text512
+
+**** *dec_text513 *partido_PL *uf_SC *deputado_DANIEL_FREITAS
+santa_catarina conhecida reconhecida capacidade povo empreender produzir recebemos visita acompanhado esposa aninha conselho intelbras indústria catarinense avô bisavô nesta deputado_federal
+text513
+
+**** *dec_text514 *partido_PL *uf_SC *deputado_DANIEL_FREITAS
+portanto todos honra receber congresso_nacional representa empresariado catarinense
+text514
+
+**** *dec_text515 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text515
+
+**** *dec_text516 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+parabéns representação nesta
+text516
+
+**** *dec_text517 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+empresário bem vindo parlamento_federal senhor bem representado jovem atuante parlamento_federal
+text517
+
+**** *dec_text518 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+parabéns empreendedores àqueles fazem negócio atividade risco gerar renda melhorar vida qualidade vida povo catarinense povo gaúcho povo brasileiro
+text518
+
+**** *dec_text519 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra tribuna eminente líder
+text519
+
+**** *dec_text520 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado boa tarde todos todas presentes
+text520
+
+**** *dec_text521 *partido_REPUBLICANOS *uf_RR *deputado_DEFENSOR_STÉLIO_DENER
+uso tribuna nesta tarde parabenizar todos servidores defensorias públicas servidores públicos compõem defensoria_pública brasileira defensoria_pública defensorias públicas estados distrito semana brasília criar associação nacional servidores públicos defensorias públicas brasileiras
+text521
+
+**** *dec_text522 *partido_REPUBLICANOS *uf_RR *deputado_DEFENSOR_STÉLIO_DENER
+servidores públicos juntamente todas defensorias públicas juntamente todos defensores gerais gestionam defensoria_pública fazem defensoria_pública instituição importantíssima população população vulnerável população sofrida servidores públicos entregam serviço nação brasileira povo atendendo milhares milhares pessoas todos dias
+text522
+
+**** *dec_text523 *partido_REPUBLICANOS *uf_RR *deputado_DEFENSOR_STÉLIO_DENER
+reconhecimento público deputado_federal associação nacional servidores públicos brasileiros grande missão daqui frente cuidar todos servidores públicos defensorias públicas
+text523
+
+**** *dec_text524 *partido_REPUBLICANOS *uf_RR *deputado_DEFENSOR_STÉLIO_DENER
+quero citar associação nacional servidores públicos defensoria_pública quero citar todos presidentes reunidos nesta plenário comissões riso roraima xavier pará ítalo amazonas belo mato_grosso rio_grande_do_sul quintão rio_de_janeiro porto paraná gabryella distrito brunno gozzi são_paulo
+text524
+
+**** *dec_text525 *partido_REPUBLICANOS *uf_RR *deputado_DEFENSOR_STÉLIO_DENER
+quero parabenizar todos nacional presidentes estaduais fazem partir trabalho significante relação defesa defensoria_pública relação defesa assistidos relação defesa categoria servidores públicos defensoria_pública parabéns contem público matérias importantes relação categoria
+text525
+
+**** *dec_text526 *partido_REPUBLICANOS *uf_RR *deputado_DEFENSOR_STÉLIO_DENER
+gostaria apenas pedir pronunciamento divulgado programa voz_do_brasil chegue todos rincões país pessoas saibam servidores públicos defensoria_pública fazem trabalho exemplar reunindo associação melhorar serviços defensoria_pública brasileira entrega
+text526
+
+**** *dec_text527 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado parabéns manifestação parabéns todos defensores públicos brasileiros
+text527
+
+**** *dec_text528 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+honra estar assembleia legislativa governador estado deus collares criamos defensoria_pública rio_grande_do_sul estadual relator projeto criação defensoria naquela época começando defensorias serviço fundamental essencial possamos fazer operações direito essência amplitude plenitude
+text528
+
+**** *dec_text529 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+parabéns grande trabalho
+text529
+
+**** *dec_text530 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+quero lembrar família carrão santa representava defensores primeira defensores públicos rio_grande_do_sul dessa família lembrar parabéns família carrão lendária legendária passo fundo
+text530
+
+**** *dec_text531 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próximos inscritos
+text531
+
+**** *dec_text532 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra
+text532
+
+**** *dec_text533 *partido_UNIÃO *uf_BA *deputado_LEUR_LOMANTO_JÚNIOR
+sras srs parlamentares venho tribuna tarde chamar atenção vem ocorrendo bahia relação empresa chamada viabahia
+text533
+
+**** *dec_text534 *partido_UNIÃO *uf_BA *deputado_LEUR_LOMANTO_JÚNIOR
+viabahia empresa detém concessão rodovias br br desde envergonha estado bahia presentes conhecem realidade enfrentam pessoas trafegam br br empresa oferece péssimo serviço rodovia completamente emburacada vejo cidade feira trafega quase diariamente br sabe desserviço empresa vem prestando estado
+text534
+
+**** *dec_text535 *partido_UNIÃO *uf_BA *deputado_LEUR_LOMANTO_JÚNIOR
+milhares acidentes ocorreram tanto br quanto br empresa cumpriu estabelecido plano investimento contrato
+text535
+
+**** *dec_text536 *partido_UNIÃO *uf_BA *deputado_LEUR_LOMANTO_JÚNIOR
+luta venho travando desde estadual assembleia legislativa bahia realizamos inúmeras audiências públicas deputado_federal audiência ministério transportes realizamos audiência pública comissão viação transportes câmara_dos_deputados infelizmente nada absolutamente nada concreto viabahia vem fazendo melhorar serviço prestado concessão br br
+text536
+
+**** *dec_text537 *partido_UNIÃO *uf_BA *deputado_LEUR_LOMANTO_JÚNIOR
+fiz requerimento abertura cpi fim possamos investigar acontecendo população suporta vem acontecendo bahia descaso dessa empresa relação estado
+text537
+
+**** *dec_text538 *partido_UNIÃO *uf_BA *deputado_LEUR_LOMANTO_JÚNIOR
+peço nobres colegas assinem requerimento instalação cpi viabahia vistas possamos encontrar solução algo vem sombra dúvida aterrorizando prejudicando economia estado bahia
+text538
+
+**** *dec_text539 *partido_UNIÃO *uf_BA *deputado_LEUR_LOMANTO_JÚNIOR
+concluir jequié cidade passa br trecho chamado serra mutum liga cidades jaguaquara jequié inúmeros acidentes fatais vêm ocorrendo dia dia nesse trecho precisa duplicação imediata empresa nenhuma satisfação dá usuários daquela rodovia estado
+text539
+
+**** *dec_text540 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text540
+
+**** *dec_text541 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição eminente antes porém permita conceder minuto rio_grande_do_sul
+text541
+
+**** *dec_text542 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+honrosamente palavra
+text542
+
+**** *dec_text543 *partido_MDB *uf_RS *deputado_OSMAR_TERRA
+queria chamar atenção questão deixou preocupado
+text543
+
+**** *dec_text544 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+presidência trabalhos conhece bem fronteira atravessar porto mauá alba posse visitar mercado ali voltar grupo pessoas surpresa documento documento oficial deixa ser autoridade reconhecido reconhecido outro lado argentina acham ter carteira identidade
+text544
+
+**** *dec_text545 *partido_MDB *uf_RS *deputado_OSMAR_TERRA
+tudo bem acho ser regra documento ser reconhecido valer nada oficial outro lado diz vale nada documento acho humilhação documento atrás milhões votos eleitores tal ser respeitado qualquer autoridade
+text545
+
+**** *dec_text546 *partido_MDB *uf_RS *deputado_OSMAR_TERRA
+encaminhando mesa ofício comunique parlamento argentino pergunte vai ser assim coisa lícita autoridade representa povo brasileiro alguma forma representa povo brasileiro poder usar carteira uso qualquer coisa documento identidade uso carteira identidade carteira usarei enquanto carteira representação popular
+text546
+
+**** *dec_text547 *partido_MDB *uf_RS *deputado_OSMAR_TERRA
+então queria fazer desagravo dizer absurdo oficial argentina reconhecer carteira identidade parlamento brasileiro queria deixar registro
+text547
+
+**** *dec_text548 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+quero pedir vênia dizer parlasul parlamento mercosul vou fazer cópia manifestação fazer instrumento levar parlasul entendo regrar argentina uruguai paraguai mercosul porque recíproca ser verdadeira argentinos vierem cá aceitaremos carteira parlamentar argentino acho incongruência
+text548
+
+**** *dec_text549 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+então legislar regrar faço parte parlasul representando bancada mercosul montevidéu dia próxima reunião quero levar assunto levantado documento oficial identifica parlamentar brasileiro respeitado países membros fim aconteça maneira recíproca
+text549
+
+**** *dec_text550 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+tribuna
+text550
+
+**** *dec_text551 *partido_PT *uf_BA *deputado_ZÉ_NETO
+queria usar tribuna tratar tema relacionado cidade feira princesa sertão cidade nasci onde todos laços profissionais familiares eleitorais grande reduto
+text551
+
+**** *dec_text552 *partido_PT *uf_BA *deputado_ZÉ_NETO
+fiquei feliz presença ontem tarde governador jerônimo cidade anunciar ação atrações governo grande micareta feira maior micareta verdade carnaval salvador maior festa estado
+text552
+
+**** *dec_text553 *partido_PT *uf_BA *deputado_ZÉ_NETO
+governador fez diversos anúncios certeza trazem cidade garantia atendimento espetacular inclusive garantindo feira além recursos segurança recursos saúde toda segurança mil homens gerando algo torno uns mil postos ação policial dentro município bombeiros polícia civil polícia militar além disso traremos atrações mercury adelmário psirico aliás vai tocar distrito outra grande atração parangolé vai tocar distrito humildes
+text553
+
+**** *dec_text554 *partido_PT *uf_BA *deputado_ZÉ_NETO
+tudo vai fazer município passe ter micareta distritos agora dias passado primeira experiência tudo mostra cultura valores evidência fazem parte ação priorização
+text554
+
+**** *dec_text555 *partido_PT *uf_BA *deputado_ZÉ_NETO
+agradeço governador jerônimo feirense família pois poderei levar festa filhas esposa forma tranquila sabendo haverá segurança pública agradeço toda ação todo cuidado carinho governador jerônimo tido feira
+text555
+
+**** *dec_text556 *partido_PT *uf_BA *deputado_ZÉ_NETO
+convido todos participem desse grande momento dessa grande festa vai ser micareta feira maior micareta ser realizada daqui semanas abril quarta feira domingo
+text556
+
+**** *dec_text557 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição enquanto s.exa dirige tribuna concedo minuto
+text557
+
+**** *dec_text558 *partido_PCdoB *uf_MA *deputado_MÁRCIO_JERRY
+inteiro neste momento aguardando chegada plenário decisão ainda pouco tomada comissão_de_constituição_e_justiça cidadania desta votos disse sim decisão supremo_tribunal_federal ação investigação polícia_federal parecer procuradoria geral república voto turma cinco ministros supremo_tribunal_federal determinando prisão ainda chiquinho brazão decisão muitíssimo importante trata dar sequência busca fazer justiça caso desse crime hediondo vitimou vereadora marielle franco anderson
+text558
+
+**** *dec_text559 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+tribuna
+text559
+
+**** *dec_text560 *partido_PCdoB *uf_MA *deputado_MÁRCIO_JERRY
+concluindo favor concluí peço segundos concluir praxe muitos momentos
+text560
+
+**** *dec_text561 *partido_PCdoB *uf_MA *deputado_MÁRCIO_JERRY
+gostaria pois chamar atenção concluir importante anotação deve jamais manchar instituto tão importante imunidade parlamentar sangue crime imunidade parlamentar dá liberdade ninguém protege qualquer cometimento crime disso trata sobre precisamente plenário manifestará daqui pouco certeza dará passo importante fazer justiça
+text561
+
+**** *dec_text562 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+permita fazer saudação melles
+text562
+
+**** *dec_text563 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+favor quero fazer menção melles v.exas aí tão envolvidos
+text563
+
+**** *dec_text564 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+favor quero agradecer melles presença perdi conta acho dois três quatro cinco seis mandatos parlamento s.exa menos cinco mandatos s.exa parlamento sebrae agora prestou grande serviço parlamento_federal câmara_dos_deputados comissões tudo
+text564
+
+**** *dec_text565 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+precisamos ter memórias resgatadas lembranças rememoradas esqueçam passado presente possam lembrar futuro melles prestou serviço relevante parlamento_federal declarar diria assim dever estando presidindo sessão tudo representou sabe colega sabe compreendendo porque jovem ainda melles importantes parlamento nacional
+text565
+
+**** *dec_text566 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra
+text566
+
+**** *dec_text567 *partido_PT *uf_SP *deputado_ALFREDINHO
+sras srs quero falar vez emoção governo anunciar retomada digo retomada porque governo assim assumiu retomou todas obras paralisadas governo anterior lançamento novos projetos programa minha_casa_minha_vida principalmente programa minha_casa_minha_vida entidades provou programa importante barateia custo construção faz pessoas participação direta ações obras porque partir dali discute compra material mutirões feitos fins semana decisão ocupação apartamentos construídos trata projeto participação popular fato dia dia
+text567
+
+**** *dec_text568 *partido_PT *uf_SP *deputado_ALFREDINHO
+programa minha_casa_minha_vida entidades voltando governo porque governo passado definitivamente acabou programa minha_casa_minha_vida entidades demais porque criou programa chamado amarela nada aconteceu digo porque única oportunidade baixa renda faixa salarial salários mínimos ter moradia decente
+text568
+
+**** *dec_text569 *partido_PT *uf_SP *deputado_ALFREDINHO
+quero aproveitar cumprimentar uns guerreiros guerreiras são_paulo associação teto zona norte noroeste persistência todo período ficou paralisado programa minha_casa_minha_vida entidades governo anterior guerreiros projetos andamento governo dilma passou governo temer andou passos tartaruga governo fez nada insistiram persistiram agora voltaram conduzir programas projetos governo anunciados associação teto zona norte noroeste unidades
+text569
+
+**** *dec_text570 *partido_PT *uf_SP *deputado_ALFREDINHO
+quero parabenizar donizete verinha abraão jô zequinha todo povo conduz entidade defende programa minha_casa_minha_vida defende têm onde morar principalmente baixa renda toda garra nome desse companheiros citados quero homenagear demais importantes pois possível citar todos vez tempo curto quero parabenizar todos guerreiros guerreiras persistência durante período
+text570
+
+**** *dec_text571 *partido_PT *uf_SP *deputado_ALFREDINHO
+peço fala publicada divulgada todos meios comunicação
+text571
+
+**** *dec_text572 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próximos inscritos porém antes quero conceder minuto
+text572
+
+**** *dec_text573 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+grato digníssimo
+text573
+
+**** *dec_text574 *partido_PL *uf_RS *deputado_BIBO_NUNES
+acabo presidir audiência pública sobre perse programa emergencial retomada setor eventos impressionante treze segmentos atividades produtivas eventos turismo surpresos estupefatos trata lei aprovada ano passado vigoraria empresários setor tiraram empréstimos pagar
+text574
+
+**** *dec_text575 *partido_PL *uf_RS *deputado_BIBO_NUNES
+agora vem desgoverno querer acabar projeto lei prejudicando milhares trabalhadores milhares empresários gerando prejuízos bilhões país desgoverno preocupa turismo momento algum pensa arrecadar arrecadar sabe injetando dinheiro economia empregos gerados naturalmente arrecadará impostos expresso todos lutam perse
+text575
+
+**** *dec_text576 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+concedo minuto
+text576
+
+**** *dec_text577 *partido_MDB *uf_GO *deputado_CÉLIO_SILVEIRA
+queria manifestar alegria estar nesta tarde ex deputado_federal brilhou nesta correa próximo prefeito terceira maior cidade estado goiás cidade anápolis correa apresentou importantes projetos desenvolvimento goiás desenvolvimento anápolis desenvolvimento deputado_federal correa filiado partido liberal certeza melhores prefeitos deste país
+text577
+
+**** *dec_text578 *partido_MDB *uf_GO *deputado_CÉLIO_SILVEIRA
+obrigado correa estar lado sempre elevando
+text578
+
+**** *dec_text579 *partido_MDB *uf_GO *deputado_CÉLIO_SILVEIRA
+obrigado espero sempre conduza sessões maestria peculiar
+text579
+
+**** *dec_text580 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra microfone aparte
+text580
+
+**** *dec_text581 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+minuto ouviremos
+text581
+
+**** *dec_text582 *partido_PSD *uf_BA *deputado_GABRIEL_NUNES
+obrigado venho nesta oportunidade parabenizar projeto lei nº altera lei nº estatuto deficiência dispor validade indeterminada credencial utilização vagas estacionamento destinadas veículos transportem pessoas deficiência permanente além inserir beneficiários credenciados nesse estacionamento pessoas transtorno espectro autista momento oportuno comissão viação transportes honra relatar aprovar projeto unanimidade
+text582
+
+**** *dec_text583 *partido_PSD *uf_BA *deputado_GABRIEL_NUNES
+vale lembrar último dia abril dia mundial conscientização autismo mês abril utilizamos lembrar importância estarmos trabalhando nesta todas formas possíveis combater mazelas muitas famílias sofrem espectro autista muitas vezes falta informações olhar atento poder público
+text583
+
+**** *dec_text584 *partido_PSD *uf_BA *deputado_GABRIEL_NUNES
+então gesto importante parabenizo nesta oportunidade vez autor desse projeto tão importante grande amigo aí presidindo sessão fico honrado ter podido relatar projeto dia comissão viação transportes
+text584
+
+**** *dec_text585 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado parabéns relatório fico honrado ter nesta missão projeto importante garante vaga estacionamentos pessoas têm deficiência precisam olhar diferenciado proteção maneira significativa espectro autista trabalhado tema
+text585
+
+**** *dec_text586 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+mês abril inclusive dedicado autistas respeito acolhimento enfim proteção fico feliz projeto autoria cuja relatoria generosidade sido aprovado bom autistas cidadão cidadania resgate respeito
+text586
+
+**** *dec_text587 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+parabéns obrigado certeza breve projeto vai virar lei dar acolhimento proteção àqueles autistas precisarem ter estacionamento especial ali acolhidos respeitados obrigado
+text587
+
+**** *dec_text588 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+tribuna eminente palavra s.exa
+text588
+
+**** *dec_text589 *partido_PT *uf_BA *deputado_VALMIR_ASSUNÇÃO
+srs sras lançou programa minha_casa_minha_vida dá continuidade ação desse programa coloca justamente atender modalidades rural entidades
+text589
+
+**** *dec_text590 *partido_PT *uf_BA *deputado_VALMIR_ASSUNÇÃO
+modalidade vai atender torno mil pessoas ainda bilhões investimento vai atender justamente populações comunidades tradicionais indígenas quilombolas movimentos luta moradia onde justamente pessoas precisam moradia vão ser atendidas
+text590
+
+**** *dec_text591 *partido_PT *uf_BA *deputado_VALMIR_ASSUNÇÃO
+então quero saudar parabenizar iniciativa fundamental combater déficit habitacional existe país programa minha_casa_minha_vida rural entidades vêm atender população pobre parabéns acredito vamos avançando cada vez consolidação desse projeto atendendo expectativas pessoas tanto áreas urbanas quanto rurais
+text591
+
+**** *dec_text592 *partido_PT *uf_BA *deputado_VALMIR_ASSUNÇÃO
+quero saudar governador bahia jerônimo vem fazendo trabalho importante estado bahia vem acompanhando todos municípios vem dedicando acompanhar atender demanda sociedade baiana
+text592
+
+**** *dec_text593 *partido_PT *uf_BA *deputado_VALMIR_ASSUNÇÃO
+ontem fez gesto simbologia grande todos lutam democracia neste iniciaram caminhada feira salvador governador jerônimo caminhada justamente dizer companheiros caminhando apoia democratização acesso apoia reforma agrária
+text593
+
+**** *dec_text594 *partido_PT *uf_BA *deputado_VALMIR_ASSUNÇÃO
+lógico sabe recursos estado dão atender toda demanda daqueles daquelas lutam reforma agrária sabe estado vai cumprir papel fundamental ações complementares questão reforma agrária
+text594
+
+**** *dec_text595 *partido_PT *uf_BA *deputado_VALMIR_ASSUNÇÃO
+quero parabenizar governador ter ido participar desse evento justamente porque mostra independentemente luta passe luta justa luta digna ter apoio estado brasileiro
+text595
+
+**** *dec_text596 *partido_PT *uf_BA *deputado_VALMIR_ASSUNÇÃO
+justamente governador fez reconheceu reforma agrária necessidade povo luta justa luta estado brasileiro fazer cumprindo constituição_federal governador prestar dizer lado daqueles daquelas lutam democracia lutam reforma agrária
+text596
+
+**** *dec_text597 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado assumpção
+text597
+
+**** *dec_text598 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+alguns colegas inscritos quero chamar microfone aparte dois colegas pedindo palavra primeiro honrado
+text598
+
+**** *dec_text599 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra
+text599
+
+**** *dec_text600 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+lado vereador egmar conhecido guigui cidade veio legislativa povo brasileiro pedir emendas cidade principalmente hospital rio doce atende sus demandas daquela região
+text600
+
+**** *dec_text601 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+cidade importante cidade capixaba estadual scaramussa deus permitir próximo prefeito cidade junto mandato guigui feito grande trabalho cidade
+text601
+
+**** *dec_text602 *partido_PODE *uf_ES *deputado_GILSON_DANIEL
+queria fazer registro importante cidade carinho grande vereador egmar veio legislativa pedir emendas melhorias cidade
+text602
+
+**** *dec_text603 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+bem vindo convidado aliás bem representado trabalho faz parlamento nacional
+text603
+
+**** *dec_text604 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+referência todos
+text604
+
+**** *dec_text605 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+microfone aparte palavra honrado líder
+text605
+
+**** *dec_text606 *partido_PL *uf_TO *deputado_ELI_BORGES
+quero fazer referência irmão querido corrêa assumiu mandato neste parlamento alguns dias agora pré candidato prefeito anápolis
+text606
+
+**** *dec_text607 *partido_PL *uf_TO *deputado_ELI_BORGES
+quero testemunhar público anápolis primeiro lugar disposição tempo ficou fazer excelente trabalho mostrou muita competência fez segundo lugar compromisso bandeiras boas bandeiras brasilidade
+text607
+
+**** *dec_text608 *partido_PL *uf_TO *deputado_ELI_BORGES
+portanto irmãos anápolis muitos gostaria pedir observem bem currículo corrêa dúvida convenções candidato melhor opção prefeito anápolis figura importante decidido competência sabe faz
+text608
+
+**** *dec_text609 *partido_PL *uf_TO *deputado_ELI_BORGES
+então vim externar apoio irmão amigo corrêa
+text609
+
+**** *dec_text610 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text610
+
+**** *dec_text611 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+corrêa desempenhou grande mandato
+text611
+
+**** *dec_text612 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição
+text612
+
+**** *dec_text613 *partido_PRD *uf_MG *deputado_DR_FREDERICO
+neste momento quero aproveitar espaço concedeu lamentar profundamente decreto conselho nacional justiça determina fechamento hospitais custódia manicômios judiciais fechamento acontecendo
+text613
+
+**** *dec_text614 *partido_PRD *uf_MG *deputado_DR_FREDERICO
+apesar luta nesse tempo todo opinião cumpriu papel centenas pessoas transtornos mentais gravíssimos praticamente intratáveis oferecem grande risco sociedade família quer recebê las novamente começaram ser soltas agora partir ontem
+text614
+
+**** *dec_text615 *partido_PRD *uf_MG *deputado_DR_FREDERICO
+lamentável ainda tempo agir defender hospitais custódia manicômio judicial porque lembro todos favor cuidar desses pacientes problemas mentais âmbito ambulatorial ninguém favor manicômios cuidar pessoas problemas mentais exceção pessoas conheci visitei oferecem grande risco sociedade pessoas intratáveis pessoas cuja família consegue recebê las inclusive maior parte dessas pessoas internadas nesses hospitais judiciais fizeram maldade crimes contra pessoas própria família mataram
+text615
+
+**** *dec_text616 *partido_PRD *uf_MG *deputado_DR_FREDERICO
+então grave
+text616
+
+**** *dec_text617 *partido_PRD *uf_MG *deputado_DR_FREDERICO
+agradeço conceder tempo vamos continuar lutando medida revogada voltemos proteger hospitais judiciais
+text617
+
+**** *dec_text618 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado eminente agradeço manifestação equilíbrio coerência sempre responsabilidade
+text618
+
+**** *dec_text619 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+manifestação tribuna concedo palavra
+text619
+
+**** *dec_text620 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+ser microfone aparte tribuna escolhe
+text620
+
+**** *dec_text621 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+quero saudar grande alegria câmara_dos_deputados presença vereador cidade ascendino visitando buscando recurso
+text621
+
+**** *dec_text622 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+quero saudar mazinho vereador palhoça faz trabalho crianças inclusão social
+text622
+
+**** *dec_text623 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+quero saudar vereador mandato pitanta palhoça mandatos mandatos porque cara bom trabalhador maior pescador garoupa santa_catarina
+text623
+
+**** *dec_text624 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+quero saudar presença silveirinha conselho nacional despachantes documentalistas
+text624
+
+**** *dec_text625 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text625
+
+**** *dec_text626 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+parabéns convidados vereador mandatos bom ser bom ter mandatos vereador
+text626
+
+**** *dec_text627 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição
+text627
+
+**** *dec_text628 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra
+text628
+
+**** *dec_text629 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra tempo regimental
+text629
+
+**** *dec_text630 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+grato digníssimo brilhante representando rio_grande_do_sul nesta presidência honra todos gaúchos
+text630
+
+**** *dec_text631 *partido_PL *uf_RS *deputado_BIBO_NUNES
+vou fazer discurso bastante polêmico porque deveremos ter votação importante mantemos prisão chiquinho brazão
+text631
+
+**** *dec_text632 *partido_PL *uf_RS *deputado_BIBO_NUNES
+atenção fácil prático votar maneira simples fácil votar consciência justiça respeitando constituição_federal
+text632
+
+**** *dec_text633 *partido_PL *uf_RS *deputado_BIBO_NUNES
+condição parlamentar vier respeitar constituição magistrado faz vou embora considero parlamentar respeitar lei constituição acima tudo principalmente art porque magistrado interpreta imunidade parlamentar antes art dizia parlamentar imune palavras falar diz parlamentar imune quaisquer palavras falar assim alguns fazem outras interpretações
+text633
+
+**** *dec_text634 *partido_PL *uf_RS *deputado_BIBO_NUNES
+digo porque prisão chiquinho brazão tudo indica mandou matar marielle questiono mérito ninguém prender dentro lei admira parlamentar aceita colega ser preso estando prisão dentro lei olho mérito questão matou vampiro lobisomem caso parlamentar hipótese alguma ser preso flagrante crime inafiançável aconteceu
+text634
+
+**** *dec_text635 *partido_PL *uf_RS *deputado_BIBO_NUNES
+claro defendendo parlamentar nenhum defendendo constituição_federal art imediatamente pediremos cassação deste parlamentar envio nome conselho ética porque punir parlamentar deputado_federal ser caso segundo constituição flagrante crime inafiançável
+text635
+
+**** *dec_text636 *partido_PL *uf_RS *deputado_BIBO_NUNES
+ter muita coragem saber respeitar constituição saber respeitar lei acima tudo fazer respeitem parlamentar eleito povo mandato popular então ninguém nenhum poder direito mandar prender parlamentar infelizmente desmoralizamos votamos favor prisão falo votamos falando porque votei contra votei contra alertei vou cometer erro peço brasileiro entenda jogo nunca imunidade parlamentar porque tentam todo momento cercear liberdade_de_expressão
+text636
+
+**** *dec_text637 *partido_PL *uf_RS *deputado_BIBO_NUNES
+cidadão exterior ter garantida liberdade_de_expressão querem mandar mundo pensam deuses têm certeza deuses democrata respeita lei quer cumprir determinações sendo parlamentar entra banco fila passa frente fila quer honra dignidade respeito constituição
+text637
+
+**** *dec_text638 *partido_PL *uf_RS *deputado_BIBO_NUNES
+tendo votação votarei lei constituição soltura imediatamente pedindo cassação chiquinho brazão vá conselho ética diretamente porque aí cassado punido punir assim funciona respeito art
+text638
+
+**** *dec_text639 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+microfone apartes minas_gerais
+text639
+
+**** *dec_text640 *partido_PL *uf_MG *deputado_MARCELO_ÁLVARO_ANTÔNIO
+obrigado oportunidade falar minutos
+text640
+
+**** *dec_text641 *partido_PL *uf_MG *deputado_MARCELO_ÁLVARO_ANTÔNIO
+alegria grande ter conosco dona tetê completa anos idade assessora exemplar câmara_dos_deputados anos servindo nome tetê quero cumprimentar todos servidores dizer grande honra poder contar dona tetê faz grande papel assessorar câmara_dos_deputados
+text641
+
+**** *dec_text642 *partido_PL *uf_MG *deputado_MARCELO_ÁLVARO_ANTÔNIO
+tetê anos vida possam servir exemplo todos exemplo servidora correta dúvida nenhuma influencia todos fazer cada dia certo
+text642
+
+**** *dec_text643 *partido_PL *uf_MG *deputado_MARCELO_ÁLVARO_ANTÔNIO
+agradeço vez dona tetê desejando continue todo vigor toda disposição dando exemplo todos
+text643
+
+**** *dec_text644 *partido_PL *uf_MG *deputado_MARCELO_ÁLVARO_ANTÔNIO
+parabéns
+text644
+
+**** *dec_text645 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+chamo agora fazer uso palavra rio_grande_do_sul falará minuto
+text645
+
+**** *dec_text646 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+queremos fazer manifestação favor autistas vivendo chamado abril azul mês dedicado conscientização inclusão pessoas transtorno espectro autista chamado tea distúrbio neurológico afeta inúmeras pessoas famílias país mundo inteiro preciso acolhimento
+text646
+
+**** *dec_text647 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+oportunidade buscarmos conscientização sociedade menos preconceito inclusão essencial fundamental
+text647
+
+**** *dec_text648 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+representantes eleitos responsabilidade privilégio tempo liderar processo país dando exemplo apoiando ações fortalecendo inclusão conscientização sobre autismo queremos mundo respeitoso inclusivo igualdade vamos juntos ampliar espaço acolhimento autistas
+text648
+
+**** *dec_text649 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+quero deixar registrado poema fiz homenagem autistas poema diz assim
+text649
+
+**** *dec_text650 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+homenagem carinho todos autistas famílias autistas precisam respeito amor carinho dedicação
+text650
+
+**** *dec_text651 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+nesse sentido felicidade conviver muita gente luta conosco parlamento_federal fazendo diferença autistas incluídos respeitados acolhidos legislações deem condições ocupar espaço desempenhar missão fico feliz
+text651
+
+**** *dec_text652 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado nobre
+text652
+
+**** *dec_text653 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+concedo agora palavra minuto
+text653
+
+**** *dec_text654 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+pedi saísse tribuna porque fazer aparte s.exa
+text654
+
+**** *dec_text655 *partido_PSD *uf_RJ *deputado_LAURA_CARNEIRO
+quero dizer acabamos aprovar comissão previdência assistência social infância adolescência família projeto autoria vários outros puxado projeto trata pais mães atípicos projeto recomendou garantia mães pais atendimento sendo mães pais pessoas deficiência especialmente autismo
+text655
+
+**** *dec_text656 *partido_PSD *uf_RJ *deputado_LAURA_CARNEIRO
+portanto parabéns trabalho nesta favor crianças adultos favor pessoas deficiência autismo
+text656
+
+**** *dec_text657 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado carinho obrigado aprovação projeto fico feliz projeto aprovamos projeto especial porque trata acolhimento proteção autista mãe família porque ninguém autista sozinho acabamos sendo autistas junto porque todos vivem realidade vivem dificuldade vivem desafio necessário sentimento respeito acolhimento preciso ser compreendido dentro família ser compreendido família
+text657
+
+**** *dec_text658 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+então fico feliz projeto autoria ser aprovado
+text658
+
+**** *dec_text659 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado palavras carinho tudo representa juntos muitos debates defesa autistas país rio grande amado afora
+text659
+
+**** *dec_text660 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+grato digníssimo
+text660
+
+**** *dec_text661 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+chamo agora usar palavra rio_de_janeiro
+text661
+
+**** *dec_text662 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+nobre querido apreço grande sempre fico porto alegre rua praia lagarteando guaíba deus coração fica extremamente sensível
+text662
+
+**** *dec_text663 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+traz neste momento dizer deus existe conhece fato verdade minutos frente então deus sabe verdade sendo projetado deus possa dar sabedoria possa dar graça misericórdia eterno possa estar sempre sobre nação
+text663
+
+**** *dec_text664 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+quero aproveitar oportunidade nunca vim plenário atacar alguém nunca time torça nunca ataquei ninguém entanto vou fazer pergunta agora localizaram móveis residência presidencial falam nada móveis chegaram nada passaram tempo dizendo haviam sido subtraídos presidencial
+text664
+
+**** *dec_text665 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+diferente resultado agora questão joias chegou conhecimento receita reconhece direito família casal fazer uso daquelas joias tempo falo respeito daquele peixe importunado
+text665
+
+**** *dec_text666 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+então falar agora sobre dito antes agora esclarecido aí todo mundo cala ninguém fala nada
+text666
+
+**** *dec_text667 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+posso finalizar dizendo seguinte aonde vai multidão faz presente
+text667
+
+**** *dec_text668 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+próximo dia agora praia copacabana faço convite forma oficial todos conhecer praia lindíssima famosa mundo afora onde certamente haverá milhões pessoas acredito vai superar movimento avenida paulista são_paulo aonde vai multidão marca presença lugar podemos saber deus contagem regressiva vai chacoalhar nação certamente vão lembrar falando previamente antecipadamente porque nação pertence senhor deus
+text668
+
+**** *dec_text669 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+nobre solicito divulgada fala programa voz_do_brasil
+text669
+
+**** *dec_text670 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+coisa certa corpinho bonito alugada vai estar sempre nesse corpinho bonito diante deus todos dia estaremos presentes prestar conta atos chororô apadrinhamento haverá outra coisa ser prestação contas bons atos maus hábitos hábitos escondidos debaixo tapete
+text670
+
+**** *dec_text671 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+obrigado digníssimo excelente parlamentar rio_de_janeiro
+text671
+
+**** *dec_text672 *partido_PL *uf_RJ *deputado_ROBERTO_MONTEIRO_PAI
+chamo agora ranking políticos número uso palavra
+text672
+
+**** *dec_text673 *partido_NOVO *uf_SP *deputado_ADRIANA_VENTURA
+obrigada querido
+text673
+
+**** *dec_text674 *partido_NOVO *uf_SP *deputado_ADRIANA_VENTURA
+caros colegas trago dois temas primeiro quero falar sobre liberdade ameaçada acho todo brasileiro direito saber acontecendo república vez democracia brasileira jogo falo democracia brasileira jogo porque liberdade_de_expressão ameaçada sendo censurados vejam escândalo twitter aconteceu semana mundo choque acontecendo então todo mundo ficar preocupado sim porque vendo instituição leis instituição deveria respeitar constituição deveria ser guardiã constituição rasgando constituição
+text674
+
+**** *dec_text675 *partido_NOVO *uf_SP *deputado_ADRIANA_VENTURA
+pior tudo discurso nome defesa suposta democracia pergunta democracia liberdade_de_expressão democracia ser livre fazer críticas criticada dia inteiro pessoas criticam errado concordo odiei fez gostei voto crítica faz melhoremos podemos ser seres intocáveis sujeitos críticas censura estendendo parlamentares estendendo imprensa fazendo imprensa calando imprensa perseguindo imprensa
+text675
+
+**** *dec_text676 *partido_NOVO *uf_SP *deputado_ADRIANA_VENTURA
+precisamos reagir coisa quero dizer falando instituição melhor falando ministro instituição papel essencial república equilíbrio poderes ser feito dessa maneira dar resposta quê liberdade expressão garantida art constituição democracia corrige erros inclusive sendo feito então algum ministro supremo tribunal comete erro liberdade_de_expressão corrige
+text676
+
+**** *dec_text677 *partido_NOVO *uf_SP *deputado_ADRIANA_VENTURA
+falando sendo censurados censurados venham discurso fácil falando desobediência ordem judicial claro desobedece ordem judicial ser punido claro comete abuso instrumentos suficientes lei agora dá termos supremo_tribunal_federal ativista querendo legislar cumprindo papel defender art constituição dá porque povo vai ser calado vamos ter dar resposta
+text677
+
+**** *dec_text678 *partido_NOVO *uf_SP *deputado_ADRIANA_VENTURA
+fico realmente incomodada ver parlamentares defenderem censura podemos ser censurados ser lado cá amanhã vai ser lado imprensa incomodar porque muitos jornalistas sendo censurados podem ser amanhã defesa todos
+text678
+
+**** *dec_text679 *partido_NOVO *uf_SP *deputado_ADRIANA_VENTURA
+outro apelo faço clara democracia liberdade falar precisamos votar fim foro privilegiado porque equilíbrio poderes seriamente ameaçado pec engavetada anos pronta ser votada plenário tarde tirar senado situação estar refém supremo_tribunal_federal precisamos tirar dar equilíbrio poderes precisamos votar pec fim foro urgentemente porque democracia merece democracia merece ter liberdade ter liberdade_de_expressão democracia merece ser corrigida qualquer autoridade precisa ser criticada precisa ser colocada devido lugar colocada devido lugar criticada faz bem mandato acho toda autoridade todo agente público estar sujeito
+text679
+
+**** *dec_text680 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição usarão palavra
+text680
+
+**** *dec_text681 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+concedo minuto microfone apartes
+text681
+
+**** *dec_text682 *partido_PL *uf_RS *deputado_BIBO_NUNES
+dizer seguinte pessoas saíram ainda idade média idade mídia entenderam retrógrados continuam idade média idade mídia então mídia mundo todo todos têm liberdade_de_expressão
+text682
+
+**** *dec_text683 *partido_PL *uf_RS *deputado_BIBO_NUNES
+homem consagrado elon musk democrata expressa opinião vai demonstrar muitas provas pouco espírito ditatorial ofende fiquem sabendo agora idade mídia idade média estarão sendo jogados esquecimento humanidade
+text683
+
+**** *dec_text684 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição
+text684
+
+**** *dec_text685 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+iminente líder palavra comunicação liderança federação tempo regimental
+text685
+
+**** *dec_text686 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+venho tribuna agora dizer preocupação algo deve acontecer próximos minutos neste plenário apreciação prisão chiquinho brazão
+text686
+
+**** *dec_text687 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+caso resposta anos execução brutal vereadora rio_de_janeiro fortes indícios desta envolvimentos claros profundos nisso
+text687
+
+**** *dec_text688 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+fazer apreciação debate sério respeitar trâmites regimentais precisamos discutir questão profundidade seriedade porque resposta povo brasileiro democracia vêm esperando tanto tempo desde corpo marielle tombado podemos fazer trâmite forma acelerada garantir tempos mínimos debate discussão precisamos aprofundar escancarar sociedade brasileira qualquer tipo dúvida possa estar colocada esteira dessa discussão
+text688
+
+**** *dec_text689 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+caso qualquer ser tratado caso qualquer ser colocado comparação outros casos julgados tratados plenário desta falando crime bárbaro falando crime envolve milícia poder legislativo instituições pessoas segurança pública precisamos esgotar discussão precisamos tempo debate precisamos expor ideias precisamos expor acúmulos equipes técnico jurídicas fizeram longo dessa discussão
+text689
+
+**** *dec_text690 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+inaceitável intolerável façamos debate forma acelerada façamos debate preciosidade tempo delicadeza precisa
+text690
+
+**** *dec_text691 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+venho tribuna fazer registro apelar líderes olhem atenção respeito seriedade tratado permitam regimento atropelado permitam tomemos decisão importante deve ser sim manutenção prisão deste tempos assegurados discussões necessárias
+text691
+
+**** *dec_text692 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+debate sério debate profundo imprensa brasileira sociedade civil neste momento olhos voltados parlamento responsabilidade aliás responsabilidade dever fazer discussão seriedade profunda exige merece dever conseguir expor precisa ser exposto precisamos coloquem votar
+text692
+
+**** *dec_text693 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+chama atenção sequer efeito administrativo votação tão importante
+text693
+
+**** *dec_text694 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+dia importante democracia brasileira dia importante apenas dia importante dia importante justiça pois fenda abre caso tão cruel bárbaro parlamento precisa ter seriedade compromisso resposta caso
+text694
+
+**** *dec_text695 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+solicito divulgado discurso programa voz_do_brasil gentileza
+text695
+
+**** *dec_text696 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado mesa acata solicitação divulgação pronunciamento programa voz_do_brasil meios comunicação social
+text696
+
+**** *dec_text697 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+alagoas paciência resiliência sempre muita inteligência
+text697
+
+**** *dec_text698 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra manifestação
+text698
+
+**** *dec_text699 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+quero agradecer saudar todos
+text699
+
+**** *dec_text700 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+falar crime organizado ontem ministério público estado são_paulo deflagrou operação precisa ser elogiada nesta tribuna
+text700
+
+**** *dec_text701 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+olhem operação atingiu empresas ônibus têm direção integrantes crime organizado agiram sozinhas durante pouco tempo arrecadaram quase bilhão reais
+text701
+
+**** *dec_text702 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+todo artifício alguém fazendo engenharia olhem contador presidente_da_república lulinha
+text702
+
+**** *dec_text703 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+parabéns senhor contador senhor organizado contabilidade crime organizado empresas ônibus pcc cuidado empresas presidente_da_república senhor fez durante anos imposto atual presidente_da_república
+text703
+
+**** *dec_text704 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+conexão clara precisamos passar limpo neste país
+text704
+
+**** *dec_text705 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+quero aproveitar dizer stf stf hora desconsiderar prerrogativas qualquer agente público colocar cadeia grandes corruptos desta nação
+text705
+
+**** *dec_text706 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+antes finalizar quero fazer apelo votou favor criminosa chamada flordelis redima venha pratique voto justiça
+text706
+
+**** *dec_text707 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+botou mão cabeça criminosa votou favor flordelis nesta oportunidade redimir
+text707
+
+**** *dec_text708 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+coragem dizer sim votação cassação flordelis mostre cara
+text708
+
+**** *dec_text709 *partido_UNIÃO *uf_AL *deputado_ALFREDO_GASPAR
+dia tratar crime organizado nada melhor polícia_federal botar cadeia contador presidente_da_república feito contabilidade milionária pcc vergonha país
+text709
+
+**** *dec_text710 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text710
+
+**** *dec_text711 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+quero conceder minuto microfone aparte
+text711
+
+**** *dec_text712 *partido_PSD *uf_RS *deputado_LUCIANO_AZEVEDO
+saudação todos
+text712
+
+**** *dec_text713 *partido_PSD *uf_RS *deputado_LUCIANO_AZEVEDO
+queria registrar muita alegria presença câmara_dos_deputados vereadores passo fundo maior importante cidade norte rio_grande_do_sul cidade onde prefeito duas vezes saul spinelli brasília tratando assuntos importantes passo fundo audiência ministro frança amanhã estará vice alckmin
+text713
+
+**** *dec_text714 *partido_PSD *uf_RS *deputado_LUCIANO_AZEVEDO
+então visita importante passo fundo órgãos governo_federal especialmente neste momento plenário câmara_dos_deputados
+text714
+
+**** *dec_text715 *partido_PSD *uf_RS *deputado_LUCIANO_AZEVEDO
+bem vindo saul spinellii câmara_dos_deputados
+text715
+
+**** *dec_text716 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+obrigado
+text716
+
+**** *dec_text717 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+bem vindo convidado
+text717
+
+**** *dec_text718 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+bem representado parlamento spinelli
+text718
+
+**** *dec_text719 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição antes porém concedo minuto microfone aparte
+text719
+
+**** *dec_text720 *partido_UNIÃO *uf_AC *deputado_MEIRE_SERAFIM
+quero registrar presença plenário estadual acre secretário meio ambiente juza prefeito sena mazinho
+text720
+
+**** *dec_text721 *partido_UNIÃO *uf_AC *deputado_MEIRE_SERAFIM
+todos bem vindos povo
+text721
+
+**** *dec_text722 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+amazonas palavra eminente líder
+text722
+
+**** *dec_text723 *partido_UNIÃO *uf_AM *deputado_SAULLO_VIANNA
+boa noite todos colegas todos assistem ouvem canais comunicação
+text723
+
+**** *dec_text724 *partido_UNIÃO *uf_AM *deputado_SAULLO_VIANNA
+venho falar projeto importante estado amazonas importante nesta semana dada licença ambiental instalação projeto extração potássio município autazes estado amazonas região metropolitana cidade manaus
+text724
+
+**** *dec_text725 *partido_UNIÃO *uf_AM *deputado_SAULLO_VIANNA
+faz anos projeto travado conta licenciamento ambiental potássio principal matéria prima produção fertilizantes estado amazonas maior produtor potássio extração feita estado amazonas atenderemos demanda nacional importa usado produção local então algo significativo amazonas
+text725
+
+**** *dec_text726 *partido_UNIÃO *uf_AM *deputado_SAULLO_VIANNA
+falando investimento montante bilhões meio dólares longo toda implantação projeto nessa primeira fase obra gerados empregos diretos indiretos longo anos meio somente obras época operação dessa extração gerados mil empregos diretos indiretos dessas vagas empregos mão obra local mudará perspectiva cidade autazes claro estado amazonas
+text726
+
+**** *dec_text727 *partido_UNIÃO *uf_AM *deputado_SAULLO_VIANNA
+total operação falando anos exploração projeto potássio cidade autazes juntamente obra operação extração potássio empresa detentora concessão dessa exploração irá construir linha transmissão energia quilômetros somente planta exploração beneficiará tanto cidade autazes comunidades próximas construída estrada quilômetros passará comunidades vila urucurituba lago toda certeza beneficiará cidade comunidades próximas
+text727
+
+**** *dec_text728 *partido_UNIÃO *uf_AM *deputado_SAULLO_VIANNA
+construído porto tudo extraído possa sair cidade autazes grande obra mudará perspectiva estado amazonas próximos anos única principal matriz econômica zona franca manaus começará haver diversificação economia estado amazonas início implantação projeto potássio município autazes operação próximos anos assim obra pronta algo significativo significativo principalmente estado amazonas
+text728
+
+**** *dec_text729 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+próxima inscrição
+text729
+
+**** *dec_text730 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+enquanto s.exa dirige tribuna quero conceder minuto microfone aparte
+text730
+
+**** *dec_text731 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+v.exas decidam falará pois vejo trata saudação importante
+text731
+
+**** *dec_text732 *partido_PL *uf_RS *deputado_ZUCCO
+quero saudar presença suplente estadual filha grande deputado_federal
+text732
+
+**** *dec_text733 *partido_PL *uf_RS *deputado_ZUCCO
+fica lembrança precisamos mostrar jovens direita figura importantíssima cenário gaúcho prestigiar audiência
+text733
+
+**** *dec_text734 *partido_PDT *uf_RS *deputado_POMPEO_DE_MATTOS
+palavra minuto
+text734
+
+**** *dec_text735 *partido_PL *uf_RS *deputado_BIBO_NUNES
+nobre querido colega fico feliz homenagens digo juventude ocupar espaço política principalmente mulheres digo porque mulheres maioria política política séria política dinâmica política respeitada
+text735
+
+**** *dec_text736 *partido_PL *uf_RS *deputado_BIBO_NUNES
+filha faltaram votos 1ª suplente estadual breve vai ser eleger porque plantando vai colher força luta convicção luta causa
+text736
+
+**** *dec_text737 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+palavra
+text737
+
+**** *dec_text738 *partido_PSOL *uf_RJ *deputado_TARCÍSIO_MOTTA
+marielle parlamentar assassinada ideias tramaram assassinato marielle objetivo incutir medo todos enfrentaram longo tempo milícias estado rio_de_janeiro ousaram enfrentar interesses políticos econômicos milícias rio_de_janeiro motivação além motivação entendemos criminosos dentro aparelho estado conselheiro tribunal contas ex chefe polícia civil ex secretário deputado_federal
+text738
+
+**** *dec_text739 *partido_PSOL *uf_RJ *deputado_TARCÍSIO_MOTTA
+portanto manutenção prisão chiquinho brazão faz todo sentido porque elementos crime flagrante organização criminosa elementos afastamento fiança conta razões levaram prisão preventiva questão manutenção prisão garantir investigação siga influências verdade garantir menos diminuir influências porque milícia segue aparelho estado segue postos poder segue fazendo lobby nesta câmara_dos_deputados vamos denunciar
+text739
+
+**** *dec_text740 *partido_PSOL *uf_RJ *deputado_TARCÍSIO_MOTTA
+escondem atrás filigranas jurídicas soltar relaxar prisão chiquinho brazão determinada juiz sim turma inteira unanimidade stf painel mostrar definitivamente amigos milícia homenageiam milícia nomeiam milicianos gabinetes disso trata votação
+text740
+
+**** *dec_text741 *partido_PSOL *uf_RJ *deputado_TARCÍSIO_MOTTA
+ouvi muita coisa longo desta semana ouvi muita tentativa narrativa colocar questões importantes várias vezes ouvi nome ex preso prisão mantida tempo inteiro diziam favorável bandido sim quebrou placa marielle tripudiou sobre morte marielle daqueles têm mínimo respeito aí dizem hora cada chegará hora cada poderá falar porque medo perder vida precisamos entender
+text741
+
+**** *dec_text742 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+palavra última oradora inscrita
+text742
+
+**** *dec_text743 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+marielle começo terminou
+text743
+
+**** *dec_text744 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+marielle brutalmente assassinada marielle faz posicionemos favor justiça
+text744
+
+**** *dec_text745 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+tudo indica mandante assassinato marielle presa presa forma absolutamente pertinente obstrução justiça obstrução justiça liberar soltar dizer continuar fazendo toda sorte articulações justiça caminhe polícia_federal vasto material indica obstrução justiça
+text745
+
+**** *dec_text746 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+delação executaram próprio assassinato diz garantia parte irmãos brazão punidos porque havia mancomunação setores estado portanto preso obstrução justiça crime flagrante continuado preso organização criminosa relação criminosa subterrâneos rio_de_janeiro deste país
+text746
+
+**** *dec_text747 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+ter qualquer tipo vacilo manutenção desta prisão processo judicial possa ocorrer qualquer tipo interferência crime organizado fortaleça
+text747
+
+**** *dec_text748 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+jurisprudência farta supremo_tribunal_federal tipo prisão preventiva inafiançável paga fiança soltar alguém obstruindo justiça admissível inafiançável
+text748
+
+**** *dec_text749 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+ostentam constituição_federal querem sujá la mesmos estimularam golpe mesmos homenageiam ligados milícias têm relações podem ser ditas relações criminosas
+text749
+
+**** *dec_text750 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+diria defender constituição preciso manter prisão parlamentar obstruindo justiça tudo indica mandante assassinato marielle
+text750
+
+**** *dec_text751 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+porque marielle disse bem
+text751
+
+**** *dec_text752 *partido_PT *uf_DF *deputado_ERIKA_KOKAY
+anderson vamos posicionar manutenção
+text752
+
+**** *dec_text753 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+lista presença registra comparecimento senhoras senhores
+text753
+
+**** *dec_text754 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+queria atenção presentes leitura farei rito vai ser usado sessão
+text754
+
+**** *dec_text755 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+trata proposição curso próprio termos arts regimento interno câmara_dos_deputados
+text755
+
+**** *dec_text756 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+considerando precedentes wilson santiago apreciados meio comunicações medida cautelar nº nº respectivamente comissão_de_constituição_e_justiça cidadania época dois fatos ainda havia sido instalada
+text756
+
+**** *dec_text757 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+considerando trata matéria atinente liberdade parlamentar disciplinada analogia código processo penal cuja decisão constitui matéria foro íntimo
+text757
+
+**** *dec_text758 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+considerando matéria presente comunicação medida cautelar exaustivamente discutida comissão_de_constituição_e_justiça cidadania tendo inclusive sido objeto pedido vista
+text758
+
+**** *dec_text759 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+considerando art regimento interno câmara_dos_deputados disciplina apreciação comunicações medida cautelar cmc faz qualquer menção discussão plenário tão somente aprovação parecer ccjc inclusão ordem dia plenário sequência resultado votação
+text759
+
+**** *dec_text760 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+considerando mencionados precedentes tempo votação respectivamente minutos caso wilson santiago minutos caso
+text760
+
+**** *dec_text761 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+presidência passa definir rito apreciação presente comunicação medida cautelar
+text761
+
+**** *dec_text762 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+franqueada palavra relator matéria ccjc tempo necessário leitura parecer
+text762
+
+**** *dec_text763 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+concedida palavra advogado chiquinho brazão minutos finalmente próprio caso queira prazo
+text763
+
+**** *dec_text764 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+iniciada orientação bancadas prazo improrrogável minuto cada líder deseje orientar concomitantemente aberta votação nominal duração minutos
+text764
+
+**** *dec_text765 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+todo exposto termos acordo firmado líderes partidários haverá discussão encaminhamento matéria concedido acordo lideranças tempo liderança nesta sessão
+text765
+
+**** *dec_text766 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+presidência concede permissão acesso sessão deliberativa advogado representa chiquinho brazão
+text766
+
+**** *dec_text767 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+concedo palavra relator comissão constituição justiça cidadania
+text767
+
+**** *dec_text768 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+permissão vou direto voto
+text768
+
+**** *dec_text769 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+constituição_federal seguindo padrão constituições países democráticos estabeleceu conjunto garantias membros congresso_nacional convém deixar consignado estatuto congressistas contempla privilégios vazios injustificáveis odiosos trata incoercibilidade pessoal congressistas
+text769
+
+**** *dec_text770 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+subjacentes garantias figuram indispensável liberdade atuação independência parlamentares exercício mandato sempre nome representados garantia efetiva soberania popular tratar srs
+text770
+
+**** *dec_text771 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+tais razões senadores invioláveis civil penalmente quaisquer opiniões palavras votos desde expedição diploma podem ser presos salvo flagrante crime inafiançável
+text771
+
+**** *dec_text772 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+observe própria constituição tratando garantias congressistas admitiu possibilidade prisão desde atendidos certos requisitos flagrância inafiançabilidade crime ensejou prisão parlamentar além disso srs manutenção prisão exige manifestação favorável maioria membros pertence parlamentar preso
+text772
+
+**** *dec_text773 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+passamos analisar caso tela trata suposto envolvimento parlamentar cometimento crimes extrema gravidade homicídios qualificados emboscada verdade crimes hediondos inclusive repercussão internacional
+text773
+
+**** *dec_text774 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+registre entanto crime ensejou prisão preventiva chiquinho brazão obstrução justiça envolvimento organização criminosa intuito prejudicar investigação crime hediondo
+text774
+
+**** *dec_text775 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+ver resta claramente configurado estado flagrância crime apontado natureza permanência fato atos obstrução continuavam ser praticados longo tempo
+text775
+
+**** *dec_text776 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+conforme sustenta representação autoridade policial cujas constatações acolhidas supremo atividades organização pleno funcionamento modo ainda persiste periclitação higidez instrução criminal ainda dias atuais possível aferir movimentação chiquinho rivaldo sentido criar obstáculos regular tramitação elucidação fatos circundam homicídio marielle anderson modo sinalizar forma cristalina perenidade condutas
+text776
+
+**** *dec_text777 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+atos praticados obstruir investigações figuram além realização diligências frutíferas providência esperada aparato policial eficiente relata desídia captação análise imagens circuito fechado fundamental importância identificação célere executores elucidação crimes conjunto atos obstrução participação diversas pessoas configurando claro envolvimento organização criminosa
+text777
+
+**** *dec_text778 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+tocante requisito inafiançabilidade cabe análise acerca construção jurisprudencial supremo vem sendo aplicada desde inaugurada julgamento ação cautelar nº ref mc df relator ministro teori zavascki 2ª turma
+text778
+
+**** *dec_text779 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+nesse julgamento srs supremo adotou entendimento regra 2º art constituição_federal absoluta considerada literalidade dispositivo tornaria incabível prisão cautelar inclusive modalidade preventiva sustenta ainda supremo atual redação código processo penal casos concretos tornado afiançáveis todos crimes salvo hediondos equiparados definição constitucional legal
+text779
+
+**** *dec_text780 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+supremo direitos fundamentais absolutos haveria sentido sê la prerrogativa parlamentar imunidade prisão cautelar imunidade absoluta lida literalidade estaria consonância leitura sistemática constituição
+text780
+
+**** *dec_text781 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+dessa forma srs casos concretos presentes requisitos decretação prisão preventiva haveria lógica razoabilidade concessão fiança outras palavras deveria ser afastada afiançabilidade crime presentes requisitos preventiva
+text781
+
+**** *dec_text782 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+diante desse entendimento supremo aplicado alguns precedentes daquela suprema corte somados decisões tomadas mantiveram prisão parlamentar considerada gravidade fatos trazidos decisão adianto considero correta necessária decisão proferida ministro alexandre_de_moraes autos inquérito nº rj ratificada 2ª turma unanimidade pois afigura razoável constituinte originário imaginado imunidade prisão cautelar assegurada parlamentares casos ora examina
+text782
+
+**** *dec_text783 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+obstante respeitável construção jurisprudencial aplicada supremo desde alinho vem sendo confirmada presente momento casas congresso_nacional reconheço tendo vista casos futuros importância aprofundamento debate acerca risco esvaziamento prerrogativas constitucionais congressistas especial inscrita 2º art sobretudo refere requisito inafiançabilidade crimes ensejadores prisão cautelar
+text783
+
+**** *dec_text784 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+ver justifica aprofundamento debate torno questão inafiançabilidade vista possibilidade entender crimes inafiançáveis apenas considerados face definição constitucional legal exemplos racismo tortura tráfico terrorismo ação grupos armados contra ordem constitucional estado democrático hediondos equiparados leve conta presença casos concretos motivos decretação preventiva faço considerações tendo objetivo maior preservação prerrogativas constitucionais parlamentares federais
+text784
+
+**** *dec_text785 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+ante quadro acima exposto considerando presentes requisitos constitucionais flagrante inafiançabilidade além estar adequadamente fundamentada voto preservação eficácia decisão proferida ministro alexandre_de_moraes referendada unanimidade 2ª turma supremo_tribunal_federal autos inquérito nº rj termos projeto resolução anexo
+text785
+
+**** *dec_text786 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+dúvida alguma após episódio pontual srs sras aprofundar debate disse parecer sobre prerrogativas parlamentares entendo prerrogativas parlamentares servem proteger atuação parlamentar prerrogativas parlamentares têm ter lógica preservação interesses coletivos interesses individuais
+text786
+
+**** *dec_text787 *partido_PSD *uf_SC *deputado_DARCI_DE_MATOS
+quero parafrasear encerrar disse ccj podemos admitir use imunidade parlamentar escudo prática crimes
+text787
+
+**** *dec_text788 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+quero encerrar agradecendo dar possibilidade relatar processo ccj catarinense
+text788
+
+**** *dec_text789 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+antes conceder palavra advogado representa chiquinho brazão quero dizer srs sras justiça reunião líderes exceção todos consensualizaram acordo
+text789
+
+**** *dec_text790 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+presente posso falar posso falar hora sessão fala hora reunião
+text790
+
+**** *dec_text791 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+concedo palavra advogado representa chiquinho brazão minutos
+text791
+
+**** *dec_text792 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+todo respeito tempo destinado advogado exauriu dei minuto levando consideração falta possibilidade alegada fala parlamentar darei minutos possa concluir defesa virtude possibilidade fala parlamentar
+text792
+
+**** *dec_text793 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+conforme informado advogado chiquinho brazão fará uso palavra
+text793
+
+**** *dec_text794 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+peço atenção plenário srs sras seguintes esclarecimentos sobre processo votação votação realizada sistema votação eletrônico três opções voto sim abstenção votar sim parlamentar estará votando aprovação parecer manutenção efeitos decisão autos inquérito nº determinou prisão flagrante crime inafiançável chiquinho brazão votar parlamentar estará votando revogação decisão judicial
+text794
+
+**** *dec_text795 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+vale ressaltar aprovação parecer votação ostensiva necessário voto maioria absoluta membros mínimo votos sim parecer conformidade art 2º constituição_federal termos decisão proferida supremo_tribunal_federal ação direta inconstitucionalidade nº
+text795
+
+**** *dec_text796 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+voto abstenção conta efeito quórum deliberação
+text796
+
+**** *dec_text797 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+votação parecer comissão_de_constituição_e_justiça cidadania comunicação medida cautelar nº manutenção efeitos decisão judicial
+text797
+
+**** *dec_text798 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+acordo feito ressalva partidos orientarão bloco líderes quiserem fazer individualmente orientação podem pedir assim farão
+text798
+
+**** *dec_text799 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+partir primeira orientação painel aberto votação contando prazo estipulado acertado reunião líderes
+text799
+
+**** *dec_text800 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+orienta bloco progressistas
+text800
+
+**** *dec_text801 *partido_PL *uf_MT *deputado_ABILIO_BRUNINI
+ordem esclarecimento
+text801
+
+**** *dec_text802 *partido_PL *uf_MT *deputado_ABILIO_BRUNINI
+processo nada prejudica processo conselho ética sobre assunto
+text802
+
+**** *dec_text803 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+precisa fazer pergunta dessas porque todos sabem discutindo cassação processo conselho ética
+text803
+
+**** *dec_text804 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+então favor vamos manter ordem sessão
+text804
+
+**** *dec_text805 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+vamos polemizar
+text805
+
+**** *dec_text806 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+li votar abstenção votar sabe fazendo sabe efeito voto dando crianças assunto sério vamos dissimular sobre
+text806
+
+**** *dec_text807 *partido_SOLIDARIEDADE *uf_RJ *deputado_AUREO_RIBEIRO
+bloco liberado cada partido fazer orientação
+text807
+
+**** *dec_text808 *partido_SOLIDARIEDADE *uf_RJ *deputado_AUREO_RIBEIRO
+vota manutenção prisão
+text808
+
+**** *dec_text809 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+orienta bloco
+text809
+
+**** *dec_text810 *partido_MDB *uf_AL *deputado_ISNALDO_BULHÕES_JR
+diante fato grave teses apresentadas relator apresentou relatório defesa oportunidade manifestar entendimento decisão opinião formada todas parlamentares todos parlamentares conscientes vão votar diante esclarecimento registrar efeito voto abstenção ausência
+text810
+
+**** *dec_text811 *partido_MDB *uf_AL *deputado_ISNALDO_BULHÕES_JR
+portanto diante disso diante desse entendimento
+text811
+
+**** *dec_text812 *partido_MDB *uf_AL *deputado_ISNALDO_BULHÕES_JR
+bancadas menos partidos bloco bloco libera decisão sras parlamentares srs parlamentares
+text812
+
+**** *dec_text813 *partido_PL *uf_RJ *deputado_ALTINEU_CÔRTES
+elucidação caso marielle todo esperou durante últimos anos injustiçados sendo acusado durante anos todo espera justiça neste dia nesta noite tratando disso tratando legalidade prisão chiquinho brazão
+text813
+
+**** *dec_text814 *partido_PL *uf_RJ *deputado_ALTINEU_CÔRTES
+quero chamar atenção parlamentares juramos cumprir constituição assumimos mandato entendimento prisão ilegal fere constituição brasileira
+text814
+
+**** *dec_text815 *partido_PL *uf_RJ *deputado_ALTINEU_CÔRTES
+portanto espera justiça neste caso neste momento orienta contra
+text815
+
+**** *dec_text816 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+orienta federação pv
+text816
+
+**** *dec_text817 *partido_PT *uf_SP *deputado_ALENCAR_SANTANA
+federação pv vota sim expectativa grande torno desse caso desde justiça sendo feita descoberta mandantes daqueles executaram parlamento precisar dar resposta sociedade omitir trata somente morte marielle anderson ocorreu março seis outras pessoas morreram suspeitas sabiam executadas
+text817
+
+**** *dec_text818 *partido_PT *uf_SP *deputado_ALENCAR_SANTANA
+portanto parlamento omitir estaremos dando recado outras pessoas poderão ser vítimas vítima ato praticado obstruir investigação
+text818
+
+**** *dec_text819 *partido_PT *uf_SP *deputado_ALENCAR_SANTANA
+favoráveis votamos sim manutenção prisão preventiva
+text819
+
+**** *dec_text820 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+orienta
+text820
+
+**** *dec_text821 *partido_PSB *uf_PB *deputado_GERVÁSIO_MAIA
+muitos anos espera espera longa relativa crime abalou espera justiça
+text821
+
+**** *dec_text822 *partido_PSB *uf_PB *deputado_GERVÁSIO_MAIA
+nome disso ontem reunião fizemos entendeu manutenção prisão votando sim
+text822
+
+**** *dec_text823 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+orienta federação
+text823
+
+**** *dec_text824 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+coração apertado porque anos esperando justiça marielle anderson ouvindo horrores ditos neste espaço contra memória companheira
+text824
+
+**** *dec_text825 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+sabemos parlamento papel fundamental importante defesa democracia defesa direitos vulneráveis reparação passo história tão brutal contra país
+text825
+
+**** *dec_text826 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+indicação sim sabemos poderemos sair daqui resposta diferente resposta povo brasileiro espera resposta justiça espera resposta precisa continuar trabalhando democracia justiça diversos territórios
+text826
+
+**** *dec_text827 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+trata marielle injustiçado
+text827
+
+**** *dec_text828 *partido_PSOL *uf_SP *deputado_ERIKA_HILTON
+federação orienta sim justiça memória vida trajetória marielle anderson
+text828
+
+**** *dec_text829 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+quais líderes querem orientação final
+text829
+
+**** *dec_text830 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+orienta
+text830
+
+**** *dec_text831 *partido_PCdoB *uf_MA *deputado_MÁRCIO_JERRY
+bancada neste momento muita convicção vota sim
+text831
+
+**** *dec_text832 *partido_PCdoB *uf_MA *deputado_MÁRCIO_JERRY
+precisamos responder dizendo claramente imunidade parlamentar imunidade cometimento crimes ainda crime tão perverso crime hediondo cometido contra marielle contra anderson debate imunidade tão importante ser manchado sangue
+text832
+
+**** *dec_text833 *partido_PCdoB *uf_MA *deputado_MÁRCIO_JERRY
+razão bancada votando convictamente sim sim justiça garantia caso realmente seguirá totalmente esclarecido
+text833
+
+**** *dec_text834 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+orienta
+text834
+
+**** *dec_text835 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+algum líder vai querer orientar
+text835
+
+**** *dec_text836 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+palavra
+text836
+
+**** *dec_text837 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+sustentabilidade matéria vota sim manutenção prisão primeiro levando consideração presa além criminosa afastou cargo tentar utilizar blindagem imunidade material permitido lei má fé aproveitamento jeitinho pudesse escapar daquilo espera prisão
+text837
+
+**** *dec_text838 *partido_REDE *uf_PE *deputado_TÚLIO_GADÊLHA
+orienta sim
+text838
+
+**** *dec_text839 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+algum líder vai querer orientar bancadas individualmente
+text839
+
+**** *dec_text840 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+todos plenário votaram
+text840
+
+**** *dec_text841 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+srs sras presentes fizemos leitura procedimentos dissemos votação ocorreria minutos média duas votações existiram anteriormente passaram minutos segundos votação votantes vamos continuar prazo pedindo solicito apenas presente participe logo votação plenário porque atingirmos quórum constante podemos encerrar antes senão vamos esperar minutos
+text841
+
+**** *dec_text842 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+informo sras srs votação decorre minutos segundos favor peço todos registraram presença plenário votaram façam porque daqui minuto meio votação estará encerrada
+text842
+
+**** *dec_text843 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+posso proclamar resultado favor
+text843
+
+**** *dec_text844 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+vou repetir proclamação resultado
+text844
+
+**** *dec_text845 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+sim manutenção aprovação parecer
+text845
+
+**** *dec_text846 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+aprovado parecer comissão_de_constituição_e_justiça cidadania relativo comunicação medida cautelar nº
+text846
+
+**** *dec_text847 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+sobre mesa resolução consubstancia decisão plenário passo ler
+text847
+
+**** *dec_text848 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+pediria atenção senhores senhoras
+text848
+
+**** *dec_text849 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+presidência considera promulgada nesta sessão presente resolução
+text849
+
+**** *dec_text850 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+determino imediato encaminhamento desta resolução supremo_tribunal_federal juntamente notas taquigráficas desta sessão
+text850
+
+**** *dec_text851 *partido_PP *uf_AL *deputado_ARTHUR_LIRA
+nada havendo tratar vou encerrar trabalhos antes informando presidência convocará oportunamente sessão deliberativa extraordinária data horário ordem dia serem divulgados plenário termos regimentais
+text851

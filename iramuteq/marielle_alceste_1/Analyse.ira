@@ -1,0 +1,25 @@
+[alceste]
+mincl = 0
+encoding = cp1252
+classif_mode = 1
+mode.patate = 0
+nbforme_uce = 0
+expressions = 1
+pathout = C:\Users\jonat\OneDrive\Documentos\2. Projetos R\discurso_caso_brazao\iramuteq\marielle_alceste_1
+uuid = 943dced0-1a12-4d95-8242-8782d7deab7d
+svdmethod = irlba
+nbactives = 1051
+ira = C:\Users\jonat\OneDrive\Documentos\2. Projetos R\discurso_caso_brazao\iramuteq\marielle_alceste_1\Analyse.ira
+corpus = 52f5cecf-efd0-4c0d-b8c7-1209525cc14f
+type = alceste
+clnb = 5
+minforme = 2
+lem = 1
+eff_min_forme = 3
+tailleuc1 = 12
+max_actives = 3000
+name = marielle_alceste_1
+nbcl_p1 = 10
+time = 0h 1m 43s
+nbcl = 4
+tailleuc2 = 14
